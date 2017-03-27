@@ -3,25 +3,9 @@ layout: page
 title: Publications
 ---
 
-<!-- <p class="message">
-Some text
-</p>
-
  
-
-Some Links
-
-* [link](http://hyde.getpoole.com)
-* [anotherlink](http://lanyon.getpoole.com)
-
-
-
-## Title
-
- 
-Thanks for reading! -->
 <div class="posts">
-  {% for post in paginator.posts %}
+  {% for post in site.posts %}
   <div class="post">
     <h1 class="post-title">
       <a href="{{ post.url }}">

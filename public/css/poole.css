@@ -58,6 +58,22 @@ html {
   }
 }
 
+
+#image {
+    /*background: #000 url("http://www.veterinarian.com/uploads/cms/20100622/4c212d6c1ca11.jpg");*/
+    height: 100px;
+    width: 100px;
+    
+     
+}
+#wrap {
+    width: 400px;
+    height: 100px;
+   display: inline-block
+}
+
+
+
 body {
   color: #515151;
   background-color: #fff;
