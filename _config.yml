@@ -1,0 +1,25 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+relative_permalinks: true
+
+# Setup
+title:            Khan Muhammad
+tagline:          'Khan Muhammad'
+description:      ''
+url:              
+baseurl:          /
+
+author:
+  name:           'Noor'
+  url:            
+paginate:         5
+
+# Custom vars
+version:          2.1.0
+
+github:
+  repo:           
