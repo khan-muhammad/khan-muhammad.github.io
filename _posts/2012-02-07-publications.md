@@ -77,7 +77,7 @@ Muhammad Sajjad, <b>Khan Muhammad</b>, Sung Wook Baik, Seungmin Rho, Zahoor Jan,
 
 
 
-##Non-IF Journal Articles
+<h1>Non-IF Journal Articles</h1>
 
 <ol>
   <li>
@@ -118,7 +118,7 @@ Jamil Ahmad, <strong>Khan Muhammad</strong>, and Zahoor Jan, <a href="http://www
 </ol>
 
 
-##Conferences Articles
+<h1>Conferences Articles</h1>
 
 <ol>
 <li>
