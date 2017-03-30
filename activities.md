@@ -21,7 +21,7 @@ title: Professional Activities
 </ul>
 
 <ul><h1>Conference Co-Chair/Committee/Member</h1>
-<li><a href="http://www.platcon.org/", target="_blank">PlatCon-17</a>, Busan, Republic of Korea</li>
+    <li><a href="http://www.platcon.org/" target="_blank">PlatCon-17</a>, Busan, Republic of Korea</li>
     <li>ICNGC2017, Ho Chi Minh, Vietnam</li>
     <li>IEEE AINA 2017, Taipei, Taiwan</li>
     <li>FIT 2016, Islamabad, Pakistan</li>
