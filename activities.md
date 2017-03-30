@@ -22,11 +22,11 @@ title: Professional Activities
 
 <ul><h1>Conference Co-Chair/Committee/Member</h1>
     <li><a href="http://www.platcon.org/" target="_blank">PlatCon-17</a>, Busan, Republic of Korea</li>
-    <li>ICNGC2017, Ho Chi Minh, Vietnam</li>
-    <li>IEEE AINA 2017, Taipei, Taiwan</li>
-    <li>FIT 2016, Islamabad, Pakistan</li>
-    <li>PlatCon-16, Jeju, Republic of Korea</li>
-    <li>MITA 2015, Tashkent, Uzbekistan</li>
+    <li><a href="http://www.kingpc.or.kr/icngc2017/index.html" target="_blank">ICNGC2017</a>, Ho Chi Minh, Vietnam</li>
+    <li><a href="http://voyager.ce.fit.ac.jp/conf/aina/2017/tpc.html" target="_blank">IEEE AINA 2017</a>, Taipei, Taiwan</li>
+    <li><a href="http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=55508&copyownerid=3746" target="_blank">FIT 2016</a>, Islamabad,      Pakistan</li>
+    <li><a href="http://2016.platcon.org/" target="_blank">PlatCon-16</a>, Jeju, Republic of Korea</li>
+    <li><a href="https://sites.google.com/site/icmita2015/index" target="_blank">MITA 2015</a>, Tashkent, Uzbekistan</li> 
 </ul>
 
 <ul><h1>Conference Referee</h1>
