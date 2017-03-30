@@ -2,15 +2,7 @@
 layout: page
 title: Research Areas
 ---
-
- <style type="text/css">
-	
-li{
-	margin-left: 50px;
-}
-
-
-</style>
+ 
 
 <ul><h1>Information Security</h1>
 <li>Image and Video Steganography</li>

@@ -136,6 +136,10 @@ ul, ol, dl {
   margin-bottom: 1rem;
 }
 
+li{
+  margin-left: 40px;
+}
+
 dt {
   font-weight: bold;
 }
