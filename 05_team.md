@@ -1,7 +1,5 @@
 ---
 layout: page
-title: Download
+title: Research Team
 
 ---
-
-

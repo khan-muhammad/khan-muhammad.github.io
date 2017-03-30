@@ -33,5 +33,4 @@ title: Professional Activities
     <li>AINA 2017 (6)</li>
     <li>ICNC 2017 (5)</li>
     <li>ICCCT 2015 (1)</li>
-
 </ul>
