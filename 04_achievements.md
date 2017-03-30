@@ -10,29 +10,38 @@ title: Awards and Achievements
 	}
 
 </style>
-<ol>
+<ul>
 	
 <li>
 	
-	<p>
+	<h2>
 		Outstanding Research Award among Master Pakistani Students at Republic of Korea, 2016
-	</p>
-	<img src="/public/profile-pic1.jpg">
+	</h2>
+	<img src="/public/images/1_image.jpg">
 
 
 
 </li>
-<li>
+
+
+<br>
+<br>
+ 
+
 	
 
-
-<div>
-	<p>
-		MS leading to PhD Fellowship Award, 2015
-	</p>
+ 
+ <li>
+	
+	<h1>
+		Outstanding Research Award among Master Pakistani Students at Republic of Korea, 2016
+	</h1>
 	<img src="/public/images/1_image.jpg">
 
-</div>
+
+ 
+
+ 
 
 
 </li>
@@ -78,4 +87,4 @@ Winner of Speed Programming Competition at Islamia College University Emerging T
   
  
 
-</ol>
+</ul>
