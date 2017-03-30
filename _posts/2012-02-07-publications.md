@@ -118,7 +118,7 @@ Jamil Ahmad, <strong>Khan Muhammad</strong>, and Zahoor Jan, <a href="http://www
 </ol>
 
 
-<h1>Conferences Articles</h1>
+<h1>Peer-Reviewed Conference Proceedings</h1>
 
 <ol>
 <li>
