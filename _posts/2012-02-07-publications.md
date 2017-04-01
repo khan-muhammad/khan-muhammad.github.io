@@ -52,7 +52,7 @@ Muhammad Sajjad, <b>Khan Muhammad</b>, Sung Wook Baik, Seungmin Rho, Zahoor Jan,
 <br>
 
   <li>
-<b>Khan Muhammad</b>, Jamil Ahmad, Naeem Ur Rehman, Zahoor Jan, and Muhammad Sajjad, <a href="https://link.springer.com/article/10.1007/s11042-016-3383-5" target="_blank">CISSKA-LSB: color image steganography using stego key-directed adaptive LSB substitution method</a>, <i>Multimedia Tools and Applications</i>, 1–30, 2016 (In press). [<b>IF</b>: 1.331, Q2]
+<b>Khan Muhammad</b>, Jamil Ahmad, Naeem Ur Rehman, Zahoor Jan, and Muhammad Sajjad, <a href="https://link.springer.com/article/10.1007/s11042-016-3383-5" target="_blank">CISSKA-LSB: color image steganography using stego key-directed adaptive LSB substitution method</a>, <i>Multimedia Tools and Applications</i>, 76(6): 8597–8626, 2017. [<b>IF</b>: 1.331, Q2]
   </li>
 
 <br>
