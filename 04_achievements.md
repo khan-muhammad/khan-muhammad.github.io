@@ -22,32 +22,32 @@ title: Awards and Achievements
  <br>
  
   <li>
-   <h1>
+   <h3>
      MS leading to PhD Fellowship Award, 2015
-   </h1>
+   </h3>
   </li>
 
  <li>
-  <h1>
+  <h3>
    Winner of Software Project Competition at City University, Peshawar, Pakistan, 2014
-   </h1>
+   </h3>
    <img src="/public/winner_cityu_2014.jpg">
   </li>
   <br>
 	
  <li>
-  1st Position Holder of Undergraduate Program, BS 2010-2014 (Gold Medalist)	
+  <h3>1st Position Holder of Undergraduate Program, BS 2010-2014 (Gold Medalist)</h3>	
  </li>	
 
   <li>
-   <h1>
+   <h3>
     Runner Up of Speed Programming Competition at 3rd National Academic Expo, University of Swat, Pakistan, 2014
-   </h1>
+   </h3>
     <img src="/public/swat_2014.jpg">
    </li>
 
  <li>
-   Runner Up of Software Project Competition at 3rd National Academic Expo, University of Swat, Pakistan, 2014	
+   <h3>Runner Up of Software Project Competition at 3rd National Academic Expo, University of Swat, Pakistan, 2014</h3>	
  </li>
 
   <li>
@@ -64,7 +64,7 @@ title: Awards and Achievements
     </li>
 	
    <li>
-     Runner Up of Speed Programming Competition at Abasyn University, Peshawar, Pakistan, 2014	
+     <h3>Runner Up of Speed Programming Competition at Abasyn University, Peshawar, Pakistan, 2014</h3>	
     </li>
 	
    <li>
@@ -75,11 +75,11 @@ title: Awards and Achievements
    </li>
 	
   <li>
-   Student Travel Award (6 students per board around the country, Pakistan), 2010	
+   <h3>Student Travel Award (6 students per board around the country, Pakistan), 2010</h3>	
   </li>
 	
   <li>
-   1st Position Holder of Secondary Schooling, 2006-2008	
+   <h3>1st Position Holder of Secondary Schooling, 2006-2008</h3>	
   </li>
 
 </ul>
