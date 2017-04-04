@@ -70,3 +70,7 @@ title: Awards and Achievements
 	</li>
 
 </ul>
+
+<script src="http://counter.heroku.com/javascripts/count.js" type="text/javascript"></script>	
+<div>Hit Count: <span id = "count"></span><div>
+
