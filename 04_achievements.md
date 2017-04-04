@@ -58,7 +58,11 @@ title: Awards and Achievements
 	</li>
 	
 	<li>
-	Winner of Speed Programming Competition at City University, Peshawar, Pakistan, 2013	
+		h3>
+			Winner of Speed Programming Competition at City University, Peshawar, Pakistan, 2013
+		</h3>
+		<img src="/public/winner_2013">
+	
 	</li>
 	
 	<li>
