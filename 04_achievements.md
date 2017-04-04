@@ -13,9 +13,9 @@ title: Awards and Achievements
 
 <ul>
 	<li>
-		<h2>
+		<h3>
 			Outstanding Research Award among Master Pakistani Students at Republic of Korea, 2016
-		</h2>
+		</h3>
 		<img src="/public/images/1_image.jpg">
 	</li>
 
