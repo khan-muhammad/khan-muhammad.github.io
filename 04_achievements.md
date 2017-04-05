@@ -16,7 +16,7 @@ title: Awards and Achievements
   <h3>
     Outstanding Research Award among Master Pakistani Students at Republic of Korea, 2016
    </h3>
-   <img src="/public/DSC_0469.JPG">
+   <img src="/public/pictures/DSC_0469.JPG">
  </li>
 
  <br>
@@ -31,7 +31,7 @@ title: Awards and Achievements
   <h3>
    Winner of Software Project Competition at City University, Peshawar, Pakistan, 2014
    </h3>
-   <img src="/public/winner_cityu_2014.jpg">
+   <img src="/public/pictures/winner_cityu_2014.jpg">
   </li>
   <br>
 	
@@ -43,7 +43,7 @@ title: Awards and Achievements
    <h3>
     Runner Up of Speed Programming Competition at 3rd National Academic Expo, University of Swat, Pakistan, 2014
    </h3>
-    <img src="/public/swat_2014.jpg">
+    <img src="/public/pictures/swat_2014.jpg">
    </li>
 
  <li>
@@ -54,7 +54,7 @@ title: Awards and Achievements
     <h3>
       Runner up of Software Project Competition at Islamia College University Emerging Technology Competition, Peshawar, Pakistan, 2014	
     </h3>
-    <img src="/public/winner_icp_2014.jpg">
+    <img src="/public/pictures/winner_icp_2014.jpg">
    </li>
 	
    <li>
@@ -71,7 +71,7 @@ title: Awards and Achievements
     <h3>
      Winner of Speed Programming Competition at City University, Peshawar, Pakistan, 2013
      </h3>
-     <img src="/public/winner_2013.jpg">
+     <img src="/public/pictures/winner_2013.jpg">
    </li>
 	
   <li>

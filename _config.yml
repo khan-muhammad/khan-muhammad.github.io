@@ -21,4 +21,9 @@ paginate:         5
 version:          2.1.0
 
 github:
-  repo:           
+  repo:         
+  collections:
+  photos:
+    output: true
+
+ 
