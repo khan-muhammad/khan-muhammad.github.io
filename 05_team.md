@@ -6,10 +6,10 @@ title: Research Team
 
 
 
-<div id="image"><!-- <strong>Google Scholar:</strong> -->  <img src="/public/gs-logo.png"> </div>
+<a   id="image" href="http://home.sejong.ac.kr/~sbaik/" target="_blank">
+        <div id="image">   <img src="/public/swbaik.jpg"></div>Sung Wook Baik
  </a>
  
-  <a   id="test" href="http://dblp.uni-trier.de/pers/hd/m/Muhammad:Khan" target="_blank">
-        <div id="image">   <img src="/public/dblp-logo.png"></div>
+  <a   id="test" href="https://scholar.google.co.kr/citations?user=E4-dElIAAAAJ&hl=en" target="_blank">
+        <div id="image"><img src="/public/khan.jpg"></div>Muhammad Sajjad
  </a>
- </div>
