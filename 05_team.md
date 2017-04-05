@@ -18,7 +18,7 @@ title: Research Team
 <div  style="padding: 30px" >
 	<img width="200px" height="250px" src="/public/pictures/naveed.jpg">
         <a     href="https://scholar.google.co.kr/citations?user=EWORmh8AAAAJ&hl=en" target="_blank">
-        Navedd Ejaz
+        Naveed Ejaz
  		</a>
  		 
 </div>
