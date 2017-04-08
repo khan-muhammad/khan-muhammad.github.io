@@ -8,9 +8,10 @@ title: Professional Activities
 
 <ul><h1>Journal Referee</h1>
     <li>IEEE Transactions on Image Processing 2015 (1), </li>
+    <li>IEEE Access 2017 (1), </li>
     <li>Elsevier Future Generation Computer Systems 2016 (2), 2017 (2)</li>
     <li>Elsevier Signal Processing 2016 (1), 2017 (2)</li>
-    <li>Springer Multimedia Tools and Applications 2015 (8), 2016 (34), 2017 (9)</li>
+    <li>Springer Multimedia Tools and Applications 2015 (8), 2016 (34), 2017 (11)</li>
     <li>Springer Journal of SuperComputing 2016 (2)</li>
     <li>Springer Nonlinear Dynamics 2016 (1), 2017 (1)</li>
     <li>Springer SpringerPlus 2016 (1)</li>
