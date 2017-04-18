@@ -11,7 +11,8 @@
   <br>
 
 <li>
-Rafik Hamza, <b>Khan Muhammad</b>, Zhihan Lv, Faiza Titouna, <a href="http://www.sciencedirect.com/science/article/pii/S1574119217301621" target="_blank">Secure Video Summarization Framework for Personalized Wireless Capsule Endoscopy</a>, <i>Pervasive and Mobile Computing</i>, 2017 (Accepted). [<strong>IF</strong>: 1.719, Q2] 
+Rafik Hamza, <b>Khan Muhammad</b>, Zhihan Lv, Faiza Titouna, <a href="http://www.sciencedirect.com/science/article/pii/S1574119217301621" target="_blank">Secure Video Summarization Framework for Personalized Wireless Capsule Endoscopy</a>, <i>Pervasive and Mobile Computing</i>, 2017 (Accepted). [<strong>IF</strong>: 1.719, Q2]
+<a href="/public/papers/PMC.pdf"> <img src="/public/pictures/pdfminis.png"></a>
   </li>
   
   <br>

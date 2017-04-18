@@ -9,12 +9,12 @@ title: Publications
   {% for post in site.posts %}
   <div class="post">
     <h1 class="post-title">
-      <a href="{{ post.url }}">
+     <!--  <a href="{{ post.url }}">
         {{ post.title }}
-      </a>
+      </a> -->
     </h1>
 
-    <span class="post-date">{{ post.date | date_to_string }}</span>
+    <!-- <span class="post-date">{{ post.date | date_to_string }}</span> -->
 
     {{ post.content }}
   </div>

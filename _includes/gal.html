@@ -1,0 +1,46 @@
+
+<style type="text/css">
+	
+body{
+  	/*background-color:  #212121;*/
+}
+
+.wrapper {
+  display: grid;
+  grid-template-columns: 300px 300px 300px;
+  grid-gap: 10px;
+
+ 
+}
+
+.box {
+  /*background-color: #444;*/
+  width: 400px;
+	height: 100%;
+  color: #fff;
+  border-radius: 5px;
+
+  font-size: 150%;
+}
+  img{
+	width: 300px;
+	height: 300px;
+}
+
+</style>
+<div class="wrapper">
+	{% for image in page.images %}
+	{% if include.image == null or include.image == image.name %}
+	<div class="box a">
+			<a href="{{ page.imgfolder }}/{{ image.name }}"
+			 data-lightbox="1" title="{{ image.text }}">
+			 <img src="{{ page.imgfolder }}/{{ image.thumb }}" 
+			 title="{{ image.text }}">
+	 </a>		
+	</div>
+
+	{% endif %}
+	{% endfor %}
+
+
+</div>
