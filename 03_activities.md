@@ -4,7 +4,15 @@ title: Professional Activities
 
 ---
 
+<style type="text/css">
+     li{
+    
+        font-size: 18px;
+        font-family:"Courier New", Courier, monospace  
+        display:block;
+     }
 
+</style>
 
 <ul><h1>Journal Referee</h1>
     <li>IEEE Transactions on Image Processing 2015 (1), </li>
