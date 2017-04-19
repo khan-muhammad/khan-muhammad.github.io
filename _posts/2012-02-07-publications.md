@@ -1,8 +1,18 @@
  
+<style type="text/css">
 
+.pdflink{
+  display:block;
+  width:37px;
+  height:13px;
+}
+
+ 
+</style>
 <h1>SCI/SCIE/IF Journal Articles</h1>
 
 <ol>
+
 
 <li>
 <b>Khan Muhammad</b>, Jamil Ahmad, and Sung Wook Baik, <a href="https://scholar.google.co.kr/citations?user=k5oUZyQAAAAJ&hl=en" target="_blank">Early Fire Detection using Convolutional Neural Networks during Surveillance for Effective Disaster Management</a>, <i>Neurocomputing</i>, 2017 (In Peer Review). [<strong>IF</strong>: 2.392, Q1] 
@@ -11,8 +21,11 @@
   <br>
 
 <li>
-Rafik Hamza, <b>Khan Muhammad</b>, Zhihan Lv, Faiza Titouna, <a href="http://www.sciencedirect.com/science/article/pii/S1574119217301621" target="_blank">Secure Video Summarization Framework for Personalized Wireless Capsule Endoscopy</a>, <i>Pervasive and Mobile Computing</i>, 2017 (Accepted). [<strong>IF</strong>: 1.719, Q2]
-<a href="/public/papers/PMC.pdf"> <img src="/public/pictures/pdfminis.png"></a>
+Rafik Hamza, <b>Khan Muhammad</b>, Zhihan Lv, Faiza Titouna, <a href="http://www.sciencedirect.com/science/article/pii/S1574119217301621" target="_blank">Secure Video Summarization Framework for Personalized Wireless Capsule Endoscopy</a>, <i>Pervasive and Mobile Computing</i>, 2017 (Accepted). [<strong>IF</strong>: 1.719, Q2] 
+<a class="pdflink" href="/public/papers/PMC.pdf">
+      <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
+</a>
+
   </li>
   
   <br>
