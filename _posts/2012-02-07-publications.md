@@ -1,12 +1,17 @@
  
 <style type="text/css">
-
+ 
 .pdflink{
   display:block;
   width:37px;
   height:13px;
 }
+li{
+  font-size: 15px;
+       font-family:"Courier New", Courier, monospace  
+       display:block;
 
+}
  
 </style>
 <h1>SCI/SCIE/IF Journal Articles</h1>
