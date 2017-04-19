@@ -9,21 +9,18 @@ images:
   - name: KR.jpg
     thumb: KR.jpg
     text: Meeting in Jeju, Republic of Korea
-
   - name: FM.jpg
     thumb: FM.jpg
     text: Mustansir Fiaz Final Defense
   - name: Achasan.jpg
     thumb: Achasan.jpg
     text: Hiking with Malik
-
   - name: khan.jpg
     thumb: khan.jpg
     text: Put some caption
   - name: amin.jpg
     thumb: amin.jpg
-    text: caption of the photo
- 
+    text: caption of the photo 
 ---
 
 
