@@ -141,7 +141,7 @@ Muhammad Sajjad, <b>Khan Muhammad</b>, Sung Wook Baik, Seungmin Rho, Zahoor Jan,
 <ol>
   <li>
 Jamil Ahmad, <strong>Khan Muhammad</strong>, and Zahoor Jan, <a href="http://www.inderscienceonline.com/doi/abs/10.1504/IJAPR.2016.079761" target="_blank">Exploiting angular profiles signature for shape-based image classification and retrieval</a>, <i>International Journal of Applied Pattern Recognition</i>, 3 (3): 276-292, 2016. [<b>ESCI</b>]
-<a class="pdflink" href="/public/papers/Jamil_IJAPR.pdf" target="_blank">
+<a class="pdflink" href="/public/papers/jamil_IJAPR.pdf" target="_blank">
       <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
 </a>
   </li>
@@ -221,7 +221,7 @@ Muhammad Sajjad, Siraj Khan, Muhammad Shoib, Hazrat Ali, Zahoor Jan, <strong>Kha
 
 <li>
 <strong>Khan Muhammad</strong>, Jamil Ahmad, Muhammad Sajjad, Seungmin Rho, and Sung Wook Baik, <a href="http://ieeexplore.ieee.org/document/7456799/" target="_blank">Evaluating the Suitability of Color Spaces for Image Steganography and Its Application in Wireless Capsule Endoscopy</a>, In <i>International Conference on Platform Technology and Service (PlatCon)</i>, 2016, (pp. 1-3). (Jeju, Republic of Korea).
-<a class="pdflink" href="/public/papers/Platcon_2016.pdf" target="_blank">
+<a class="pdflink" href="/public/papers/Platcon_16.pdf" target="_blank">
       <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
 </a>
 </li>
@@ -230,7 +230,7 @@ Muhammad Sajjad, Siraj Khan, Muhammad Shoib, Hazrat Ali, Zahoor Jan, <strong>Kha
 
 <li>
 Jamil Ahmad, <strong>Khan Muhammad</strong>, Sung-il Kwon, Seungmin Rho, and Sung Wook Baik, <a href="http://ieeexplore.ieee.org/document/7456788/" target="_blank">Dempster-Shafer Fusion Based Gender Recognition for Speech Analysis Applications</a>, In <i>International Conference on Platform Technology and Service (PlatCon)</i>, 2016, (pp. 1-4). (Jeju, Republic of Korea).
-<a class="pdflink" href="/public/papers/DST_Platcon2016.pdf" target="_blank">
+<a class="pdflink" href="/public/papers/DST_Platcon16.pdf" target="_blank">
       <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
 </a>
 </li>
