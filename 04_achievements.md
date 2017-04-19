@@ -8,78 +8,84 @@ title: Awards and Achievements
 
 		background: #fefefe;
 	}
+  p{
+
+    font-family:"Courier New", Courier, monospace  
+    color:#000;
+
+  }
 
 </style>
 
 <ul>
  <li>
-  <h3>
+  <p>
     Outstanding Research Award among Master Pakistani Students at Republic of Korea, 2016
-   </h3>
+   </p>
    <img src="/public/pictures/DSC_0469.JPG">
  </li>
 
  <br>
  
   <li>
-   <h3>
+   <p>
      MS leading to PhD Fellowship Award, 2015
-   </h3>
+   </p>
   </li>
 
  <li>
-  <h3>
+  <p>
    Winner of Software Project Competition at City University, Peshawar, Pakistan, 2014
-   </h3>
+   </p>
    <img src="/public/pictures/winner_cityu_2014.jpg">
   </li>
   <br>
 	
  <li>
-  <h3>1st Position Holder of Undergraduate Program, BS 2010-2014 (Gold Medalist)</h3>	
+  <p>1st Position Holder of Undergraduate Program, BS 2010-2014 (Gold Medalist)</p>	
  </li>	
 
   <li>
-   <h3>
+   <p>
     Runner Up of Speed Programming Competition at 3rd National Academic Expo, University of Swat, Pakistan, 2014
-   </h3>
+   </p>
     <img src="/public/pictures/swat_2014.jpg">
    </li>
 
  <li>
-   <h3>Runner Up of Software Project Competition at 3rd National Academic Expo, University of Swat, Pakistan, 2014</h3>	
+   <p>Runner Up of Software Project Competition at 3rd National Academic Expo, University of Swat, Pakistan, 2014</p>	
  </li>
 
   <li>
-    <h3>
+    <p>
       Runner up of Software Project Competition at Islamia College University Emerging Technology Competition, Peshawar, Pakistan, 2014	
-    </h3>
+    </p>
     <img src="/public/pictures/winner_icp_2014.jpg">
    </li>
 	
    <li>
-    <h3>
+    <p>
       Winner of Speed Programming Competition at Islamia College University Emerging Technology Competition, Peshawar, Pakistan, 2014
-    </h3>	
+    </p>	
     </li>
 	
    <li>
-     <h3>Runner Up of Speed Programming Competition at Abasyn University, Peshawar, Pakistan, 2014</h3>	
+     <p>Runner Up of Speed Programming Competition at Abasyn University, Peshawar, Pakistan, 2014</p>	
     </li>
 	
    <li>
-    <h3>
+    <p>
      Winner of Speed Programming Competition at City University, Peshawar, Pakistan, 2013
-     </h3>
+     </p>
      <img src="/public/pictures/winner_2013.jpg">
    </li>
 	
   <li>
-   <h3>Student Travel Award (6 students per board around the country, Pakistan), 2010</h3>	
+   <p>Student Travel Award (6 students per board around the country, Pakistan), 2010</p>	
   </li>
 	
   <li>
-   <h3>1st Position Holder of Secondary Schooling, 2006-2008</h3>	
+   <p>1st Position Holder of Secondary Schooling, 2006-2008</p>	
   </li>
 
 </ul>

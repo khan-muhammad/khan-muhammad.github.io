@@ -7,7 +7,7 @@
   height:13px;
 }
 li{
-  font-size: 15px;
+  font-size: 18px;
        font-family:"Courier New", Courier, monospace  
        display:block;
 
