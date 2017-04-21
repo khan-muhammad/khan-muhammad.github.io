@@ -1,3 +1,3 @@
-# [Khan Muhammad](khan-muhammad.github.io)
+# [Khan Muhammad](https://khan-muhammad.github.io)
 This repository contain the code of my homepage on github.
-[khan-muhammad.github.io](khan-muhammad.github.io)
+[khan-muhammad.github.io](https://khan-muhammad.github.io)
