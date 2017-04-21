@@ -3,7 +3,11 @@ layout: page
 title: Publications
  
 ---
+<style type="'text/css'">
+  
 
+
+</style>
  
 <div class="posts">
   {% for post in site.posts %}
