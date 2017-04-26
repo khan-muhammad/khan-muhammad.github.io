@@ -42,9 +42,9 @@ images:
   - name: folk_2015.jpg
     thumb: folk_2015.jpg
     text: A visit to Lottle World Folk Museum, Jamsil, Seoul, Republic of Korea
-  - name: birthday_2017.jpg
-    thumb: birthday_2017.jpg
-    text: My birthday 2017. Moments of enjoyment with Prof. Irfan Mehmood, Prof. Maqbool Husaain and other Lab Members
+  - name: khan_2015.jpg
+    thumb: khan_2015.jpg
+    text: A snapshot from 2015 at Achasan Mountain, Seoul, Korea
  
 ---
 
