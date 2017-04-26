@@ -34,10 +34,10 @@ images:
     thumb: y_2016_1.jpg
     text: A visit to Yeouido Park in Seoul, Korea with Lab Members
   - name: o_2015_1.jpg
-    thumb: 0_2015_1.jpg
+    thumb: o_2015_1.jpg
     text: A visit to Olympic Park in Seoul, Korea with Lab Members and Korean Friends
   - name: o_2015_2.jpg
-    thumb: 0_2015_2.jpg
+    thumb: o_2015_2.jpg
     text: A visit to Olympic Park in Seoul, Korea with Lab Members and Korean Friends
   - name: birthday_2017.jpg
     thumb: birthday_2017.jpg
