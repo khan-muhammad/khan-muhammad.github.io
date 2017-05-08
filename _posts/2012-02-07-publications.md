@@ -20,7 +20,13 @@ li{
 
 
 <li>
-<b>Khan Muhammad</b>, Jamil Ahmad, and Sung Wook Baik, <a href="https://scholar.google.co.kr/citations?user=k5oUZyQAAAAJ&hl=en" target="_blank">Early Fire Detection using Convolutional Neural Networks during Surveillance for Effective Disaster Management</a>, <i>Neurocomputing</i>, 2017 (In Peer Review). [<strong>IF</strong>: 2.392, Q1] 
+<b>Khan Muhammad</b>, Jamil Ahmad, Irfan Mehmood, Seungmin Rho and Sung Wook Baik, <a href="https://scholar.google.co.kr/citations?user=k5oUZyQAAAAJ&hl=en" target="_blank">Convolutional Neural Networks based Fire Detection in Surveillance Videos</a>, <i>Journal of Parallel and Distributed Computing</i>, 2017 (In Peer Review). [<strong>IF</strong>: 1.320, Q2] 
+  </li>
+  
+  <br>
+
+<li>
+<b>Khan Muhammad</b>, Jamil Ahmad, and Sung Wook Baik, <a href="https://www.journals.elsevier.com/neurocomputing/" target="_blank">Early Fire Detection using Convolutional Neural Networks during Surveillance for Effective Disaster Management</a>, <i>Neurocomputing</i>, 2017 (Accepted). [<strong>IF</strong>: 2.392, Q1] 
   </li>
   
   <br>
