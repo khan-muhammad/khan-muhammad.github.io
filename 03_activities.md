@@ -21,11 +21,13 @@ title: Professional Activities
     <li>Elsevier Signal Processing 2016 (1), 2017 (2)</li>
     <li>Springer Multimedia Tools and Applications 2015 (8), 2016 (34), 2017 (11)</li>
     <li>Springer Journal of SuperComputing 2016 (2)</li>
+    <li>Springer Cluser Computing 2017 (2)</li>
     <li>Springer Nonlinear Dynamics 2016 (1), 2017 (1)</li>
     <li>Springer SpringerPlus 2016 (1)</li>
-    <li>Journal of Experimental and Theoretical Artificial Intelligence 2015 (3)</li>
+    <li>Taylor & Francis Journal of Experimental and Theoretical Artificial Intelligence 2015 (3)</li>
     <li>International Journal of Business Intelligence and Data Mining 2017 (1)</li>
     <li>NED University Journal of Research 2016 (2)</li>
+    <li>EAI Endorsed Transactions on Security and Privacy 2017 (1)</li>
 
 </ul>
 
