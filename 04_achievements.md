@@ -9,7 +9,6 @@ title: Awards and Achievements
 		background: #fefefe;
 	}
   p{
-
     font-family:"Courier New", Courier, monospace  
     color:#000;
 
