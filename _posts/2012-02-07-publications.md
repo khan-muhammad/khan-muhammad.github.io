@@ -20,13 +20,19 @@ li{
 
 
 <li>
-<b>Khan Muhammad</b>, Jamil Ahmad, and Sung Wook Baik, <a href="https://scholar.google.co.kr/citations?user=k5oUZyQAAAAJ&hl=en" target="_blank">Early Fire Detection using Convolutional Neural Networks during Surveillance for Effective Disaster Management</a>, <i>Neurocomputing</i>, 2017 (In Peer Review). [<strong>IF</strong>: 2.392, Q1] 
+<b>Khan Muhammad</b>, Jamil Ahmad, Irfan Mehmood, Seungmin Rho and Sung Wook Baik, <a href="https://scholar.google.co.kr/citations?user=k5oUZyQAAAAJ&hl=en" target="_blank">Convolutional Neural Networks based Fire Detection in Surveillance Videos</a>, <i>Journal of Parallel and Distributed Computing</i>, 2017 (In Peer Review). [<strong>IF</strong>: 1.320, Q2] 
   </li>
   
   <br>
 
 <li>
-Rafik Hamza, <b>Khan Muhammad</b>, Zhihan Lv, Faiza Titouna, <a href="http://www.sciencedirect.com/science/article/pii/S1574119217301621" target="_blank">Secure Video Summarization Framework for Personalized Wireless Capsule Endoscopy</a>, <i>Pervasive and Mobile Computing</i>, 2017 (Accepted). [<strong>IF</strong>: 1.719, Q2] 
+<b>Khan Muhammad</b>, Jamil Ahmad, and Sung Wook Baik, <a href="https://www.journals.elsevier.com/neurocomputing/" target="_blank">Early Fire Detection using Convolutional Neural Networks during Surveillance for Effective Disaster Management</a>, <i>Neurocomputing</i>, 2017 (Accepted). [<strong>IF</strong>: 2.392, Q1] 
+  </li>
+  
+  <br>
+
+<li>
+Rafik Hamza, <b>Khan Muhammad</b>, Zhihan Lv, Faiza Titouna, <a href="http://www.sciencedirect.com/science/article/pii/S1574119217301621" target="_blank">Secure Video Summarization Framework for Personalized Wireless Capsule Endoscopy</a>, <i>Pervasive and Mobile Computing</i>, 2017 (In Press). [<strong>IF</strong>: 1.719, Q2] 
 <a class="pdflink" href="/public/papers/PMC.pdf" target="_blank">
       <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
 </a>
