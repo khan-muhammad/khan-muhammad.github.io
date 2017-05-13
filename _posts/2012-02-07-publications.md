@@ -14,7 +14,7 @@ li{
 }
  
 </style>
-<h1>SCI/SCIE/IF Journal Articles</h1>
+<h1>SCI/SCIE/IF Journal Articles (14)</h1>
 
 <ol>
 
@@ -142,7 +142,7 @@ Muhammad Sajjad, <b>Khan Muhammad</b>, Sung Wook Baik, Seungmin Rho, Zahoor Jan,
 
 
 
-<h1>Non-IF Journal Articles</h1>
+<h1>Non-IF Journal Articles (7)</h1>
 
 <ol>
   <li>
@@ -204,7 +204,7 @@ Jamil Ahmad, <strong>Khan Muhammad</strong>, and Zahoor Jan, <a href="http://www
 </ol>
 
 
-<h1>Peer-Reviewed Conference Proceedings</h1>
+<h1>Peer-Reviewed Conference Proceedings (5)</h1>
 
 <ol>
 <li>
