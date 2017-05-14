@@ -32,6 +32,7 @@ title: Professional Activities
 </ul>
 
 <ul><h1>Conference Co-Chair/Committee/Member</h1>
+    <li><a href="http://www.icidic.org/cfp_eng/" target="_blank">IDICID-17</a>, Kaohsiung, Taiwan.</li>
     <li><a href="http://www.platcon.org/" target="_blank">PlatCon-17</a>, Busan, Republic of Korea</li>
     <li><a href="http://www.kingpc.or.kr/icngc2017/index.html" target="_blank">ICNGC2017</a>, Ho Chi Minh, Vietnam</li>
     <li><a href="http://voyager.ce.fit.ac.jp/conf/aina/2017/tpc.html" target="_blank">IEEE AINA 2017</a>, Taipei, Taiwan</li>
