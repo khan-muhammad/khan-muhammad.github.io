@@ -9,6 +9,9 @@ images:
   - name: irfan_defense.jpg
     thumb: irfan_defense.jpg
     text: Irfan Mehmood PhD Defense, 2015 at Sejong University, Seoul, Republic of Korea
+   - name: dinner_2017.jpg
+    thumb: dinner_2017.jpg
+    text: After dinner with Prof. Sung WooK Baik at Kervan Restaurant, Co-Ex Mall, Seoul (22 May, 2017).
   - name: FM-3.jpg
     thumb: FM-3.jpg
     text: Mustansir Fiaz Final Defense
