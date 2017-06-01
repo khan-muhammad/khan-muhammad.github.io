@@ -18,6 +18,17 @@ li{
 
 <ol>
 
+<li>
+Muhammad Sajjad, Muhammad Shoaib, <b>Khan Muhammad</b>, Zahoor Jan, S.Wang, J.T Kwak, Sung Wook Baik, and Irfan Mehmood, <a href="http://ieeexplore.ieee.org/document/7782368/" target="_blank">An Efficient Computerized Decision Support System for the Analysis and 3D Visualization of Brain MRI</a>, <i>IEEE Access</i>, 2017 (In Peer Review). [<b>IF</b>: 1.270, Q2]
+  </li>
+
+<br>
+
+<li>
+Jamil Ahmad, <b>Khan Muhammad</b>, and Sung Wook Baik, <a href="http://journals.plos.org/plosone/" target="_blank">Data Augmentation-Assisted Deep Learning of Hand-Drawn Partially Colored Sketches for Visual Search</a>, <i>Plos One</i>, 2017 (In Peer Review). [<strong>IF</strong>: 3.057, Q1] 
+  </li>
+  
+  <br>
 
 <li>
 <b>Khan Muhammad</b>, Jamil Ahmad, Irfan Mehmood, Seungmin Rho and Sung Wook Baik, <a href="https://scholar.google.co.kr/citations?user=k5oUZyQAAAAJ&hl=en" target="_blank">Convolutional Neural Networks based Fire Detection in Surveillance Videos</a>, <i>Journal of Parallel and Distributed Computing</i>, 2017 (In Peer Review). [<strong>IF</strong>: 1.320, Q2] 
