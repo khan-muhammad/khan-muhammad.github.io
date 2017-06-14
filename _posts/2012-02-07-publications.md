@@ -14,9 +14,27 @@ li{
 }
  
 </style>
-<h1>SCI/SCIE/IF Journal Articles (14)</h1>
+<h1>SCI/SCIE/IF Journal Articles (19)</h1>
 
 <ol>
+
+<li>
+Nasir Rahim, Jamil Ahmad, <b>Khan Muhammad</b>, Shuihua Wang, and Sung Wook Baik, <a href="https://www.journals.elsevier.com/computers-and-electrical-engineering/" target="_blank">Privacy-Preserving Image Retrieval for Mobile Devices with Deep Features on the Cloud</a>, <i>Computers & Electrical Engineering</i>, 2017 (In Peer Review). [<b>IF</b>: 1.084, Q2]
+  </li>
+
+<br>
+
+<li>
+Mansoor Nasir, Naveed Abbas, Tamleek Ali Tanveer, <b>Khan Muhammad</b>, Muhammad Sajjad, et al., <a href="http://www.springer.com/computer/communication+networks/journal/10922" target="_blank">Towards Prioritization in Distributed Alert Fusion using Distributed Hash Tables</a>, <i>Journal of Network and Systems Management</i>, 2017 (In Peer Review). [<b>IF</b>: 1.078, Q2]
+  </li>
+
+<br>
+
+<li>
+Muhammad Sajjad, Mansoor Nasir, <b>Khan Muhammad</b>, Siraj Khan, Zahoor Jan, and Sung Wook Baik, <a href="https://www.journals.elsevier.com/future-generation-computer-systems/" target="_blank">Raspberry Pi Assisted Face Recognition Framework for Enhanced Law-Enforcement Services in Smart Cities</a>, <i>Future Generation Computer Systems</i>, 2017 (In Peer Review). [<b>IF</b>: 2.430, Q1]
+  </li>
+
+<br>
 
 <li>
 Muhammad Sajjad, Muhammad Shoaib, <b>Khan Muhammad</b>, Zahoor Jan, S.Wang, J.T Kwak, Sung Wook Baik, and Irfan Mehmood, <a href="http://ieeexplore.ieee.org/document/7782368/" target="_blank">An Efficient Computerized Decision Support System for the Analysis and 3D Visualization of Brain MRI</a>, <i>IEEE Access</i>, 2017 (In Peer Review). [<b>IF</b>: 1.270, Q2]
