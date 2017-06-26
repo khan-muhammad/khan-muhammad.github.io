@@ -19,49 +19,49 @@ li{
 <ol>
 
 <li>
-Nasir Rahim, Jamil Ahmad, <b>Khan Muhammad</b>, Shuihua Wang, and Sung Wook Baik, <a href="https://www.journals.elsevier.com/computers-and-electrical-engineering/" target="_blank">Privacy-Preserving Image Retrieval for Mobile Devices with Deep Features on the Cloud</a>, <i>Computers & Electrical Engineering</i>, 2017 (In Peer Review). [<b>IF</b>: 1.084, Q2]
+Nasir Rahim, Jamil Ahmad, <b>Khan Muhammad</b>, Shuihua Wang, and Sung Wook Baik, <a href="https://www.journals.elsevier.com/computers-and-electrical-engineering/" target="_blank">Privacy-Preserving Image Retrieval for Mobile Devices with Deep Features on the Cloud</a>, <i>Computers & Electrical Engineering</i>, 2017 (In Peer Review). [<b>IF</b>: 1.570, Q2]
   </li>
 
 <br>
 
 <li>
-Mansoor Nasir, Naveed Abbas, Tamleek Ali Tanveer, <b>Khan Muhammad</b>, Muhammad Sajjad, et al., <a href="http://www.springer.com/computer/communication+networks/journal/10922" target="_blank">Towards Prioritization in Distributed Alert Fusion using Distributed Hash Tables</a>, <i>Journal of Network and Systems Management</i>, 2017 (In Peer Review). [<b>IF</b>: 1.078, Q2]
+Mansoor Nasir, Naveed Abbas, Tamleek Ali Tanveer, <b>Khan Muhammad</b>, Muhammad Sajjad, et al., <a href="http://www.springer.com/computer/communication+networks/journal/10922" target="_blank">Towards Prioritization in Distributed Alert Fusion using Distributed Hash Tables</a>, <i>Journal of Network and Systems Management</i>, 2017 (In Peer Review). [<b>IF</b>: 1.588, Q2]
   </li>
 
 <br>
 
 <li>
-Muhammad Sajjad, Mansoor Nasir, <b>Khan Muhammad</b>, Siraj Khan, Zahoor Jan, and Sung Wook Baik, <a href="https://www.journals.elsevier.com/future-generation-computer-systems/" target="_blank">Raspberry Pi Assisted Face Recognition Framework for Enhanced Law-Enforcement Services in Smart Cities</a>, <i>Future Generation Computer Systems</i>, 2017 (In Peer Review). [<b>IF</b>: 2.430, Q1]
+Muhammad Sajjad, Mansoor Nasir, <b>Khan Muhammad</b>, Siraj Khan, Zahoor Jan, and Sung Wook Baik, <a href="https://www.journals.elsevier.com/future-generation-computer-systems/" target="_blank">Raspberry Pi Assisted Face Recognition Framework for Enhanced Law-Enforcement Services in Smart Cities</a>, <i>Future Generation Computer Systems</i>, 2017 (In Peer Review). [<b>IF</b>: 3.997, Q1]
   </li>
 
 <br>
 
 <li>
-Muhammad Sajjad, Muhammad Shoaib, <b>Khan Muhammad</b>, Zahoor Jan, S.Wang, J.T Kwak, Sung Wook Baik, and Irfan Mehmood, <a href="http://ieeexplore.ieee.org/document/7782368/" target="_blank">An Efficient Computerized Decision Support System for the Analysis and 3D Visualization of Brain MRI</a>, <i>IEEE Access</i>, 2017 (In Peer Review). [<b>IF</b>: 1.270, Q2]
+Muhammad Sajjad, Muhammad Shoaib, <b>Khan Muhammad</b>, Zahoor Jan, S.Wang, J.T Kwak, Sung Wook Baik, and Irfan Mehmood, <a href="http://ieeexplore.ieee.org/document/7782368/" target="_blank">An Efficient Computerized Decision Support System for the Analysis and 3D Visualization of Brain MRI</a>, <i>IEEE Access</i>, 2017 (In Peer Review). [<b>IF</b>: 3.224, Q1]
   </li>
 
 <br>
 
 <li>
-Jamil Ahmad, <b>Khan Muhammad</b>, and Sung Wook Baik, <a href="http://journals.plos.org/plosone/" target="_blank">Data Augmentation-Assisted Deep Learning of Hand-Drawn Partially Colored Sketches for Visual Search</a>, <i>Plos One</i>, 2017 (In Peer Review). [<strong>IF</strong>: 3.057, Q1] 
+Jamil Ahmad, <b>Khan Muhammad</b>, and Sung Wook Baik, <a href="http://journals.plos.org/plosone/" target="_blank">Data Augmentation-Assisted Deep Learning of Hand-Drawn Partially Colored Sketches for Visual Search</a>, <i>Plos One</i>, 2017 (In Peer Review). [<strong>IF</strong>: 2.806, Q1] 
   </li>
   
   <br>
 
 <li>
-<b>Khan Muhammad</b>, Jamil Ahmad, Irfan Mehmood, Seungmin Rho and Sung Wook Baik, <a href="https://scholar.google.co.kr/citations?user=k5oUZyQAAAAJ&hl=en" target="_blank">Convolutional Neural Networks based Fire Detection in Surveillance Videos</a>, <i>Journal of Parallel and Distributed Computing</i>, 2017 (In Peer Review). [<strong>IF</strong>: 1.320, Q2] 
+<b>Khan Muhammad</b>, Jamil Ahmad, Irfan Mehmood, Seungmin Rho and Sung Wook Baik, <a href="https://scholar.google.co.kr/citations?user=k5oUZyQAAAAJ&hl=en" target="_blank">Convolutional Neural Networks based Fire Detection in Surveillance Videos</a>, <i>Journal of Parallel and Distributed Computing</i>, 2017 (In Peer Review). [<strong>IF</strong>: 1.930, Q2] 
   </li>
   
   <br>
 
 <li>
-<b>Khan Muhammad</b>, Jamil Ahmad, and Sung Wook Baik, <a href="https://www.journals.elsevier.com/neurocomputing/" target="_blank">Early Fire Detection using Convolutional Neural Networks during Surveillance for Effective Disaster Management</a>, <i>Neurocomputing</i>, 2017 (Accepted). [<strong>IF</strong>: 2.392, Q1] 
+<b>Khan Muhammad</b>, Jamil Ahmad, and Sung Wook Baik, <a href="https://www.journals.elsevier.com/neurocomputing/" target="_blank">Early Fire Detection using Convolutional Neural Networks during Surveillance for Effective Disaster Management</a>, <i>Neurocomputing</i>, 2017 (Accepted). [<strong>IF</strong>: 3.317, Q1] 
   </li>
   
   <br>
 
 <li>
-Rafik Hamza, <b>Khan Muhammad</b>, Zhihan Lv, Faiza Titouna, <a href="http://www.sciencedirect.com/science/article/pii/S1574119217301621" target="_blank">Secure Video Summarization Framework for Personalized Wireless Capsule Endoscopy</a>, <i>Pervasive and Mobile Computing</i>, 2017 (In Press). [<strong>IF</strong>: 1.719, Q2] 
+Rafik Hamza, <b>Khan Muhammad</b>, Zhihan Lv, Faiza Titouna, <a href="http://www.sciencedirect.com/science/article/pii/S1574119217301621" target="_blank">Secure Video Summarization Framework for Personalized Wireless Capsule Endoscopy</a>, <i>Pervasive and Mobile Computing</i>, 2017 (In Press). [<strong>IF</strong>: 2.349, Q2] 
 <a class="pdflink" href="/public/papers/PMC.pdf" target="_blank">
       <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
 </a>
@@ -71,7 +71,7 @@ Rafik Hamza, <b>Khan Muhammad</b>, Zhihan Lv, Faiza Titouna, <a href="http://www
   <br>
 
 <li>
-Zahoor Jan, Arshad Khan, Muhammad Sajjad, <b>Khan Muhammad</b>, Seungmin Rho, Irfan Mehmood, <a href="https://link.springer.com/article/10.1007/s11042-017-4495-2" target="_blank">A review on automated diagnosis of malaria parasite in microscopic blood smears images</a>, <i>Multimedia Tools and Applications</i>, 2016 (In press). [<strong>IF</strong>: 1.331, Q2]
+Zahoor Jan, Arshad Khan, Muhammad Sajjad, <b>Khan Muhammad</b>, Seungmin Rho, Irfan Mehmood, <a href="https://link.springer.com/article/10.1007/s11042-017-4495-2" target="_blank">A review on automated diagnosis of malaria parasite in microscopic blood smears images</a>, <i>Multimedia Tools and Applications</i>, 2016 (In press). [<strong>IF</strong>: 1.530, Q2]
 <a class="pdflink" href="/public/papers/MTAP_malaria.pdf" target="_blank">
       <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
 </a>
@@ -80,7 +80,7 @@ Zahoor Jan, Arshad Khan, Muhammad Sajjad, <b>Khan Muhammad</b>, Seungmin Rho, Ir
   <br>
   
   <li>
-<strong>Khan Muhammad</strong>, Jamil Ahmad, Seungmin Rho, and Sung Wook Baik, <a href="https://link.springer.com/article/10.1007/s11042-017-4420-8" target="_blank">Image Steganography for Authenticity of Visual Contents in Social Networks</a>, <i>Multimedia Tools and Applications</i>, 2016 (In press). [<strong>IF</strong>: 1.331, Q2]
+<strong>Khan Muhammad</strong>, Jamil Ahmad, Seungmin Rho, and Sung Wook Baik, <a href="https://link.springer.com/article/10.1007/s11042-017-4420-8" target="_blank">Image Steganography for Authenticity of Visual Contents in Social Networks</a>, <i>Multimedia Tools and Applications</i>, 2016 (In press). [<strong>IF</strong>: 1.530, Q2]
 <a class="pdflink" href="/public/papers/MTAP_Social_Networks.pdf" target="_blank">
       <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
 </a>
@@ -98,7 +98,7 @@ Muhammad Sajjad, Siraj Khan, Zahoor Jan, <b>Khan Muhammad</b>, H. Moon, J.T Kwak
 <br>
 
   <li>
-<b>Khan Muhammad</b>, Muhammad Sajjad, Irfan Mehmood, Seungmin Rho, and Sung Wook Baik, <a href="http://www.sciencedirect.com/science/article/pii/S0167739X16306768" target="_blank">Image steganography using uncorrelated color space and its application for security of visual contents in online social networks</a>, <i>Future Generation Computer Systems</i>, 2016. (In press). [<b>IF</b>: 2.430, Q1]
+<b>Khan Muhammad</b>, Muhammad Sajjad, Irfan Mehmood, Seungmin Rho, and Sung Wook Baik, <a href="http://www.sciencedirect.com/science/article/pii/S0167739X16306768" target="_blank">Image steganography using uncorrelated color space and its application for security of visual contents in online social networks</a>, <i>Future Generation Computer Systems</i>, 2016. (In press). [<b>IF</b>: 3.997, Q1]
 <a class="pdflink" href="/public/papers/FGCS_Online.pdf" target="_blank">
       <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
 </a>
