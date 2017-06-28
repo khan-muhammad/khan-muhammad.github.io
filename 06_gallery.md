@@ -3,6 +3,9 @@ layout: page
 title: Photo Gallery
 imgfolder: /public/gallery-pictures
 images:
+  - name: dinner_2017.jpg
+    thumb: dinner_2017.jpg
+    text: Dinner with Prof. Sung Wook Baik at Kervan Resturant, Co-Ex Mall, Seoul, Republic of Korea
   - name: sajjad_defense.jpg
     thumb: sajjad_defense.jpg
     text: Muhammad Sajjad PhD Defense, 2015 at Sejong University, Seoul, Republic of Korea
