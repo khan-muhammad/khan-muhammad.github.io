@@ -14,12 +14,24 @@ li{
 }
  
 </style>
-<h1>SCI/SCIE/IF Journal Articles (19)</h1>
+<h1>SCI/SCIE/IF Journal Articles (21)</h1>
 
 <ol>
 
 <li>
 Nasir Rahim, Jamil Ahmad, <b>Khan Muhammad</b>, Shuihua Wang, and Sung Wook Baik, <a href="https://www.journals.elsevier.com/computers-and-electrical-engineering/" target="_blank">Privacy-Preserving Image Retrieval for Mobile Devices with Deep Features on the Cloud</a>, <i>Computers & Electrical Engineering</i>, 2017 (In Peer Review). [<b>IF</b>: 1.570, Q2]
+  </li>
+
+<br>
+
+<li>
+Rafik Hamza, <b>Khan Muhammad</b>, P.Bellavista, Faiza Titouna, <a href="https://link.springer.com/journal/11276" target="_blank">A Fast Image Encryption Scheme based on New PRNG for Keyframes Extracted during Wireless Capsule Endoscopy</a>, <i>Wireless Networks</i>, 2017 (In Peer Review). [<b>IF</b>: 1.584, Q2]
+  </li>
+
+<br>
+
+<li>
+Abdul Malik Badshah, Nasir Rahim, Noor Ullah, Jamil Ahmad, <b>Khan Muhammad</b>, Mi Young Lee, Soon-Il Kwan, and Sung Wook Baik, <a href="http://www.springer.com/computer/information+systems+and+applications/journal/11042" target="_blank">Deep Features-Based Speech Emotion Recognition for Smart Affective Services</a>, <i>Multimedia Tools and Applications</i>, 2017 (In Peer Review). [<b>IF</b>: 1.530, Q2]
   </li>
 
 <br>
