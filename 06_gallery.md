@@ -6,6 +6,15 @@ images:
   - name: dinner_2017.jpg
     thumb: dinner_2017.jpg
     text: Dinner with Prof. Sung Wook Baik at Kervan Resturant, Co-Ex Mall, Seoul, Republic of Korea
+  - name: professor_birthday_2017.jpg
+    thumb: professor_birthday_2017.jpg
+    text: Prof. Sung Wook Baik's birthday, 2017
+  - name: malik_Noor_Master_Defense.jpg
+    thumb: malik_Noor_Master_Defense.jpg
+    text: Noor Ullah and Abdul Malik Badshah MS Defense, 2017 at Sejong University, Seoul, Republic of Korea
+  - name: World_IT_Show_2017.jpg
+    thumb: World_IT_Show_2017.jpg
+    text: A snapshot from World IT Show 2017, held at Co-Ex Mall, Seoul, Republic of Korea
   - name: sajjad_defense.jpg
     thumb: sajjad_defense.jpg
     text: Muhammad Sajjad PhD Defense, 2015 at Sejong University, Seoul, Republic of Korea
