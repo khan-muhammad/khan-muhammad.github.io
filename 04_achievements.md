@@ -21,7 +21,7 @@ title: Awards and Achievements
   <p>
     Best Paper Award at Next Generation Computing Conference, held at Jeju Halla University, Jeju, Republic of Korea, 2017
    </p>
-   <img src="/public/pictures/Best_Paper_Award_2017.JPG">
+   <img src="/public/pictures/Best_Paper_Award_2017.jpeg">
  </li>
 
  <br>
