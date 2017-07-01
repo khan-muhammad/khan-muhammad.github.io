@@ -19,6 +19,7 @@ title: Professional Activities
     <li>IEEE Access 2017 (2), </li>
     <li>Elsevier Future Generation Computer Systems 2016 (2), 2017 (2)</li>
     <li>Elsevier Signal Processing 2016 (1), 2017 (2)</li>
+    <li>Elsevier Computer Communications 2017 (2)</li>
     <li>Springer Multimedia Tools and Applications 2015 (8), 2016 (34), 2017 (11)</li>
     <li>Springer Journal of SuperComputing 2016 (2)</li>
     <li>Springer Cluster Computing 2017 (2)</li>
@@ -28,10 +29,12 @@ title: Professional Activities
     <li>International Journal of Business Intelligence and Data Mining 2017 (1)</li>
     <li>NED University Journal of Research 2016 (2)</li>
     <li>EAI Endorsed Transactions on Security and Privacy 2017 (1)</li>
+    <li>Jordanian Journal of Computers and Information Technology 2017 (1)</li>
 
 </ul>
 
 <ul><h1>Conference Co-Chair/Committee/Member</h1>
+    <li><a href="http://www.kingpc.or.kr/wp/" target="_blank">NGCC-17</a>, Jeju, Republic of Korea.</li>
     <li><a href="http://www.icidic.org/cfp_eng/" target="_blank">IDICID-17</a>, Kaohsiung, Taiwan.</li>
     <li><a href="http://www.platcon.org/" target="_blank">PlatCon-17</a>, Busan, Republic of Korea</li>
     <li><a href="http://www.kingpc.or.kr/icngc2017/index.html" target="_blank">ICNGC2017</a>, Ho Chi Minh, Vietnam</li>
