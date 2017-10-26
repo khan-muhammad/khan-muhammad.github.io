@@ -34,6 +34,12 @@ Jamil Ahmad, <b>Khan Muhammad</b>, Jaime Lloret, and Sung Wook Baik, <a href="ht
 Jamil Ahmad, <b>Khan Muhammad</b>, and Sung Wook Baik, <a href="http://www.springer.com/public+health/journal/10916" target="_blank">Medical Image Retrieval with Compact Binary Codes Generated in Frequency Domain using Highly Reactive Convolutional Features</a>, <i>Journal of Medical Systems</i>, 2017 (In Peer review). [<b>IF</b>: 2.456, Q2]
   </li>
   
+   <br>
+
+<li>
+Noor Ullah, Jamil Ahmad, Amin Ullah, <b>Khan Muhammad</b>, and Sung Wook Baik, <a href="https://link.springer.com/journal/521" target="_blank">Biomedical Documents Classification and Retrieval with Text and Figure Features using Deep Convolutional Neural Networks</a>, <i>Neural Computing and Applications</i>, 2017 (In Peer review). [<b>IF</b>: 2.505, Q2]
+  </li>
+  
 <br>
 
 <li>
@@ -55,6 +61,30 @@ Muhammad Sajjad, Salman Khan, Tanveer Hussain, <b>Khan Muhammad</b>, and Sung Wo
 <br>
 
 <li>
+Zahoor Ur Rehman, Sidra Nasim Khan, <b>Khan Muhammad</b>, Jong Weon Lee, and Irfan Mehmood, <a href="https://www.journals.elsevier.com/computers-and-electrical-engineering/" target="_blank">Machine Learning-Assisted Signature and Heuristic-based Detection of Malwares in Android Devices</a>, <i>Computers & Electrical Engineering</i>, 2017 (In Peer Review). [<b>IF</b>: 1.570, Q3]
+  </li>
+
+<br>
+
+<li>
+Peer Azmat Shah, Khalid Mahmood Awan, Zahoor Ur Rehman, Khalid Iqbal, Farhan Aadil, <b>Khan Muhammad</b>, Irfan Mehmood, and Sung Wook Baik, <a href="https://link.springer.com/journal/11036" target="_blank">A Route Optimized Distributed IP-based Mobility Management Protocol for Seamless Handover across Wireless Mesh Networks</a>, <i>Mobile Networks and Applications</i>, 2017 (In Peer Review). [<b>IF</b>: 3.259, Q1]
+  </li>
+
+<br>
+
+<li>
+Reem E. Mohamed, Walid Ghanem, Mohamed Elhoseny, <b>Khan Muhammad</b>, Muhammad Sajjad, <a href="https://www.journals.elsevier.com/computer-networks/" target="_blank">Energy Efficient Collaborative Proactive Routing Protocol for Wireless Sensor Network</a>, <i>Computer Networks</i>, 2017 (In Peer Review). [<b>IF</b>: 2.516, Q1]
+  </li>
+
+<br>
+
+<li>
+Muhammad Fahad, Farhan Aadil, Zahoor Ur Rehman, Salabat Khan, <b>Khan Muhammad</b>, Jaime Lloret, Haoxiang Wang, Jong Weon Lee, and Irfan Mehmood, <a href="https://www.journals.elsevier.com/computers-and-electrical-engineering/" target="_blank">GWOCNETs: Gray Wolf Optimization Based Clustering Algorithm for Vehicular Ad-Hoc Networks</a>, <i>Computers & Electrical Engineering</i>, 2017 (In Peer Review). [<b>IF</b>: 1.570, Q3]
+  </li>
+
+<br>
+
+<li>
 Muhammad Sajjad, Muhammad Irfan, Mansoor Nasir, <b>Khan Muhammad</b>, and Sung Wook Baik, <a href="http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6287639" target="_blank">Raspberry Pi based CNN Assisted Self Driving Model Car</a>, <i>IEEE Access</i>, 2017 (In Peer Review). [<b>IF</b>: 3.244, Q1]
   </li>
 
@@ -67,7 +97,13 @@ Muhammad Sajjad, Mansoor Nasir, Fathu min Allah, <b>Khan Muhammad</b>, and Sung 
 <br>
 
 <li>
-Nasir Rahim, Jamil Ahmad, <b>Khan Muhammad</b>, Shuihua Wang, and Sung Wook Baik, <a href="https://www.journals.elsevier.com/computer-communications/" target="_blank">Privacy-Preserving Image Retrieval for Mobile Devices with Deep Features on the Cloud</a>, <i>Computer Communications</i>, 2017 (In Peer Review). [<b>IF</b>: 3.338, Q1]
+Taayab Ateeq, Muhammad Nadeem Majeed, Syed Muhammad Anwar, Muazzam Maqsood, Zahoor Ur Rehman, Jong Weon Lee, <b>Khan Muhammad</b>, Sung Wook Baik, Irfan Mehmood, <a href="https://www.journals.elsevier.com/computers-and-electrical-engineering/" target="_blank">Ensemble Classifiers Assisted Detection of Cerebral Microbleeds in Brain MRI</a>, <i>Computers & Electrical Engineering</i>, 2017 (In Peer Review). [<b>IF</b>: 1.570, Q3]
+  </li>
+
+<br>
+
+<li>
+Nasir Rahim, Jamil Ahmad, <b>Khan Muhammad</b>, and Sung Wook Baik, <a href="https://www.journals.elsevier.com/computer-communications/" target="_blank">Privacy-Preserving Image Retrieval for Mobile Devices with Deep Features on the Cloud</a>, <i>Computer Communications</i>, 2017 (In Peer Review). [<b>IF</b>: 3.338, Q1]
   </li>
 
 <br>
@@ -98,6 +134,24 @@ Muhammad Sajjad, Mansoor Nasir, <b>Khan Muhammad</b>, Siraj Khan, Zahoor Jan, an
 
 <li>
 Muhammad Sajjad, Muhammad Shoaib, <b>Khan Muhammad</b>, Zahoor Jan, S.Wang, J.T Kwak, Sung Wook Baik, and Irfan Mehmood, <a href="http://ieeexplore.ieee.org/document/7782368/" target="_blank">An Efficient Computerized Decision Support System for the Analysis and 3D Visualization of Brain MRI</a>, <i>IEEE Access</i>, 2017 (In Peer Review). [<b>IF</b>: 3.224, Q1]
+  </li>
+
+<br>
+
+<li>
+Jamil Ahmad, <b>Khan Muhammad</b>, Sambit Bakshi, and Sung Wook Baik, <a href="https://www.journals.elsevier.com/future-generation-computer-systems/" target="_blank">Object-Oriented Convolutional Features for Fine-Grained Image Retrieval in Large Surveillance Datasets</a>, <i>Future Generation Computer Systems</i>, 2017 (In Peer Review). [<b>IF</b>: 3.997, Q1]
+  </li>
+
+<br>
+
+<li>
+<b>Khan Muhammad</b>, Rafik Hamza, Jamil Ahmad, Jaime Lloret, Haoxiang Wang, and Sung Wook Baik, <a href="http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=9424" target="_blank">Secure Surveillance Framework for IoT systems using Probabilistic Image Encryption</a>, <i>IEEE Transactions on Industrial Informatics</i>, 2017 (In Peer Review). [<b>IF</b>: 6.764, Q1]
+  </li>
+  
+<br>
+
+<li>
+Rafik Hamza, <b>Khan Muhammad</b>, Arunkumar Nachiappan, and Gustavo Ramírez González, <a href="http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6287639" target="_blank">Hash based Encryption for Keyframes of Diagnostic Hysteroscopy</a>, <i>IEEE Access</i>, 2017 (Published). [<b>IF</b>: 3.244, Q1]
   </li>
 
 <br>
