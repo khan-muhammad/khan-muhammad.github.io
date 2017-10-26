@@ -17,9 +17,33 @@ li{
 <h1>SCI/SCIE/IF Journal Articles (21)</h1>
 
 <ol>
+ 
+ <li>
+Amin Ullah, Jamil Ahmad, <b>Khan Muhammad</b>, Muhammad Sajjad, and Sung Wook Baik, <a href="http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6287639" target="_blank">Recognizing Actions in Video Sequences using Deep Bidirectional LSTM with CNN Features</a>, <i>IEEE Access</i>, 2017 (In Peer Review). [<b>IF</b>: 3.244, Q1]
+  </li>
+  
+<br>
 
 <li>
-Nasir Rahim, Jamil Ahmad, <b>Khan Muhammad</b>, Shuihua Wang, and Sung Wook Baik, <a href="https://www.journals.elsevier.com/computers-and-electrical-engineering/" target="_blank">Privacy-Preserving Image Retrieval for Mobile Devices with Deep Features on the Cloud</a>, <i>Computers & Electrical Engineering</i>, 2017 (In Peer Review). [<b>IF</b>: 1.570, Q2]
+Muhammad Sajjad, Salman Khan, Tanveer Hussain, <b>Khan Muhammad</b>, and Sung Wook Baik, <a href="https://www.journals.elsevier.com/pattern-recognition-letters/" target="_blank">CNN based Anti-Spoofing Two Tier Multi-Factors Authentication System</a>, <i>Pattern Recognition Letters</i>, 2017 (In Peer Review). [<b>IF</b>: 1.995, Q2]
+  </li>
+
+<br>
+
+<li>
+Muhammad Sajjad, Muhammad Irfan, Mansoor Nasir, <b>Khan Muhammad</b>, and Sung Wook Baik, <a href="http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6287639" target="_blank">Raspberry Pi based CNN Assisted Self Driving Model Car</a>, <i>IEEE Access</i>, 2017 (In Peer Review). [<b>IF</b>: 3.244, Q1]
+  </li>
+
+<br>
+
+<li>
+Muhammad Sajjad, Mansoor Nasir, Fathu min Allah, <b>Khan Muhammad</b>, and Sung Wook Baik, <a href="https://www.journals.elsevier.com/information-sciences/" target="_blank">Raspberry Pi Assisted Facial Expression Recognition Framework for Smart Security in Law-Enforcement Services</a>, <i>Information Sciences</i>, 2017 (In Peer Review). [<b>IF</b>: 4.832, Q1]
+  </li>
+
+<br>
+
+<li>
+Nasir Rahim, Jamil Ahmad, <b>Khan Muhammad</b>, Shuihua Wang, and Sung Wook Baik, <a href="https://www.journals.elsevier.com/computer-communications/" target="_blank">Privacy-Preserving Image Retrieval for Mobile Devices with Deep Features on the Cloud</a>, <i>Computer Communications</i>, 2017 (In Peer Review). [<b>IF</b>: 3.338, Q1]
   </li>
 
 <br>
@@ -31,7 +55,7 @@ Rafik Hamza, <b>Khan Muhammad</b>, P.Bellavista, Faiza Titouna, <a href="https:/
 <br>
 
 <li>
-Abdul Malik Badshah, Nasir Rahim, Noor Ullah, Jamil Ahmad, <b>Khan Muhammad</b>, Mi Young Lee, Soon-Il Kwan, and Sung Wook Baik, <a href="http://www.springer.com/computer/information+systems+and+applications/journal/11042" target="_blank">Deep Features-Based Speech Emotion Recognition for Smart Affective Services</a>, <i>Multimedia Tools and Applications</i>, 2017 (In Peer Review). [<b>IF</b>: 1.530, Q2]
+Abdul Malik Badshah, Nasir Rahim, Noor Ullah, Jamil Ahmad, <b>Khan Muhammad</b>, Mi Young Lee, Soon-Il Kwan, and Sung Wook Baik, <a href="http://www.springer.com/computer/information+systems+and+applications/journal/11042" target="_blank">Deep Features-Based Speech Emotion Recognition for Smart Affective Services</a>, <i>Multimedia Tools and Applications</i>, 2017 (In Press). [<b>IF</b>: 1.530, Q2]
   </li>
 
 <br>
@@ -55,7 +79,10 @@ Muhammad Sajjad, Muhammad Shoaib, <b>Khan Muhammad</b>, Zahoor Jan, S.Wang, J.T 
 <br>
 
 <li>
-Jamil Ahmad, <b>Khan Muhammad</b>, and Sung Wook Baik, <a href="http://journals.plos.org/plosone/" target="_blank">Data Augmentation-Assisted Deep Learning of Hand-Drawn Partially Colored Sketches for Visual Search</a>, <i>Plos One</i>, 2017 (In Peer Review). [<strong>IF</strong>: 2.806, Q1] 
+Jamil Ahmad, <b>Khan Muhammad</b>, and Sung Wook Baik, <a href="http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0183838" target="_blank">Data Augmentation-Assisted Deep Learning of Hand-Drawn Partially Colored Sketches for Visual Search</a>, <i>Plos One</i>, 2017. [<strong>IF</strong>: 2.806, Q1]
+ <a class="pdflink" href="/public/papers/PLOS_ONE_DA.pdf" target="_blank">
+      <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
+</a>
   </li>
   
   <br>
@@ -63,8 +90,9 @@ Jamil Ahmad, <b>Khan Muhammad</b>, and Sung Wook Baik, <a href="http://journals.
 <li>
 <b>Khan Muhammad</b>, Jamil Ahmad, Irfan Mehmood, Seungmin Rho and Sung Wook Baik, <a href="https://scholar.google.co.kr/citations?user=k5oUZyQAAAAJ&hl=en" target="_blank">Convolutional Neural Networks based Fire Detection in Surveillance Videos</a>, <i>Journal of Parallel and Distributed Computing</i>, 2017 (In Peer Review). [<strong>IF</strong>: 1.930, Q2] 
   </li>
+
+<br>
   
-  <br>
 
 <li>
 <b>Khan Muhammad</b>, Jamil Ahmad, and Sung Wook Baik, <a href="https://www.journals.elsevier.com/neurocomputing/" target="_blank">Early Fire Detection using Convolutional Neural Networks during Surveillance for Effective Disaster Management</a>, <i>Neurocomputing</i>, 2017 (Accepted). [<strong>IF</strong>: 3.317, Q1] 
