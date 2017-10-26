@@ -25,6 +25,30 @@ Amin Ullah, Jamil Ahmad, <b>Khan Muhammad</b>, Muhammad Sajjad, and Sung Wook Ba
 <br>
 
 <li>
+Jamil Ahmad, <b>Khan Muhammad</b>, Jaime Lloret, and Sung Wook Baik, <a href="http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=9424" target="_blank">Efficient Conversion of Deep Features to Compact Binary Codes using Fourier Decomposition for Multimedia Big Data</a>, <i>IEEE Transactions on Industrial Informatics</i>, 2017 (In Peer Review). [<b>IF</b>: 6.764, Q1]
+  </li>
+  
+  <br>
+
+<li>
+Jamil Ahmad, <b>Khan Muhammad</b>, and Sung Wook Baik, <a href="http://www.springer.com/public+health/journal/10916" target="_blank">Medical Image Retrieval with Compact Binary Codes Generated in Frequency Domain using Highly Reactive Convolutional Features</a>, <i>Journal of Medical Systems</i>, 2017 (In Peer review). [<b>IF</b>: 2.456, Q2]
+  </li>
+  
+<br>
+
+<li>
+Jamil Ahmad, <b>Khan Muhammad</b>, and Sung Wook Baik, <a href="http://www.springer.com/computer/image+processing/journal/11554" target="_blank">Partially Shaded Sketch-based Image Search in Real Mobile Device Environments via Sketch-Oriented Compact Neural Codes</a>, <i>Journal of Real-Time Image Processing</i>, 2017 (In Peer review). [<b>IF</b>: 2.010, Q2]
+  </li>
+
+<br>
+
+<li>
+Jamil Ahmad, <b>Khan Muhammad</b>, Jaime Lloret, and Sung Wook Baik, <a href="http://www.springer.com/public+health/journal/10916" target="_blank">Endoscopic Image Classification and Retrieval using Clustered Convolutional Features</a>, <i>Journal of Medical Systems</i>, 2017 (In Press). [<b>IF</b>: 2.456, Q2]
+  </li>
+  
+<br>
+
+<li>
 Muhammad Sajjad, Salman Khan, Tanveer Hussain, <b>Khan Muhammad</b>, and Sung Wook Baik, <a href="https://www.journals.elsevier.com/pattern-recognition-letters/" target="_blank">CNN based Anti-Spoofing Two Tier Multi-Factors Authentication System</a>, <i>Pattern Recognition Letters</i>, 2017 (In Peer Review). [<b>IF</b>: 1.995, Q2]
   </li>
 
