@@ -6,8 +6,8 @@ images:
   - name: IMG_3926.JPEG
     thumb: IMG_3926.JPEG
     text: Memorable moments with Dr. Irfan Mehmood and Dr. Jamil Ahmad at Jeju Hallah University, Jeju, Republic of Korea
-  - name: IMG_3834.jpeg
-    thumb: IMG_3834.jpeg
+  - name: IMG_3834.JPEG
+    thumb: IMG_3834.JPEG
     text: With my Research Team during Conference at Jeju Hallah University, Jeju, Republic of Korea
   - name: dinner_2017.jpg
     thumb: dinner_2017.jpg
@@ -21,14 +21,14 @@ images:
   - name: World_IT_Show_2017.jpg
     thumb: World_IT_Show_2017.jpg
     text: A snapshot from World IT Show 2017, held at Co-Ex Mall, Seoul, Republic of Korea
-  - name: IMG_4170.jpg
-    thumb: IMG_4170.jpg
+  - name: IMG_4170.JPEG
+    thumb: IMG_4170.JPEG
     text: Moments of Enjoyment at Jeju, Republic of Korea
-  - name: IMG_4519.jpg
-    thumb: IMG_4519.jpg
+  - name: IMG_4519.JPEG
+    thumb: IMG_4519.JPEG
     text: Moments of Enjoyment at Jeju, Republic of Korea
-  - name: IMG_4585.jpg
-    thumb: IMG_4585.jpg
+  - name: IMG_4585.JPEG
+    thumb: IMG_4585.JPEG
     text: Moments of Enjoyment at Jeju, Republic of Korea
   - name: sajjad_defense.jpg
     thumb: sajjad_defense.jpg
