@@ -14,12 +14,18 @@ li{
 }
  
 </style>
-<h1>SCI/SCIE/IF Journal Articles (21)</h1>
+<h1>SCI/SCIE/IF Journal Articles (40)</h1>
 
 <ol>
  
  <li>
 Amin Ullah, Jamil Ahmad, <b>Khan Muhammad</b>, Muhammad Sajjad, and Sung Wook Baik, <a href="http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6287639" target="_blank">Recognizing Actions in Video Sequences using Deep Bidirectional LSTM with CNN Features</a>, <i>IEEE Access</i>, 2017 (In Peer Review). [<b>IF</b>: 3.244, Q1]
+  </li>
+  
+<br>
+
+<li>
+Muhammad Sajjad, Ijaz Ul Haq, <b>Khan Muhammad</b>, and Sung Wook Baik, <a href="http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6287639" target="_blank">Robust Image Hashing Based Authentication of Keyframes Extracted using Video Summarization in Surveillance Applications</a>, <i>IEEE Transactions on Image Processing</i>, 2017 (In Peer Review). [<b>IF</b>: 4.828, Q1]
   </li>
   
 <br>
@@ -34,7 +40,19 @@ Jamil Ahmad, <b>Khan Muhammad</b>, Jaime Lloret, and Sung Wook Baik, <a href="ht
 Jamil Ahmad, <b>Khan Muhammad</b>, and Sung Wook Baik, <a href="http://www.springer.com/public+health/journal/10916" target="_blank">Medical Image Retrieval with Compact Binary Codes Generated in Frequency Domain using Highly Reactive Convolutional Features</a>, <i>Journal of Medical Systems</i>, 2017 (In Peer review). [<b>IF</b>: 2.456, Q2]
   </li>
   
-   <br>
+  <br>
+
+<li>
+Muhammad Sajjad, Amin Ullah, Jamil Ahmad, <b>Khan Muhammad</b>, and Sung Wook Baik, <a href="https://www.journals.elsevier.com/computers-and-electrical-engineering/" target="_blank">Image Retrieval and Recognition in Smart Phone Gallery Using Convolutional Facial Features</a>, <i>Computers & Electrical Engineering</i>, 2017 (In Peer Review). [<b>IF</b>: 1.570, Q3]
+  </li>
+  
+ <br>
+
+<li>
+Jamil Ahmad, <b>Khan Muhammad</b>, Wakeel Ahmad, Melvyn Smith, Lyndon Smith, Deepak Jain, Haoxiang Wang, and Irfan Mehmood, <a href="https://www.journals.elsevier.com/computers-in-industry" target="_blank">Visual Features based Boosted Classification of Weeds for Real-Time Selective Herbicide Sprayer Systems</a>, <i>Computers in Industry</i>, 2017 (In Peer review). [<b>IF</b>: 2.691, Q2]
+  </li> 
+  
+ <br>
 
 <li>
 Noor Ullah, Jamil Ahmad, Amin Ullah, <b>Khan Muhammad</b>, and Sung Wook Baik, <a href="https://link.springer.com/journal/521" target="_blank">Biomedical Documents Classification and Retrieval with Text and Figure Features using Deep Convolutional Neural Networks</a>, <i>Neural Computing and Applications</i>, 2017 (In Peer review). [<b>IF</b>: 2.505, Q2]
@@ -289,10 +307,19 @@ Muhammad Sajjad, <b>Khan Muhammad</b>, Sung Wook Baik, Seungmin Rho, Zahoor Jan,
 
 
 
-<h1>Non-IF Journal Articles (7)</h1>
+<h1>Non-IF Journal Articles (8)</h1>
 
 <ol>
-  <li>
+ <li>
+Amin Ullah, Jamil Ahmad, <strong>Khan Muhammad</strong>, Irfan Mehmood, Mi  Young  Lee,  Jun  Ryeol  Park,  and Sung  Wook  Baik, <a href="http://ksci.kisti.re.kr/kjcr/indicator/jourView.ksci?titBean.kojic=KNGCAG" target="_blank">Action Recognition in Movie Scenes using Deep Features of Keyframes</a>, <i>Journal of Korean Institute of Next Generation Computing</i>, 2017. [<b>KCI, ISI indexed</b>]
+<a class="pdflink" href="/public/papers/Amin_King_PC.pdf" target="_blank">
+      <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
+</a>
+  </li>
+  
+<br>
+ 
+   <li>
 Jamil Ahmad, <strong>Khan Muhammad</strong>, and Zahoor Jan, <a href="http://www.inderscienceonline.com/doi/abs/10.1504/IJAPR.2016.079761" target="_blank">Exploiting angular profiles signature for shape-based image classification and retrieval</a>, <i>International Journal of Applied Pattern Recognition</i>, 3 (3): 276-292, 2016. [<b>ESCI</b>]
 <a class="pdflink" href="/public/papers/jamil_IJAPR.pdf" target="_blank">
       <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
