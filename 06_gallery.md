@@ -5,10 +5,10 @@ imgfolder: /public/gallery-pictures
 images:
   - name: IMG_3926.jpg
     thumb: IMG_3926.jpg
-    text: Memorable mements with Dr. Irfan Mehmood and Dr. Jamil Ahmad at Jeju Hallah University, Jeju, Republic of Korea
+    text: Memorable moments with Dr. Irfan Mehmood and Dr. Jamil Ahmad at Jeju Hallah University, Jeju, Republic of Korea
   - name: IMG_3834.jpg
     thumb: IMG_3834.jpg
-    text: With my Research Team during Conference at at Jeju Hallah University, Jeju, Republic of Korea
+    text: With my Research Team during Conference at Jeju Hallah University, Jeju, Republic of Korea
   - name: dinner_2017.jpg
     thumb: dinner_2017.jpg
     text: Dinner with Prof. Sung Wook Baik at Kervan Resturant, Co-Ex Mall, Seoul, Republic of Korea
