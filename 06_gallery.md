@@ -6,8 +6,8 @@ images:
   - name: IMG_3926.JPEG
     thumb: IMG_3926.JPEG
     text: Memorable moments with Dr. Irfan Mehmood and Dr. Jamil Ahmad at Jeju Hallah University, Jeju, Republic of Korea
-  - name: IMG_3834.jpeg
-    thumb: IMG_3834.jpeg
+  - name: IMG_3834.jpg
+    thumb: IMG_3834.jpg
     text: With my Research Team during Conference at Jeju Hallah University, Jeju, Republic of Korea
   - name: dinner_2017.jpg
     thumb: dinner_2017.jpg
