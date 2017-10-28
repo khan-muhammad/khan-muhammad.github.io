@@ -24,8 +24,8 @@ images:
   - name: IMG_4170.JPEG
     thumb: IMG_4170.JPEG
     text: Moments of Enjoyment at Jeju, Republic of Korea
-  - name: IMG_4519.JPEG
-    thumb: IMG_4519.JPEG
+  - name: IMG_4519.jpg
+    thumb: IMG_4519.jpg
     text: Moments of Enjoyment at Jeju, Republic of Korea
   - name: IMG_4585.JPEG
     thumb: IMG_4585.JPEG
