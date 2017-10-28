@@ -9,8 +9,8 @@ images:
   - name: IMG_3834.jpeg
     thumb: IMG_3834.jpeg
     text: With my Research Team during Conference at Jeju Hallah University, Jeju, Republic of Korea
-  - name: dinner_2017.jpg
-    thumb: dinner_2017.jpg
+  - name: dinner_2017.JPG
+    thumb: dinner_2017.JPG
     text: Dinner with Prof. Sung Wook Baik at Kervan Resturant, Co-Ex Mall, Seoul, Republic of Korea
   - name: professor_birthday_2017.jpg
     thumb: professor_birthday_2017.jpg
