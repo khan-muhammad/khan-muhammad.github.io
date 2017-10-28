@@ -21,8 +21,8 @@ images:
   - name: World_IT_Show_2017.jpg
     thumb: World_IT_Show_2017.jpg
     text: A snapshot from World IT Show 2017, held at Co-Ex Mall, Seoul, Republic of Korea
-  - name: IMG_4170.JPEG
-    thumb: IMG_4170.JPEG
+  - name: IMG_4170.JPG
+    thumb: IMG_4170.JPG
     text: Moments of Enjoyment at Jeju, Republic of Korea
   - name: IMG_4519.jpg
     thumb: IMG_4519.jpg
