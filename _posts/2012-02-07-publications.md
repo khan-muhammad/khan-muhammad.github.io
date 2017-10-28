@@ -14,7 +14,7 @@ li{
 }
  
 </style>
-<h1>SCI/SCIE/IF Journal Articles (40)</h1>
+<h1>SCI/SCIE/IF Journal Articles (41)</h1>
 
 <ol>
  
@@ -67,7 +67,7 @@ Jamil Ahmad, <b>Khan Muhammad</b>, and Sung Wook Baik, <a href="http://www.sprin
 <br>
 
 <li>
-Jamil Ahmad, <b>Khan Muhammad</b>, Jaime Lloret, and Sung Wook Baik, <a href="http://www.springer.com/public+health/journal/10916" target="_blank">Endoscopic Image Classification and Retrieval using Clustered Convolutional Features</a>, <i>Journal of Medical Systems</i>, 2017 (In Press). [<b>IF</b>: 2.456, Q2]
+Jamil Ahmad, <b>Khan Muhammad</b>, and Sung Wook Baik, <a href="http://www.springer.com/public+health/journal/10916" target="_blank">Endoscopic Image Classification and Retrieval using Clustered Convolutional Features</a>, <i>Journal of Medical Systems</i>, 2017 (In Press). [<b>IF</b>: 2.456, Q2]
   </li>
   
 <br>
