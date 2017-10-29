@@ -24,11 +24,11 @@ images:
   - name: IMG_4170.JPG
     thumb: IMG_4170.JPG
     text: Moments of Enjoyment at Jeju, Republic of Korea
-  - name: IMG_4519.jpg
-    thumb: IMG_4519.jpg
+  - name: IMG_4519.JPG
+    thumb: IMG_4519.JPG
     text: Moments of Enjoyment at Jeju, Republic of Korea
-  - name: IMG_4585.JPEG
-    thumb: IMG_4585.JPEG
+  - name: IMG_4585.JPG
+    thumb: IMG_4585.JPG
     text: Moments of Enjoyment at Jeju, Republic of Korea
   - name: sajjad_defense.jpg
     thumb: sajjad_defense.jpg
