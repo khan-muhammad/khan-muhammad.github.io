@@ -197,7 +197,7 @@ Jamil Ahmad, <b>Khan Muhammad</b>, and Sung Wook Baik, <a href="http://journals.
   <br>
 
 <li>
-Rafik Hamza, <b>Khan Muhammad</b>, Zhihan Lv, Faiza Titouna, <a href="http://www.sciencedirect.com/science/article/pii/S1574119217301621" target="_blank">Secure Video Summarization Framework for Personalized Wireless Capsule Endoscopy</a>, <i>Pervasive and Mobile Computing</i>, 2017 (In Press). [<strong>IF</strong>: 2.349, Q2] 
+Rafik Hamza, <b>Khan Muhammad</b>, Zhihan Lv, Faiza Titouna, <a href="http://www.sciencedirect.com/science/article/pii/S1574119217301621" target="_blank">Secure Video Summarization Framework for Personalized Wireless Capsule Endoscopy</a>, <i>Pervasive and Mobile Computing</i>, 41 (October): 436-450, 2017. [<strong>IF</strong>: 2.349, Q2] 
 <a class="pdflink" href="/public/papers/PMC.pdf" target="_blank">
       <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
 </a>
@@ -216,7 +216,7 @@ Zahoor Jan, Arshad Khan, Muhammad Sajjad, <b>Khan Muhammad</b>, Seungmin Rho, Ir
   <br>
   
   <li>
-<strong>Khan Muhammad</strong>, Jamil Ahmad, Seungmin Rho, and Sung Wook Baik, <a href="https://link.springer.com/article/10.1007/s11042-017-4420-8" target="_blank">Image Steganography for Authenticity of Visual Contents in Social Networks</a>, <i>Multimedia Tools and Applications</i>, 2016 (In press). [<strong>IF</strong>: 1.530, Q2]
+<strong>Khan Muhammad</strong>, Jamil Ahmad, Seungmin Rho, and Sung Wook Baik, <a href="https://link.springer.com/article/10.1007/s11042-017-4420-8" target="_blank">Image Steganography for Authenticity of Visual Contents in Social Networks</a>, <i>Multimedia Tools and Applications</i>, 76 (18): 18985–19004, 2017. [<strong>IF</strong>: 1.530, Q2]
 <a class="pdflink" href="/public/papers/MTAP_Social_Networks.pdf" target="_blank">
       <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
 </a>
