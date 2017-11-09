@@ -19,7 +19,7 @@ li{
 <ol>
  
  <li>
-Amin Ullah, Jamil Ahmad, <b>Khan Muhammad</b>, Muhammad Sajjad, and Sung Wook Baik, <a href="http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6287639" target="_blank">Recognizing Actions in Video Sequences using Deep Bidirectional LSTM with CNN Features</a>, <i>IEEE Access</i>, 2017 (In Peer Review). [<b>IF</b>: 3.244, Q1]
+Amin Ullah, Jamil Ahmad, <b>Khan Muhammad</b>, Muhammad Sajjad, and Sung Wook Baik, <a href="http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6287639" target="_blank">Recognizing Actions in Video Sequences using Deep Bidirectional LSTM with CNN Features</a>, <i>IEEE Access</i>, 2017 (In Press). [<b>IF</b>: 3.244, Q1]
   </li>
   
 <br>
@@ -37,7 +37,7 @@ Jamil Ahmad, <b>Khan Muhammad</b>, Jaime Lloret, and Sung Wook Baik, <a href="ht
   <br>
 
 <li>
-Jamil Ahmad, <b>Khan Muhammad</b>, and Sung Wook Baik, <a href="http://www.springer.com/public+health/journal/10916" target="_blank">Medical Image Retrieval with Compact Binary Codes Generated in Frequency Domain using Highly Reactive Convolutional Features</a>, <i>Journal of Medical Systems</i>, 2017 (In Peer review). [<b>IF</b>: 2.456, Q2]
+Jamil Ahmad, <b>Khan Muhammad</b>, and Sung Wook Baik, <a href="http://www.springer.com/public+health/journal/10916" target="_blank">Medical Image Retrieval with Compact Binary Codes Generated in Frequency Domain using Highly Reactive Convolutional Features</a>, <i>Journal of Medical Systems</i>, 2017 (In Revision). [<b>IF</b>: 2.456, Q2]
   </li>
   
   <br>
@@ -61,7 +61,7 @@ Noor Ullah, Jamil Ahmad, Amin Ullah, <b>Khan Muhammad</b>, and Sung Wook Baik, <
 <br>
 
 <li>
-Jamil Ahmad, <b>Khan Muhammad</b>, and Sung Wook Baik, <a href="http://www.springer.com/computer/image+processing/journal/11554" target="_blank">Partially Shaded Sketch-based Image Search in Real Mobile Device Environments via Sketch-Oriented Compact Neural Codes</a>, <i>Journal of Real-Time Image Processing</i>, 2017 (In Peer review). [<b>IF</b>: 2.010, Q2]
+Jamil Ahmad, <b>Khan Muhammad</b>, and Sung Wook Baik, <a href="http://www.springer.com/computer/image+processing/journal/11554" target="_blank">Partially Shaded Sketch-based Image Search in Real Mobile Device Environments via Sketch-Oriented Compact Neural Codes</a>, <i>Journal of Real-Time Image Processing</i>, 2017 (In Revision). [<b>IF</b>: 2.010, Q2]
   </li>
 
 <br>
@@ -79,13 +79,13 @@ Muhammad Sajjad, Salman Khan, Tanveer Hussain, <b>Khan Muhammad</b>, and Sung Wo
 <br>
 
 <li>
-Zahoor Ur Rehman, Sidra Nasim Khan, <b>Khan Muhammad</b>, Jong Weon Lee, and Irfan Mehmood, <a href="https://www.journals.elsevier.com/computers-and-electrical-engineering/" target="_blank">Machine Learning-Assisted Signature and Heuristic-based Detection of Malwares in Android Devices</a>, <i>Computers & Electrical Engineering</i>, 2017 (In Peer Review). [<b>IF</b>: 1.570, Q3]
+Zahoor Ur Rehman, Sidra Nasim Khan, <b>Khan Muhammad</b>, Jong Weon Lee, and Irfan Mehmood, <a href="https://www.journals.elsevier.com/computers-and-electrical-engineering/" target="_blank">Machine Learning-Assisted Signature and Heuristic-based Detection of Malwares in Android Devices</a>, <i>Computers & Electrical Engineering</i>, 2017 (Accepted). [<b>IF</b>: 1.570, Q3]
   </li>
 
 <br>
 
 <li>
-Peer Azmat Shah, Khalid Mahmood Awan, Zahoor Ur Rehman, Khalid Iqbal, Farhan Aadil, <b>Khan Muhammad</b>, Irfan Mehmood, and Sung Wook Baik, <a href="https://link.springer.com/journal/11036" target="_blank">A Route Optimized Distributed IP-based Mobility Management Protocol for Seamless Handover across Wireless Mesh Networks</a>, <i>Mobile Networks and Applications</i>, 2017 (In Peer Review). [<b>IF</b>: 3.259, Q1]
+Peer Azmat Shah, Khalid Mahmood Awan, Zahoor Ur Rehman, Khalid Iqbal, Farhan Aadil, <b>Khan Muhammad</b>, Irfan Mehmood, and Sung Wook Baik, <a href="https://link.springer.com/journal/11036" target="_blank">A Route Optimized Distributed IP-based Mobility Management Protocol for Seamless Handover across Wireless Mesh Networks</a>, <i>Mobile Networks and Applications</i>, 2017 (Accepted). [<b>IF</b>: 3.259, Q1]
   </li>
 
 <br>
@@ -97,7 +97,7 @@ Reem E. Mohamed, Walid Ghanem, Mohamed Elhoseny, <b>Khan Muhammad</b>, Muhammad 
 <br>
 
 <li>
-Muhammad Fahad, Farhan Aadil, Zahoor Ur Rehman, Salabat Khan, <b>Khan Muhammad</b>, Jaime Lloret, Haoxiang Wang, Jong Weon Lee, and Irfan Mehmood, <a href="https://www.journals.elsevier.com/computers-and-electrical-engineering/" target="_blank">GWOCNETs: Gray Wolf Optimization Based Clustering Algorithm for Vehicular Ad-Hoc Networks</a>, <i>Computers & Electrical Engineering</i>, 2017 (In Peer Review). [<b>IF</b>: 1.570, Q3]
+Muhammad Fahad, Farhan Aadil, Zahoor Ur Rehman, Salabat Khan, <b>Khan Muhammad</b>, Jaime Lloret, Haoxiang Wang, Jong Weon Lee, and Irfan Mehmood, <a href="https://www.journals.elsevier.com/computers-and-electrical-engineering/" target="_blank">GWOCNETs: Gray Wolf Optimization Based Clustering Algorithm for Vehicular Ad-Hoc Networks</a>, <i>Computers & Electrical Engineering</i>, 2017 (In Revision). [<b>IF</b>: 1.570, Q3]
   </li>
 
 <br>
@@ -109,13 +109,13 @@ Muhammad Sajjad, Muhammad Irfan, Mansoor Nasir, <b>Khan Muhammad</b>, and Sung W
 <br>
 
 <li>
-Muhammad Sajjad, Mansoor Nasir, Fathu min Allah, <b>Khan Muhammad</b>, and Sung Wook Baik, <a href="https://www.journals.elsevier.com/information-sciences/" target="_blank">Raspberry Pi Assisted Facial Expression Recognition Framework for Smart Security in Law-Enforcement Services</a>, <i>Information Sciences</i>, 2017 (In Peer Review). [<b>IF</b>: 4.832, Q1]
+Muhammad Sajjad, Mansoor Nasir, Fathu min Allah, <b>Khan Muhammad</b>, and Sung Wook Baik, <a href="https://www.journals.elsevier.com/information-sciences/" target="_blank">Raspberry Pi Assisted Facial Expression Recognition Framework for Smart Security in Law-Enforcement Services</a>, <i>Information Sciences</i>, 2017 (In Revision). [<b>IF</b>: 4.832, Q1]
   </li>
 
 <br>
 
 <li>
-Taayab Ateeq, Muhammad Nadeem Majeed, Syed Muhammad Anwar, Muazzam Maqsood, Zahoor Ur Rehman, Jong Weon Lee, <b>Khan Muhammad</b>, Sung Wook Baik, Irfan Mehmood, <a href="https://www.journals.elsevier.com/computers-and-electrical-engineering/" target="_blank">Ensemble Classifiers Assisted Detection of Cerebral Microbleeds in Brain MRI</a>, <i>Computers & Electrical Engineering</i>, 2017 (In Peer Review). [<b>IF</b>: 1.570, Q3]
+Taayab Ateeq, Muhammad Nadeem Majeed, Syed Muhammad Anwar, Muazzam Maqsood, Zahoor Ur Rehman, Jong Weon Lee, <b>Khan Muhammad</b>, Sung Wook Baik, Irfan Mehmood, <a href="https://www.journals.elsevier.com/computers-and-electrical-engineering/" target="_blank">Ensemble Classifiers Assisted Detection of Cerebral Microbleeds in Brain MRI</a>, <i>Computers & Electrical Engineering</i>, 2017 (In Revision). [<b>IF</b>: 1.570, Q3]
   </li>
 
 <br>
@@ -139,13 +139,13 @@ Abdul Malik Badshah, Nasir Rahim, Noor Ullah, Jamil Ahmad, <b>Khan Muhammad</b>,
 <br>
 
 <li>
-Mansoor Nasir, Naveed Abbas, Tamleek Ali Tanveer, <b>Khan Muhammad</b>, Muhammad Sajjad, et al., <a href="http://www.springer.com/computer/communication+networks/journal/10922" target="_blank">Towards Prioritization in Distributed Alert Fusion using Distributed Hash Tables</a>, <i>Journal of Network and Systems Management</i>, 2017 (In Peer Review). [<b>IF</b>: 1.588, Q2]
+Mansoor Nasir, Naveed Abbas, Tamleek Ali Tanveer, <b>Khan Muhammad</b>, Muhammad Sajjad, et al., <a href="http://www.springer.com/computer/communication+networks/journal/10922" target="_blank">Towards Prioritization in Distributed Alert Fusion using Distributed Hash Tables</a>, <i>Journal of Network and Systems Management</i>, 2017 (In Revision). [<b>IF</b>: 1.588, Q2]
   </li>
 
 <br>
 
 <li>
-Muhammad Sajjad, Mansoor Nasir, <b>Khan Muhammad</b>, Siraj Khan, Zahoor Jan, and Sung Wook Baik, <a href="https://www.journals.elsevier.com/future-generation-computer-systems/" target="_blank">Raspberry Pi Assisted Face Recognition Framework for Enhanced Law-Enforcement Services in Smart Cities</a>, <i>Future Generation Computer Systems</i>, 2017 (In Peer Review). [<b>IF</b>: 3.997, Q1]
+Muhammad Sajjad, Mansoor Nasir, <b>Khan Muhammad</b>, Siraj Khan, Zahoor Jan, and Sung Wook Baik, <a href="https://www.journals.elsevier.com/future-generation-computer-systems/" target="_blank">Raspberry Pi Assisted Face Recognition Framework for Enhanced Law-Enforcement Services in Smart Cities</a>, <i>Future Generation Computer Systems</i>, 2017 (Accepted). [<b>IF</b>: 3.997, Q1]
   </li>
 
 <br>
@@ -157,13 +157,13 @@ Muhammad Sajjad, Muhammad Shoaib, <b>Khan Muhammad</b>, Zahoor Jan, S.Wang, J.T 
 <br>
 
 <li>
-Jamil Ahmad, <b>Khan Muhammad</b>, Sambit Bakshi, and Sung Wook Baik, <a href="https://www.journals.elsevier.com/future-generation-computer-systems/" target="_blank">Object-Oriented Convolutional Features for Fine-Grained Image Retrieval in Large Surveillance Datasets</a>, <i>Future Generation Computer Systems</i>, 2017 (In Peer Review). [<b>IF</b>: 3.997, Q1]
+Jamil Ahmad, <b>Khan Muhammad</b>, Sambit Bakshi, and Sung Wook Baik, <a href="https://www.journals.elsevier.com/future-generation-computer-systems/" target="_blank">Object-Oriented Convolutional Features for Fine-Grained Image Retrieval in Large Surveillance Datasets</a>, <i>Future Generation Computer Systems</i>, 2017 (In press). [<b>IF</b>: 3.997, Q1]
   </li>
 
 <br>
 
 <li>
-<b>Khan Muhammad</b>, Rafik Hamza, Jamil Ahmad, Jaime Lloret, Haoxiang Wang, and Sung Wook Baik, <a href="http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=9424" target="_blank">Secure Surveillance Framework for IoT systems using Probabilistic Image Encryption</a>, <i>IEEE Transactions on Industrial Informatics</i>, 2017 (In Peer Review). [<b>IF</b>: 6.764, Q1]
+<b>Khan Muhammad</b>, Rafik Hamza, Jamil Ahmad, Jaime Lloret, Haoxiang Wang, and Sung Wook Baik, <a href="http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=9424" target="_blank">Secure Surveillance Framework for IoT systems using Probabilistic Image Encryption</a>, <i>IEEE Transactions on Industrial Informatics</i>, 2017 (In Revision). [<b>IF</b>: 6.764, Q1]
   </li>
   
 <br>
@@ -184,7 +184,7 @@ Jamil Ahmad, <b>Khan Muhammad</b>, and Sung Wook Baik, <a href="http://journals.
   <br>
 
 <li>
-<b>Khan Muhammad</b>, Jamil Ahmad, Irfan Mehmood, Seungmin Rho and Sung Wook Baik, <a href="https://scholar.google.co.kr/citations?user=k5oUZyQAAAAJ&hl=en" target="_blank">Convolutional Neural Networks based Fire Detection in Surveillance Videos</a>, <i>Journal of Parallel and Distributed Computing</i>, 2017 (In Peer Review). [<strong>IF</strong>: 1.930, Q2] 
+<b>Khan Muhammad</b>, Jamil Ahmad, Irfan Mehmood, Seungmin Rho and Sung Wook Baik, <a href="https://scholar.google.co.kr/citations?user=k5oUZyQAAAAJ&hl=en" target="_blank">Convolutional Neural Networks based Fire Detection in Surveillance Videos</a>, <i>Journal of Parallel and Distributed Computing</i>, 2017 (In Revision). [<strong>IF</strong>: 1.930, Q2] 
   </li>
 
 <br>
