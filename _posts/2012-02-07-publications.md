@@ -49,7 +49,7 @@ Muhammad Sajjad, Amin Ullah, Jamil Ahmad, <b>Khan Muhammad</b>, and Sung Wook Ba
  <br>
 
 <li>
-Jamil Ahmad, <b>Khan Muhammad</b>, Wakeel Ahmad, Melvyn Smith, Lyndon Smith, Deepak Jain, Haoxiang Wang, and Irfan Mehmood, <a href="https://www.journals.elsevier.com/computers-in-industry" target="_blank">Visual Features based Boosted Classification of Weeds for Real-Time Selective Herbicide Sprayer Systems</a>, <i>Computers in Industry</i>, 2017 (In Peer review). [<b>IF</b>: 2.691, Q2]
+Jamil Ahmad, <b>Khan Muhammad</b>, Wakeel Ahmad, Melvyn Smith, Lyndon Smith, Deepak Jain, Haoxiang Wang, and Irfan Mehmood, <a href="https://www.journals.elsevier.com/computers-in-industry" target="_blank">Visual Features based Boosted Classification of Weeds for Real-Time Selective Herbicide Sprayer Systems</a>, <i>Computers in Industry</i>, 2017 (In Revision). [<b>IF</b>: 2.691, Q2]
   </li> 
   
  <br>
@@ -67,7 +67,7 @@ Jamil Ahmad, <b>Khan Muhammad</b>, and Sung Wook Baik, <a href="http://www.sprin
 <br>
 
 <li>
-Jamil Ahmad, <b>Khan Muhammad</b>, and Sung Wook Baik, <a href="http://www.springer.com/public+health/journal/10916" target="_blank">Endoscopic Image Classification and Retrieval using Clustered Convolutional Features</a>, <i>Journal of Medical Systems</i>, 2017 (In Press). [<b>IF</b>: 2.456, Q2]
+Jamil Ahmad, <b>Khan Muhammad</b>, and Sung Wook Baik, <a href="https://link.springer.com/article/10.1007/s10916-017-0836-y" target="_blank">Endoscopic Image Classification and Retrieval using Clustered Convolutional Features</a>, <i>Journal of Medical Systems</i>, 2017 (In Press). [<b>IF</b>: 2.456, Q2]
   </li>
   
 <br>
@@ -133,7 +133,7 @@ Rafik Hamza, <b>Khan Muhammad</b>, P.Bellavista, Faiza Titouna, <a href="https:/
 <br>
 
 <li>
-Abdul Malik Badshah, Nasir Rahim, Noor Ullah, Jamil Ahmad, <b>Khan Muhammad</b>, Mi Young Lee, Soon-Il Kwan, and Sung Wook Baik, <a href="http://www.springer.com/computer/information+systems+and+applications/journal/11042" target="_blank">Deep Features-Based Speech Emotion Recognition for Smart Affective Services</a>, <i>Multimedia Tools and Applications</i>, 2017 (In Press). [<b>IF</b>: 1.530, Q2]
+Abdul Malik Badshah, Nasir Rahim, Noor Ullah, Jamil Ahmad, <b>Khan Muhammad</b>, Mi Young Lee, Soon-Il Kwan, and Sung Wook Baik, <a href="https://link.springer.com/article/10.1007/s11042-017-5292-7" target="_blank">Deep Features-Based Speech Emotion Recognition for Smart Affective Services</a>, <i>Multimedia Tools and Applications</i>, 2017 (In Press). [<b>IF</b>: 1.530, Q2]
   </li>
 
 <br>
@@ -145,7 +145,7 @@ Mansoor Nasir, Naveed Abbas, Tamleek Ali Tanveer, <b>Khan Muhammad</b>, Muhammad
 <br>
 
 <li>
-Muhammad Sajjad, Mansoor Nasir, <b>Khan Muhammad</b>, Siraj Khan, Zahoor Jan, and Sung Wook Baik, <a href="https://www.journals.elsevier.com/future-generation-computer-systems/" target="_blank">Raspberry Pi Assisted Face Recognition Framework for Enhanced Law-Enforcement Services in Smart Cities</a>, <i>Future Generation Computer Systems</i>, 2017 (Accepted). [<b>IF</b>: 3.997, Q1]
+Muhammad Sajjad, Mansoor Nasir, <b>Khan Muhammad</b>, Siraj Khan, Zahoor Jan, and Sung Wook Baik, <a href="https://doi.org/10.1016/j.future.2017.11.013" target="_blank">Raspberry Pi Assisted Face Recognition Framework for Enhanced Law-Enforcement Services in Smart Cities</a>, <i>Future Generation Computer Systems</i>, 2017 (Accepted). [<b>IF</b>: 3.997, Q1]
   </li>
 
 <br>
@@ -157,7 +157,7 @@ Muhammad Sajjad, Muhammad Shoaib, <b>Khan Muhammad</b>, Zahoor Jan, S.Wang, J.T 
 <br>
 
 <li>
-Jamil Ahmad, <b>Khan Muhammad</b>, Sambit Bakshi, and Sung Wook Baik, <a href="https://www.journals.elsevier.com/future-generation-computer-systems/" target="_blank">Object-Oriented Convolutional Features for Fine-Grained Image Retrieval in Large Surveillance Datasets</a>, <i>Future Generation Computer Systems</i>, 2017 (In press). [<b>IF</b>: 3.997, Q1]
+Jamil Ahmad, <b>Khan Muhammad</b>, Sambit Bakshi, and Sung Wook Baik, <a href="https://doi.org/10.1016/j.future.2017.11.002" target="_blank">Object-Oriented Convolutional Features for Fine-Grained Image Retrieval in Large Surveillance Datasets</a>, <i>Future Generation Computer Systems</i>, 2017 (In press). [<b>IF</b>: 3.997, Q1]
   </li>
 
 <br>
@@ -184,7 +184,7 @@ Jamil Ahmad, <b>Khan Muhammad</b>, and Sung Wook Baik, <a href="http://journals.
   <br>
 
 <li>
-<b>Khan Muhammad</b>, Jamil Ahmad, Irfan Mehmood, Seungmin Rho and Sung Wook Baik, <a href="https://scholar.google.co.kr/citations?user=k5oUZyQAAAAJ&hl=en" target="_blank">Convolutional Neural Networks based Fire Detection in Surveillance Videos</a>, <i>Journal of Parallel and Distributed Computing</i>, 2017 (In Revision). [<strong>IF</strong>: 1.930, Q2] 
+<b>Khan Muhammad</b>, Jamil Ahmad, Irfan Mehmood, Seungmin Rho and Sung Wook Baik, <a href="https://www.journals.elsevier.com/journal-of-parallel-and-distributed-computing/" target="_blank">Convolutional Neural Networks based Fire Detection in Surveillance Videos</a>, <i>Journal of Parallel and Distributed Computing</i>, 2017 (In Revision). [<strong>IF</strong>: 1.930, Q2] 
   </li>
 
 <br>
