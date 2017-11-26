@@ -14,11 +14,11 @@ title: Professional Activities
 
 </style>
 
-<ul><h1>Journal Referee</h1>
+<ul><h1>Journal Referee (27)</h1>
     <li>IEEE Transactions on Image Processing since 2015 (1) </li>
     <li>IEEE Transactions on Industrial Informatics since 2017 (2) </li>
     <li>ACM Transactions on Multimedia Computing Communications and Applications since 2017 (2) </li>
-    <li>IEEE Access since 2017 (4) </li>
+    <li>IEEE Access since 2017 (7) </li>
     <li>Elsevier Future Generation Computer Systems since 2016 (9)</li>
     <li>Elsevier Signal Processing since 2016 (3)</li>
     <li>Elsevier Journal of Network and Computer Applications since 2017 (2)</li>
@@ -45,7 +45,7 @@ title: Professional Activities
 
 </ul>
 
-<ul><h1>Conference Co-Chair/Committee/Member</h1>
+<ul><h1>Conference Co-Chair/Committee/Member (9)</h1>
     <li><a href="http://www.kingpc.or.kr/wp/" target="_blank">ICNGC-2017b</a>, Kaohsiung, Taiwan</li>
     <li><a href="http://www.kingpc.or.kr/wp/" target="_blank">NGCC-17</a>, Jeju, Republic of Korea</li>
     <li><a href="http://www.icidic.org/cfp_eng/" target="_blank">IDICID-17</a>, Kaohsiung, Taiwan</li>
@@ -57,7 +57,7 @@ title: Professional Activities
     <li><a href="https://sites.google.com/site/icmita2015/index" target="_blank">MITA 2015</a>, Tashkent, Uzbekistan</li> 
 </ul>
 
-<ul><h1>Conference Referee</h1>
+<ul><h1>Conference Referee (3)</h1>
     <li>AINA 2017 (6)</li>
     <li>ICNC 2017 (5)</li>
     <li>ICCCT 2015 (1)</li>
