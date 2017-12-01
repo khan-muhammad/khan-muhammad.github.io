@@ -19,7 +19,7 @@ li{
 <ol>
  
  <li>
-Amin Ullah, Jamil Ahmad, <b>Khan Muhammad</b>, Muhammad Sajjad, and Sung Wook Baik, <a href="http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6287639" target="_blank">Recognizing Actions in Video Sequences using Deep Bidirectional LSTM with CNN Features</a>, <i>IEEE Access</i>, 2017 (In Press). [<b>IF</b>: 3.244, Q1]
+Amin Ullah, Jamil Ahmad, <b>Khan Muhammad</b>, Muhammad Sajjad, and Sung Wook Baik, <a href="http://ieeexplore.ieee.org/document/8121994/" target="_blank">Action Recognition in Video Sequences using Deep Bidirectional LSTM with CNN Features</a>, <i>IEEE Access</i>, 2017 (In Press). [<b>IF</b>: 3.244, Q1]
   </li>
   
 <br>
@@ -31,13 +31,13 @@ Muhammad Sajjad, Ijaz Ul Haq, <b>Khan Muhammad</b>, and Sung Wook Baik, <a href=
 <br>
 
 <li>
-Jamil Ahmad, <b>Khan Muhammad</b>, Jaime Lloret, and Sung Wook Baik, <a href="http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=9424" target="_blank">Efficient Conversion of Deep Features to Compact Binary Codes using Fourier Decomposition for Multimedia Big Data</a>, <i>IEEE Transactions on Industrial Informatics</i>, 2017 (In Peer Review). [<b>IF</b>: 6.764, Q1]
+Jamil Ahmad, <b>Khan Muhammad</b>, Jaime Lloret, and Sung Wook Baik, <a href="http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=9424" target="_blank">Efficient Conversion of Deep Features to Compact Binary Codes using Fourier Decomposition for Multimedia Big Data</a>, <i>IEEE Transactions on Industrial Informatics</i>, 2017 (In Revision). [<b>IF</b>: 6.764, Q1]
   </li>
   
   <br>
 
 <li>
-Jamil Ahmad, <b>Khan Muhammad</b>, and Sung Wook Baik, <a href="http://www.springer.com/public+health/journal/10916" target="_blank">Medical Image Retrieval with Compact Binary Codes Generated in Frequency Domain using Highly Reactive Convolutional Features</a>, <i>Journal of Medical Systems</i>, 2017 (In Revision). [<b>IF</b>: 2.456, Q2]
+Jamil Ahmad, <b>Khan Muhammad</b>, and Sung Wook Baik, <a href="http://www.springer.com/public+health/journal/10916" target="_blank">Medical Image Retrieval with Compact Binary Codes Generated in Frequency Domain using Highly Reactive Convolutional Features</a>, <i>Journal of Medical Systems</i>, 2017 (In Press). [<b>IF</b>: 2.456, Q2]
   </li>
   
   <br>
@@ -145,7 +145,7 @@ Mansoor Nasir, Naveed Abbas, Tamleek Ali Tanveer, <b>Khan Muhammad</b>, Muhammad
 <br>
 
 <li>
-Muhammad Sajjad, Mansoor Nasir, <b>Khan Muhammad</b>, Siraj Khan, Zahoor Jan, and Sung Wook Baik, <a href="https://doi.org/10.1016/j.future.2017.11.013" target="_blank">Raspberry Pi Assisted Face Recognition Framework for Enhanced Law-Enforcement Services in Smart Cities</a>, <i>Future Generation Computer Systems</i>, 2017 (Accepted). [<b>IF</b>: 3.997, Q1]
+Muhammad Sajjad, Mansoor Nasir, <b>Khan Muhammad</b>, Siraj Khan, Zahoor Jan, and Sung Wook Baik, <a href="https://doi.org/10.1016/j.future.2017.11.013" target="_blank">Raspberry Pi Assisted Face Recognition Framework for Enhanced Law-Enforcement Services in Smart Cities</a>, <i>Future Generation Computer Systems</i>, 2017 (In Press). [<b>IF</b>: 3.997, Q1]
   </li>
 
 <br>
@@ -169,7 +169,7 @@ Jamil Ahmad, <b>Khan Muhammad</b>, Sambit Bakshi, and Sung Wook Baik, <a href="h
 <br>
 
 <li>
-Rafik Hamza, <b>Khan Muhammad</b>, Arunkumar Nachiappan, and Gustavo Ramírez González, <a href="http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6287639" target="_blank">Hash based Encryption for Keyframes of Diagnostic Hysteroscopy</a>, <i>IEEE Access</i>, 2017 (Published). [<b>IF</b>: 3.244, Q1]
+Rafik Hamza, <b>Khan Muhammad</b>, Arunkumar Nachiappan, and Gustavo Ramírez González, <a href="https://doi.org/10.1109/ACCESS.2017.2762405" target="_blank">Hash based Encryption for Keyframes of Diagnostic Hysteroscopy</a>, <i>IEEE Access</i>, 2017 (Published). [<b>IF</b>: 3.244, Q1]
   </li>
 
 <br>
