@@ -102,6 +102,13 @@ title: Research Team
         Amin Ullah
  		</a>
 </div>
+
+<div style="padding: 20px" >
+	<img width="200px" height="250px" src="/public/pictures/ijaz.jpg">
+        <a     href="https://www.researchgate.net/profile/Ijaz_Haq2" target="_blank">
+        Ijaz Ul Haq
+ 		</a>
+</div>
  
 
 </div> 
