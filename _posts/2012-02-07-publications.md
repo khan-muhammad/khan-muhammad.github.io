@@ -25,7 +25,7 @@ Amin Ullah, Jamil Ahmad, <b>Khan Muhammad</b>, Muhammad Sajjad, and Sung Wook Ba
 <br>
 
 <li>
-Muhammad Sajjad, Ijaz Ul Haq, <b>Khan Muhammad</b>, and Sung Wook Baik, <a href="http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6287639" target="_blank">Robust Image Hashing Based Authentication of Keyframes Extracted using Video Summarization in Surveillance Applications</a>, <i>IEEE Transactions on Image Processing</i>, 2017 (In Peer Review). [<b>IF</b>: 4.828, Q1]
+Muhammad Sajjad, Ijaz Ul Haq, <b>Khan Muhammad</b>, and Sung Wook Baik, <a href="http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=83" target="_blank">Robust Image Hashing Based Authentication of Keyframes Extracted using Video Summarization in Surveillance Applications</a>, <i>IEEE Transactions on Image Processing</i>, 2017 (In Peer Review). [<b>IF</b>: 4.828, Q1]
   </li>
   
 <br>
