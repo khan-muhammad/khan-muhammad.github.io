@@ -37,7 +37,7 @@ title: Research Team
 <div style=" display: inline-flex; text-align: center;">
 	
 	<div style="padding: 20px" >
-			<img width="200px" height="250px" src="/public/pictures/jamil_ahmad.JPG">
+			<img width="200px" height="250px" src="/public/pictures/jamil_ahmad.jpg">
 			<a    href="https://scholar.google.co.kr/citations?user=7dw-9YgAAAAJ&hl=en" target="_blank">
 			Jamil Ahmad
 				</a>
