@@ -17,6 +17,7 @@ title: Professional Activities
 <ul><h1>Journal Referee (27)</h1>
     <li>IEEE Transactions on Image Processing since 2015 (1) </li>
     <li>IEEE Transactions on Industrial Informatics since 2017 (2) </li>
+    <li>IEEE Internet of Things (IoT) since 2017 (2) </li>
     <li>ACM Transactions on Multimedia Computing Communications and Applications since 2017 (2) </li>
     <li>IEEE Access since 2017 (7) </li>
     <li>Elsevier Future Generation Computer Systems since 2016 (9)</li>
