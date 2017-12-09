@@ -79,7 +79,7 @@ Muhammad Sajjad, Salman Khan, Tanveer Hussain, <b>Khan Muhammad</b>, and Sung Wo
 <br>
 
 <li>
-Zahoor Ur Rehman, Sidra Nasim Khan, <b>Khan Muhammad</b>, Jong Weon Lee, and Irfan Mehmood, <a href="https://www.journals.elsevier.com/computers-and-electrical-engineering/" target="_blank">Machine Learning-Assisted Signature and Heuristic-based Detection of Malwares in Android Devices</a>, <i>Computers & Electrical Engineering</i>, 2017 (Accepted). [<b>IF</b>: 1.570, Q3]
+Zahoor Ur Rehman, Sidra Nasim Khan, <b>Khan Muhammad</b>, Jong Weon Lee, and Irfan Mehmood, <a href="http://www.sciencedirect.com/science/article/pii/S0045790617320256" target="_blank">Machine Learning-Assisted Signature and Heuristic-based Detection of Malwares in Android Devices</a>, <i>Computers & Electrical Engineering</i>, 2017 (Accepted). [<b>IF</b>: 1.570, Q3]
   </li>
 
 <br>
