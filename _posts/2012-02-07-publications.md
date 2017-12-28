@@ -37,7 +37,7 @@ Jamil Ahmad, <b>Khan Muhammad</b>, Jaime Lloret, and Sung Wook Baik, <a href="ht
   <br>
 
 <li>
-Jamil Ahmad, <b>Khan Muhammad</b>, and Sung Wook Baik, <a href="http://www.springer.com/public+health/journal/10916" target="_blank">Medical Image Retrieval with Compact Binary Codes Generated in Frequency Domain using Highly Reactive Convolutional Features</a>, <i>Journal of Medical Systems</i>, 2017 (In Press). [<b>IF</b>: 2.456, Q2]
+Jamil Ahmad, <b>Khan Muhammad</b>, and Sung Wook Baik, <a href="https://link.springer.com/article/10.1007/s10916-017-0875-4" target="_blank">Medical Image Retrieval with Compact Binary Codes Generated in Frequency Domain using Highly Reactive Convolutional Features</a>, <i>Journal of Medical Systems</i>, 2017 (In Press). [<b>IF</b>: 2.456, Q2]
   </li>
   
   <br>
