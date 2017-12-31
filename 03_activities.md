@@ -17,12 +17,13 @@ title: Professional Activities
 <ul><h1>Journal Referee (27)</h1>
     <li>IEEE Transactions on Image Processing since 2015 (1) </li>
     <li>IEEE Transactions on Industrial Informatics since 2017 (2) </li>
+    <li>IEEE Communication Magazine since 2017 (2) </li>
     <li>IEEE Internet of Things (IoT) since 2017 (2) </li>
     <li>ACM Transactions on Multimedia Computing Communications and Applications since 2017 (2) </li>
     <li>IEEE Access since 2017 (7) </li>
     <li>Elsevier Future Generation Computer Systems since 2016 (9)</li>
     <li>Elsevier Signal Processing since 2016 (3)</li>
-    <li>Elsevier Journal of Network and Computer Applications since 2017 (2)</li>
+    <li>Elsevier Journal of Network and Computer Applications since 2017 (4)</li>
     <li>Elsevier Signal Processing: Image Communication since 2017 (2)</li>
     <li>Elsevier Computer Communications since 2017 (2)</li>
     <li>Elsevier Journal of Parallel and Distributed Computing since 2017 (2)</li>
@@ -39,6 +40,7 @@ title: Professional Activities
     <li>SAGE International Journal of Distributed Sensor Networks since 2017 (2)</li>
     <li>Hindawi Computational Intelligence and Neuroscience since 2017 (2)</li>
     <li>Taylor & Francis Journal of Experimental and Theoretical Artificial Intelligence since 2015 (3)</li>
+    <li>Computer Science and Information Systems since 2017 (2)</li>
     <li>International Journal of Business Intelligence and Data Mining since 2017 (1)</li>
     <li>NED University Journal of Research since 2016 (2)</li>
     <li>EAI Endorsed Transactions on Security and Privacy since 2017 (1)</li>
