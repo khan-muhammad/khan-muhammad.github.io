@@ -19,6 +19,18 @@ li{
 <ol>
  
  <li>
+<b>Khan Muhammad</b>, Jamil Ahmad, and Sung Wook Baik, <a href="https://doi.org/10.1016/j.neucom.2017.04.083" target="_blank">Early Fire Detection using Convolutional Neural Networks during Surveillance for Effective Disaster Management</a>, <i>Neurocomputing</i>, 2017 (In Press). [<strong>IF</strong>: 3.317, Q1] 
+  </li>
+  
+  <br>
+  
+  <li>
+<b>Khan Muhammad</b>, Rafik Hamza, Jamil Ahmad, Jaime Lloret, Haoxiang Wang, and Sung Wook Baik, <a href="http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=9424" target="_blank">Secure Surveillance Framework for IoT systems using Probabilistic Image Encryption</a>, <i>IEEE Transactions on Industrial Informatics</i>, 2017 (In Revision). [<b>IF</b>: 6.764, Q1]
+  </li>
+  
+<br>
+ 
+ <li>
 Amin Ullah, Jamil Ahmad, <b>Khan Muhammad</b>, Muhammad Sajjad, and Sung Wook Baik, <a href="http://ieeexplore.ieee.org/document/8121994/" target="_blank">Action Recognition in Video Sequences using Deep Bidirectional LSTM with CNN Features</a>, <i>IEEE Access</i>, 2017 (In Press). [<b>IF</b>: 3.244, Q1]
   </li>
   
@@ -163,12 +175,6 @@ Jamil Ahmad, <b>Khan Muhammad</b>, Sambit Bakshi, and Sung Wook Baik, <a href="h
 <br>
 
 <li>
-<b>Khan Muhammad</b>, Rafik Hamza, Jamil Ahmad, Jaime Lloret, Haoxiang Wang, and Sung Wook Baik, <a href="http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=9424" target="_blank">Secure Surveillance Framework for IoT systems using Probabilistic Image Encryption</a>, <i>IEEE Transactions on Industrial Informatics</i>, 2017 (In Revision). [<b>IF</b>: 6.764, Q1]
-  </li>
-  
-<br>
-
-<li>
 Rafik Hamza, <b>Khan Muhammad</b>, Arunkumar Nachiappan, and Gustavo Ramírez González, <a href="https://doi.org/10.1109/ACCESS.2017.2762405" target="_blank">Hash based Encryption for Keyframes of Diagnostic Hysteroscopy</a>, <i>IEEE Access</i>, 2017 (Published). [<b>IF</b>: 3.244, Q1]
   </li>
 
@@ -188,13 +194,6 @@ Jamil Ahmad, <b>Khan Muhammad</b>, and Sung Wook Baik, <a href="http://journals.
   </li>
 
 <br>
-  
-
-<li>
-<b>Khan Muhammad</b>, Jamil Ahmad, and Sung Wook Baik, <a href="https://www.journals.elsevier.com/neurocomputing/" target="_blank">Early Fire Detection using Convolutional Neural Networks during Surveillance for Effective Disaster Management</a>, <i>Neurocomputing</i>, 2017 (Accepted). [<strong>IF</strong>: 3.317, Q1] 
-  </li>
-  
-  <br>
 
 <li>
 Rafik Hamza, <b>Khan Muhammad</b>, Zhihan Lv, Faiza Titouna, <a href="http://www.sciencedirect.com/science/article/pii/S1574119217301621" target="_blank">Secure Video Summarization Framework for Personalized Wireless Capsule Endoscopy</a>, <i>Pervasive and Mobile Computing</i>, 41 (October): 436-450, 2017. [<strong>IF</strong>: 2.349, Q2] 
