@@ -25,10 +25,16 @@ li{
   <br>
   
   <li>
-<b>Khan Muhammad</b>, Rafik Hamza, Jamil Ahmad, Jaime Lloret, Haoxiang Wang, and Sung Wook Baik, <a href="http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=9424" target="_blank">Secure Surveillance Framework for IoT systems using Probabilistic Image Encryption</a>, <i>IEEE Transactions on Industrial Informatics</i>, 2017 (In Revision). [<b>IF</b>: 6.764, Q1]
+<b>Khan Muhammad</b>, Rafik Hamza, Jamil Ahmad, Jaime Lloret, Haoxiang Wang, and Sung Wook Baik, <a href="http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=9424" target="_blank">Secure Surveillance Framework for IoT systems using Probabilistic Image Encryption</a>, <i>IEEE Transactions on Industrial Informatics</i>, 2017 (Accepted). [<b>IF</b>: 6.764, Q1]
   </li>
   
 <br>
+
+<li>
+<b>Khan Muhammad</b>, Jamil Ahmad, and Sung Wook Baik, <a href="http://ieeexplore.ieee.org/xpl/aboutJournal.jsp?punumber=6221021" target="_blank">Efficient Deep CNN-Based Fire Detection and Localization in Video Surveillance Applications</a>, <i>IEEE Transactions on Systems, Man, and Cybernetics: Systems</i>, 2018 (Minor Revision). [<strong>IF</strong>: 2.350, Q2] 
+  </li>
+  
+  <br>
  
  <li>
 Amin Ullah, Jamil Ahmad, <b>Khan Muhammad</b>, Muhammad Sajjad, and Sung Wook Baik, <a href="http://ieeexplore.ieee.org/document/8121994/" target="_blank">Action Recognition in Video Sequences using Deep Bidirectional LSTM with CNN Features</a>, <i>IEEE Access</i>, 2017 (In Press). [<b>IF</b>: 3.244, Q1]
@@ -49,7 +55,7 @@ Jamil Ahmad, <b>Khan Muhammad</b>, Jaime Lloret, and Sung Wook Baik, <a href="ht
   <br>
 
 <li>
-Jamil Ahmad, <b>Khan Muhammad</b>, and Sung Wook Baik, <a href="https://link.springer.com/article/10.1007/s10916-017-0875-4" target="_blank">Medical Image Retrieval with Compact Binary Codes Generated in Frequency Domain using Highly Reactive Convolutional Features</a>, <i>Journal of Medical Systems</i>, 2017 (In Press). [<b>IF</b>: 2.456, Q2]
+Jamil Ahmad, <b>Khan Muhammad</b>, and Sung Wook Baik, <a href="https://link.springer.com/article/10.1007/s10916-017-0875-4" target="_blank">Medical Image Retrieval with Compact Binary Codes Generated in Frequency Domain using Highly Reactive Convolutional Features</a>, <i>Journal of Medical Systems</i>, 2017 (Published). [<b>IF</b>: 2.456, Q2]
   </li>
   
   <br>
@@ -85,7 +91,7 @@ Jamil Ahmad, <b>Khan Muhammad</b>, and Sung Wook Baik, <a href="https://link.spr
 <br>
 
 <li>
-Muhammad Sajjad, Salman Khan, Tanveer Hussain, <b>Khan Muhammad</b>, and Sung Wook Baik, <a href="https://www.journals.elsevier.com/pattern-recognition-letters/" target="_blank">CNN based Anti-Spoofing Two Tier Multi-Factors Authentication System</a>, <i>Pattern Recognition Letters</i>, 2017 (In Peer Review). [<b>IF</b>: 1.995, Q2]
+Muhammad Sajjad, Salman Khan, Tanveer Hussain, <b>Khan Muhammad</b>, and Sung Wook Baik, <a href="https://www.journals.elsevier.com/pattern-recognition-letters/" target="_blank">CNN based Anti-Spoofing Two Tier Multi-Factors Authentication System</a>, <i>Pattern Recognition Letters</i>, 2017 (In Revision). [<b>IF</b>: 1.995, Q2]
   </li>
 
 <br>
@@ -103,13 +109,13 @@ Peer Azmat Shah, Khalid Mahmood Awan, Zahoor Ur Rehman, Khalid Iqbal, Farhan Aad
 <br>
 
 <li>
-Reem E. Mohamed, Walid Ghanem, Mohamed Elhoseny, <b>Khan Muhammad</b>, Muhammad Sajjad, <a href="https://www.journals.elsevier.com/computer-networks/" target="_blank">Energy Efficient Collaborative Proactive Routing Protocol for Wireless Sensor Network</a>, <i>Computer Networks</i>, 2017 (In Peer Review). [<b>IF</b>: 2.516, Q1]
+Reem E. Mohamed, Walid Ghanem, Mohamed Elhoseny, <b>Khan Muhammad</b>, Muhammad Sajjad, <a href="https://www.journals.elsevier.com/computer-networks/" target="_blank">Energy Efficient Collaborative Proactive Routing Protocol for Wireless Sensor Network</a>, <i>Computer Networks</i>, 2017 (In Revision). [<b>IF</b>: 2.516, Q1]
   </li>
 
 <br>
 
 <li>
-Muhammad Fahad, Farhan Aadil, Zahoor Ur Rehman, Salabat Khan, <b>Khan Muhammad</b>, Jaime Lloret, Haoxiang Wang, Jong Weon Lee, and Irfan Mehmood, <a href="https://www.journals.elsevier.com/computers-and-electrical-engineering/" target="_blank">GWOCNETs: Gray Wolf Optimization Based Clustering Algorithm for Vehicular Ad-Hoc Networks</a>, <i>Computers & Electrical Engineering</i>, 2017 (In Revision). [<b>IF</b>: 1.570, Q3]
+Muhammad Fahad, Farhan Aadil, Zahoor Ur Rehman, Salabat Khan, <b>Khan Muhammad</b>, Jaime Lloret, Haoxiang Wang, Jong Weon Lee, and Irfan Mehmood, <a href="https://www.journals.elsevier.com/computers-and-electrical-engineering/" target="_blank">GWOCNETs: Gray Wolf Optimization Based Clustering Algorithm for Vehicular Ad-Hoc Networks</a>, <i>Computers & Electrical Engineering</i>, 2017 (Accepted). [<b>IF</b>: 1.570, Q3]
   </li>
 
 <br>
@@ -127,13 +133,13 @@ Muhammad Sajjad, Mansoor Nasir, Fathu min Allah, <b>Khan Muhammad</b>, and Sung 
 <br>
 
 <li>
-Taayab Ateeq, Muhammad Nadeem Majeed, Syed Muhammad Anwar, Muazzam Maqsood, Zahoor Ur Rehman, Jong Weon Lee, <b>Khan Muhammad</b>, Sung Wook Baik, Irfan Mehmood, <a href="https://www.journals.elsevier.com/computers-and-electrical-engineering/" target="_blank">Ensemble Classifiers Assisted Detection of Cerebral Microbleeds in Brain MRI</a>, <i>Computers & Electrical Engineering</i>, 2017 (In Revision). [<b>IF</b>: 1.570, Q3]
+Taayab Ateeq, Muhammad Nadeem Majeed, Syed Muhammad Anwar, Muazzam Maqsood, Zahoor Ur Rehman, Jong Weon Lee, <b>Khan Muhammad</b>, Sung Wook Baik, Irfan Mehmood, <a href="https://www.journals.elsevier.com/computers-and-electrical-engineering/" target="_blank">Ensemble Classifiers Assisted Detection of Cerebral Microbleeds in Brain MRI</a>, <i>Computers & Electrical Engineering</i>, 2017 (Conditional Accept). [<b>IF</b>: 1.570, Q3]
   </li>
 
 <br>
 
 <li>
-Nasir Rahim, Jamil Ahmad, <b>Khan Muhammad</b>, and Sung Wook Baik, <a href="https://www.journals.elsevier.com/computer-communications/" target="_blank">Privacy-Preserving Image Retrieval for Mobile Devices with Deep Features on the Cloud</a>, <i>Computer Communications</i>, 2017 (In Peer Review). [<b>IF</b>: 3.338, Q1]
+Nasir Rahim, Jamil Ahmad, <b>Khan Muhammad</b>, and Sung Wook Baik, <a href="https://www.journals.elsevier.com/computer-communications/" target="_blank">Privacy-Preserving Image Retrieval for Mobile Devices with Deep Features on the Cloud</a>, <i>Computer Communications</i>, 2017 (In Revision). [<b>IF</b>: 3.338, Q1]
   </li>
 
 <br>
