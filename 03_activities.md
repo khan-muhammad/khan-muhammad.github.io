@@ -14,6 +14,12 @@ title: Professional Activities
 
 </style>
 
+<ul><h1>Journal Guest Editor (3)</h1>
+    <li>NED University Journal of Research: An Internaltional Journal 2017-2018 (LGE)</li>
+    <li>Wily Concurrency and Computation: Practice and Experience 2017-2018 (GE)</li>
+    <li>Journal of Information Privacy and Security 2017 (GE)</li>
+</ul>
+
 <ul><h1>Journal Referee (30)</h1>
     <li>IEEE Transactions on Image Processing since 2015 (1) </li>
     <li>IEEE Transactions on Industrial Informatics since 2017 (2) </li>
