@@ -28,18 +28,20 @@ title: Professional Activities
     <li>ACM Transactions on Multimedia Computing Communications and Applications since 2017 (2) </li>
     <li>IEEE Access since 2017 (7) </li>
     <li>Elsevier Future Generation Computer Systems since 2016 (9)</li>
+    <li>Elsevier International Journal of Information Management since 2018 (1)</li>
     <li>Elsevier Signal Processing since 2016 (3)</li>
     <li>Elsevier Journal of Network and Computer Applications since 2017 (4)</li>
     <li>Elsevier Signal Processing: Image Communication since 2017 (2)</li>
     <li>Elsevier Computer Communications since 2017 (2)</li>
+    <li>Elsevier Computer Networks since 2018 (2)</li>
     <li>Elsevier Journal of Parallel and Distributed Computing since 2017 (2)</li>
-    <li>Elsevier Journal of Computational Science since 2017 (3)</li>
+    <li>Elsevier Journal of Computational Science since 2017 (6)</li>
     <li>Elsevier Digital Communications and Networks since 2017 (2)</li>
     <li>Springer Mobile Networks and Applications since 2017 (2)</li>
     <li>Springer Multimedia Tools and Applications since 2015 (60)</li>
     <li>Springer Journal of SuperComputing since 2016 (6)</li>
     <li>Springer Medical & Biological Engineering & Computing since 2016 (6)</li>
-    <li>Springer Cluster Computing since 2017 (3)</li>
+    <li>Springer Cluster Computing since 2017 (5)</li>
     <li>Springer Nonlinear Dynamics since 2016 (2)</li>
     <li>Springer Journal of Ambient Intelligence and Humanized Computing since 2017 (2)</li>
     <li>Springer SpringerPlus since 2016 (1)</li>
