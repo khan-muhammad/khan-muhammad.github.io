@@ -25,7 +25,7 @@ li{
   <br>
   
   <li>
-<b>Khan Muhammad</b>, Rafik Hamza, Jamil Ahmad, Jaime Lloret, Haoxiang Wang, and Sung Wook Baik, <a href="http://ieeexplore.ieee.org/document/8253857/" target="_blank">Secure Surveillance Framework for IoT systems using Probabilistic Image Encryption</a>, <i>IEEE Transactions on Industrial Informatics</i>, 2017 (Accepted). [<b>IF</b>: 6.764, Q1]
+<b>Khan Muhammad</b>, Rafik Hamza, Jamil Ahmad, Jaime Lloret, Haoxiang Wang, and Sung Wook Baik, <a href="http://ieeexplore.ieee.org/document/8253857/" target="_blank">Secure Surveillance Framework for IoT systems using Probabilistic Image Encryption</a>, <i>IEEE Transactions on Industrial Informatics</i>, 2017 (In Press). [<b>IF</b>: 6.764, Q1]
   </li>
   
 <br>
@@ -49,7 +49,7 @@ Muhammad Sajjad, Ijaz Ul Haq, <b>Khan Muhammad</b>, and Sung Wook Baik, <a href=
 <br>
 
 <li>
-Jamil Ahmad, <b>Khan Muhammad</b>, Jaime Lloret, and Sung Wook Baik, <a href="http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=9424" target="_blank">Efficient Conversion of Deep Features to Compact Binary Codes using Fourier Decomposition for Multimedia Big Data</a>, <i>IEEE Transactions on Industrial Informatics</i>, 2017 (In Revision). [<b>IF</b>: 6.764, Q1]
+Jamil Ahmad, <b>Khan Muhammad</b>, Jaime Lloret, and Sung Wook Baik, <a href="http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=9424" target="_blank">Efficient Conversion of Deep Features to Compact Binary Codes using Fourier Decomposition for Multimedia Big Data</a>, <i>IEEE Transactions on Industrial Informatics</i>, 2017 (In Press). [<b>IF</b>: 6.764, Q1]
   </li>
   
   <br>
