@@ -3,6 +3,12 @@ layout: page
 title: Photo Gallery
 imgfolder: /public/gallery-pictures
 images:
+   - name: Khan_Jamil_2017_Taiwan.JPG
+    thumb: Khan_Jamil_2017_Taiwan.JPG
+    text: Memorable moments with Dr. Jamil Ahmad at SHU-TE University, Kaohsiung, Taiwan during ICNGC-2017.
+   - name: Taiwan_Holiday_Garden.JPG
+    thumb: Taiwan_Holiday_Garden.JPG
+    text: Memorable moments with Prof. Sung Wook Baik and Dr. Muhammad Sajjad At Holiday Garden Hotel, Kaohsiung, Taiwan during ICNGC-2017.
   - name: IMG_3926.JPG
     thumb: IMG_3926.JPG
     text: Memorable moments with Dr. Irfan Mehmood and Dr. Jamil Ahmad at Jeju Hallah University, Jeju, Republic of Korea
