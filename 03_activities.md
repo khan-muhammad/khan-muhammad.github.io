@@ -24,7 +24,7 @@ title: Professional Activities
     <li>IEEE Transactions on Image Processing since 2015 (1) </li>
     <li>IEEE Transactions on Industrial Informatics since 2017 (2) </li>
     <li>IEEE Communication Magazine since 2017 (2) </li>
-    <li>IEEE Internet of Things (IoT) since 2017 (2) </li>
+    <li>IEEE Internet of Things (IoT) since 2017 (5) </li>
     <li>ACM Transactions on Multimedia Computing Communications and Applications since 2017 (2) </li>
     <li>IEEE Access since 2017 (7) </li>
     <li>Elsevier Future Generation Computer Systems since 2016 (9)</li>
@@ -36,6 +36,7 @@ title: Professional Activities
     <li>Elsevier Computer Networks since 2018 (2)</li>
     <li>Elsevier Journal of Parallel and Distributed Computing since 2017 (2)</li>
     <li>Elsevier Journal of Computational Science since 2017 (6)</li>
+    <li>Elsevier Computers and Electrical Engineering since 2017 (2)</li>
     <li>Elsevier Digital Communications and Networks since 2017 (2)</li>
     <li>Springer Mobile Networks and Applications since 2017 (2)</li>
     <li>Springer Multimedia Tools and Applications since 2015 (60)</li>
