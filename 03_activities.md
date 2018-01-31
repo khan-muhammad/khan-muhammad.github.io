@@ -26,7 +26,7 @@ title: Professional Activities
     <li>IEEE Communication Magazine since 2017 (2) </li>
     <li>IEEE Internet of Things (IoT) since 2017 (5) </li>
     <li>ACM Transactions on Multimedia Computing Communications and Applications since 2017 (2) </li>
-    <li>IEEE Access since 2017 (7) </li>
+    <li>IEEE Access since 2017 (8) </li>
     <li>Elsevier Future Generation Computer Systems since 2016 (9)</li>
     <li>Elsevier International Journal of Information Management since 2018 (1)</li>
     <li>Elsevier Signal Processing since 2016 (3)</li>
