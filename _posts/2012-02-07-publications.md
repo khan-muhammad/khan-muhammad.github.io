@@ -86,7 +86,7 @@ Jamil Ahmad, <b>Khan Muhammad</b>, and Sung Wook Baik, <a href="http://www.sprin
 <br>
 
 <li>
-Jamil Ahmad, <b>Khan Muhammad</b>, and Sung Wook Baik, <a href="https://link.springer.com/article/10.1007/s10916-017-0836-y" target="_blank">Endoscopic Image Classification and Retrieval using Clustered Convolutional Features</a>, <i>Journal of Medical Systems</i>, 2017 (In Press). [<b>IF</b>: 2.456, Q2]
+Jamil Ahmad, <b>Khan Muhammad</b>, and Sung Wook Baik, <a href="https://link.springer.com/article/10.1007/s10916-017-0836-y" target="_blank">Endoscopic Image Classification and Retrieval using Clustered Convolutional Features</a>, <i>Journal of Medical Systems</i>, 2017 (Published). [<b>IF</b>: 2.456, Q2]
   </li>
   
 <br>
@@ -98,7 +98,7 @@ Muhammad Sajjad, Salman Khan, Tanveer Hussain, <b>Khan Muhammad</b>, and Sung Wo
 <br>
 
 <li>
-Zahoor Ur Rehman, Sidra Nasim Khan, <b>Khan Muhammad</b>, Jong Weon Lee, and Irfan Mehmood, <a href="http://www.sciencedirect.com/science/article/pii/S0045790617320256" target="_blank">Machine Learning-Assisted Signature and Heuristic-based Detection of Malwares in Android Devices</a>, <i>Computers & Electrical Engineering</i>, 2017 (Accepted). [<b>IF</b>: 1.570, Q3]
+Zahoor Ur Rehman, Sidra Nasim Khan, <b>Khan Muhammad</b>, Jong Weon Lee, and Irfan Mehmood, <a href="http://www.sciencedirect.com/science/article/pii/S0045790617320256" target="_blank">Machine Learning-Assisted Signature and Heuristic-based Detection of Malwares in Android Devices</a>, <i>Computers & Electrical Engineering</i>, 2017 (In press). [<b>IF</b>: 1.570, Q3]
   </li>
 
 <br>
@@ -116,7 +116,7 @@ Reem E. Mohamed, Walid Ghanem, Mohamed Elhoseny, <b>Khan Muhammad</b>, Muhammad 
 <br>
 
 <li>
-Muhammad Fahad, Farhan Aadil, Zahoor Ur Rehman, Salabat Khan, <b>Khan Muhammad</b>, Jaime Lloret, Haoxiang Wang, Jong Weon Lee, and Irfan Mehmood, <a href="https://www.journals.elsevier.com/computers-and-electrical-engineering/" target="_blank">GWOCNETs: Gray Wolf Optimization Based Clustering Algorithm for Vehicular Ad-Hoc Networks</a>, <i>Computers & Electrical Engineering</i>, 2017 (Accepted). [<b>IF</b>: 1.570, Q3]
+Muhammad Fahad, Farhan Aadil, Zahoor Ur Rehman, Salabat Khan, <b>Khan Muhammad</b>, Jaime Lloret, Haoxiang Wang, Jong Weon Lee, and Irfan Mehmood, <a href="https://www.sciencedirect.com/science/article/pii/S0045790617321031" target="_blank"> Grey wolf optimization based clustering algorithm for vehicular ad-hoc networks</a>, <i>Computers & Electrical Engineering</i>, 2017 (in press). [<b>IF</b>: 1.570, Q3]
   </li>
 
 <br>
@@ -176,7 +176,7 @@ Muhammad Sajjad, Muhammad Shoaib, <b>Khan Muhammad</b>, Zahoor Jan, S.Wang, J.T 
 <br>
 
 <li>
-Jamil Ahmad, <b>Khan Muhammad</b>, Sambit Bakshi, and Sung Wook Baik, <a href="https://doi.org/10.1016/j.future.2017.11.002" target="_blank">Object-Oriented Convolutional Features for Fine-Grained Image Retrieval in Large Surveillance Datasets</a>, <i>Future Generation Computer Systems</i>, 2017 (In press). [<b>IF</b>: 3.997, Q1]
+Jamil Ahmad, <b>Khan Muhammad</b>, Sambit Bakshi, and Sung Wook Baik, <a href="https://doi.org/10.1016/j.future.2017.11.002" target="_blank">Object-Oriented Convolutional Features for Fine-Grained Image Retrieval in Large Surveillance Datasets</a>, <i>Future Generation Computer Systems</i>, 81 (April): 314-330, 2018. [<b>IF</b>: 3.997, Q1]
   </li>
 
 <br>
