@@ -14,11 +14,11 @@ title: Professional Activities
 
 </style>
 
-<ul><h1>Journal Guest Editor (3)</h1>
+<ol><h1>Journal Guest Editor (3)</h1>
     <li>NED University Journal of Research: An Internaltional Journal 2017-2018 (LGE)</li>
     <li>Wily Concurrency and Computation: Practice and Experience 2017-2018 (GE)</li>
     <li>Journal of Information Privacy and Security 2017 (GE)</li>
-</ul>
+</ol>
 
 <ol><h1>Journal Referee (32)</h1>
     <li>IEEE Transactions on Image Processing since 2015 (1) </li>
@@ -58,7 +58,7 @@ title: Professional Activities
 
 </ol>
 
-<ul><h1>Conference Co-Chair/Committee/Member (9)</h1>
+<ol><h1>Conference Co-Chair/Committee/Member (9)</h1>
     <li><a href="http://www.kingpc.or.kr/wp/" target="_blank">ICNGC-2017b</a>, Kaohsiung, Taiwan</li>
     <li><a href="http://www.kingpc.or.kr/wp/" target="_blank">NGCC-17</a>, Jeju, Republic of Korea</li>
     <li><a href="http://www.icidic.org/cfp_eng/" target="_blank">IDICID-17</a>, Kaohsiung, Taiwan</li>
@@ -68,10 +68,10 @@ title: Professional Activities
     <li><a href="http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=55508&copyownerid=3746" target="_blank">FIT 2016</a>, Islamabad,      Pakistan</li>
     <li><a href="http://2016.platcon.org/" target="_blank">PlatCon-16</a>, Jeju, Republic of Korea</li>
     <li><a href="https://sites.google.com/site/icmita2015/index" target="_blank">MITA 2015</a>, Tashkent, Uzbekistan</li> 
-</ul>
+</ol>
 
-<ul><h1>Conference Referee (3)</h1>
+<ol><h1>Conference Referee (3)</h1>
     <li>AINA 2017 (6)</li>
     <li>ICNC 2017 (5)</li>
     <li>ICCCT 2015 (1)</li>
-</ul>
+</ol>
