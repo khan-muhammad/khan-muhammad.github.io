@@ -20,7 +20,7 @@ title: Professional Activities
     <li>Journal of Information Privacy and Security 2017 (GE)</li>
 </ul>
 
-<ul><h1>Journal Referee (32)</h1>
+<ol><h1>Journal Referee (32)</h1>
     <li>IEEE Transactions on Image Processing since 2015 (1) </li>
     <li>IEEE Transactions on Industrial Informatics since 2017 (2) </li>
     <li>IEEE Communication Magazine since 2017 (2) </li>
@@ -56,7 +56,7 @@ title: Professional Activities
     <li>EAI Endorsed Transactions on Security and Privacy since 2017 (1)</li>
     <li>Jordanian Journal of Computers and Information Technology since 2017 (2)</li>
 
-</ul>
+</ol>
 
 <ul><h1>Conference Co-Chair/Committee/Member (9)</h1>
     <li><a href="http://www.kingpc.or.kr/wp/" target="_blank">ICNGC-2017b</a>, Kaohsiung, Taiwan</li>
