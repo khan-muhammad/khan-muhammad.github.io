@@ -44,6 +44,7 @@ title: Professional Activities
     <li>Springer Medical & Biological Engineering & Computing since 2016 (6)</li>
     <li>Springer Cluster Computing since 2017 (5)</li>
     <li>Springer Nonlinear Dynamics since 2016 (2)</li>
+    <li>Springer EURASIP Journal on Image and Video Processing since 2018 (1)</li>
     <li>Springer Journal of Ambient Intelligence and Humanized Computing since 2017 (2)</li>
     <li>Springer SpringerPlus since 2016 (1)</li>
     <li>SAGE International Journal of Distributed Sensor Networks since 2017 (2)</li>
