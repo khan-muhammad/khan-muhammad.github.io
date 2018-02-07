@@ -20,7 +20,7 @@ title: Professional Activities
     <li>Journal of Information Privacy and Security 2017 (GE)</li>
 </ol>
 
-<ol><h1>Journal Referee (32)</h1>
+<ol><h1>Journal Referee (34)</h1>
     <li>IEEE Transactions on Image Processing since 2015 (1) </li>
     <li>IEEE Transactions on Industrial Informatics since 2017 (2) </li>
     <li>IEEE Communication Magazine since 2017 (2) </li>
