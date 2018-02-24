@@ -92,7 +92,7 @@ Jamil Ahmad, <b>Khan Muhammad</b>, and Sung Wook Baik, <a href="https://link.spr
 <br>
 
 <li>
-Muhammad Sajjad, Salman Khan, Tanveer Hussain, <b>Khan Muhammad</b>, and Sung Wook Baik, <a href="https://www.journals.elsevier.com/pattern-recognition-letters/" target="_blank">CNN based Anti-Spoofing Two Tier Multi-Factors Authentication System</a>, <i>Pattern Recognition Letters</i>, 2017 (In Revision). [<b>IF</b>: 1.995, Q2]
+Muhammad Sajjad, Salman Khan, Tanveer Hussain, <b>Khan Muhammad</b>, and Sung Wook Baik, <a href="https://www.sciencedirect.com/science/article/pii/S0167865518300588" target="_blank">CNN based Anti-Spoofing Two Tier Multi-Factors Authentication System</a>, <i>Pattern Recognition Letters</i>, 2017 (In Revision). [<b>IF</b>: 1.995, Q2]
   </li>
 
 <br>
