@@ -38,7 +38,7 @@ li{
   <br>
  
  <li>
-Amin Ullah, Jamil Ahmad, <b>Khan Muhammad</b>, Muhammad Sajjad, and Sung Wook Baik, <a href="http://ieeexplore.ieee.org/document/8121994/" target="_blank">Action Recognition in Video Sequences using Deep Bidirectional LSTM with CNN Features</a>, <i>IEEE Access</i>, 2017 (In Press). [<b>IF</b>: 3.244, Q1]
+Amin Ullah, Jamil Ahmad, <b>Khan Muhammad</b>, Muhammad Sajjad, and Sung Wook Baik, <a href="http://ieeexplore.ieee.org/document/8121994/" target="_blank">Action Recognition in Video Sequences using Deep Bidirectional LSTM with CNN Features</a>, <i>IEEE Access</i>, 2017 (Published). [<b>IF</b>: 3.244, Q1]
   </li>
   
 <br>
@@ -68,7 +68,7 @@ Muhammad Sajjad, Amin Ullah, Jamil Ahmad, <b>Khan Muhammad</b>, and Sung Wook Ba
  <br>
 
 <li>
-Jamil Ahmad, <b>Khan Muhammad</b>, Wakeel Ahmad, Melvyn Smith, Lyndon Smith, Deepak Jain, Haoxiang Wang, and Irfan Mehmood, <a href="https://www.journals.elsevier.com/computers-in-industry" target="_blank">Visual Features based Boosted Classification of Weeds for Real-Time Selective Herbicide Sprayer Systems</a>, <i>Computers in Industry</i>, 2017 (In Revision). [<b>IF</b>: 2.691, Q2]
+Jamil Ahmad, <b>Khan Muhammad</b>, Wakeel Ahmad, Melvyn Smith, Lyndon Smith, Deepak Jain, Haoxiang Wang, and Irfan Mehmood, <a href="https://www.journals.elsevier.com/computers-in-industry" target="_blank">Visual Features based Boosted Classification of Weeds for Real-Time Selective Herbicide Sprayer Systems</a>, <i>Computers in Industry</i>, 2017 (Accepted). [<b>IF</b>: 2.691, Q2]
   </li> 
   
  <br>
@@ -92,7 +92,7 @@ Jamil Ahmad, <b>Khan Muhammad</b>, and Sung Wook Baik, <a href="https://link.spr
 <br>
 
 <li>
-Muhammad Sajjad, Salman Khan, Tanveer Hussain, <b>Khan Muhammad</b>, and Sung Wook Baik, <a href="https://www.sciencedirect.com/science/article/pii/S0167865518300588" target="_blank">CNN based Anti-Spoofing Two Tier Multi-Factors Authentication System</a>, <i>Pattern Recognition Letters</i>, 2017 (In Revision). [<b>IF</b>: 1.995, Q2]
+Muhammad Sajjad, Salman Khan, Tanveer Hussain, <b>Khan Muhammad</b>, and Sung Wook Baik, <a href="https://www.sciencedirect.com/science/article/pii/S0167865518300588" target="_blank">CNN based Anti-Spoofing Two Tier Multi-Factors Authentication System</a>, <i>Pattern Recognition Letters</i>, 2017 (In Press). [<b>IF</b>: 1.995, Q2]
   </li>
 
 <br>
@@ -104,19 +104,19 @@ Zahoor Ur Rehman, Sidra Nasim Khan, <b>Khan Muhammad</b>, Jong Weon Lee, and Irf
 <br>
 
 <li>
-Peer Azmat Shah, Khalid Mahmood Awan, Zahoor Ur Rehman, Khalid Iqbal, Farhan Aadil, <b>Khan Muhammad</b>, Irfan Mehmood, and Sung Wook Baik, <a href="https://link.springer.com/journal/11036" target="_blank">A Route Optimized Distributed IP-based Mobility Management Protocol for Seamless Handover across Wireless Mesh Networks</a>, <i>Mobile Networks and Applications</i>, 2017 (Accepted). [<b>IF</b>: 3.259, Q1]
+Peer Azmat Shah, Khalid Mahmood Awan, Zahoor Ur Rehman, Khalid Iqbal, Farhan Aadil, <b>Khan Muhammad</b>, Irfan Mehmood, and Sung Wook Baik, <a href="https://link.springer.com/article/10.1007/s11036-018-1007-1" target="_blank">A Route Optimized Distributed IP-based Mobility Management Protocol for Seamless Handover across Wireless Mesh Networks</a>, <i>Mobile Networks and Applications</i>, 2017 (In Press). [<b>IF</b>: 3.259, Q1]
   </li>
 
 <br>
 
 <li>
-Reem E. Mohamed, Walid Ghanem, Mohamed Elhoseny, <b>Khan Muhammad</b>, Muhammad Sajjad, <a href="https://www.journals.elsevier.com/computer-networks/" target="_blank">Energy Efficient Collaborative Proactive Routing Protocol for Wireless Sensor Network</a>, <i>Computer Networks</i>, 2017 (In Revision). [<b>IF</b>: 2.516, Q1]
+Reem E. Mohamed, Walid Ghanem, Mohamed Elhoseny, <b>Khan Muhammad</b>, Muhammad Sajjad, <a href="https://www.journals.elsevier.com/computer-networks/" target="_blank">Energy Efficient Collaborative Proactive Routing Protocol for Wireless Sensor Network</a>, <i>Computer Networks</i>, 2017 (Conditional Accept). [<b>IF</b>: 2.516, Q1]
   </li>
 
 <br>
 
 <li>
-Muhammad Fahad, Farhan Aadil, Zahoor Ur Rehman, Salabat Khan, <b>Khan Muhammad</b>, Jaime Lloret, Haoxiang Wang, Jong Weon Lee, and Irfan Mehmood, <a href="https://www.sciencedirect.com/science/article/pii/S0045790617321031" target="_blank"> Grey wolf optimization based clustering algorithm for vehicular ad-hoc networks</a>, <i>Computers & Electrical Engineering</i>, 2017 (in press). [<b>IF</b>: 1.570, Q3]
+Muhammad Fahad, Farhan Aadil, Zahoor Ur Rehman, Salabat Khan, <b>Khan Muhammad</b>, Jaime Lloret, Haoxiang Wang, Jong Weon Lee, and Irfan Mehmood, <a href="https://www.sciencedirect.com/science/article/pii/S0045790617321031" target="_blank"> Grey wolf optimization based clustering algorithm for vehicular ad-hoc networks</a>, <i>Computers & Electrical Engineering</i>, 2017 (In press). [<b>IF</b>: 1.570, Q3]
   </li>
 
 <br>
@@ -134,7 +134,7 @@ Muhammad Sajjad, Mansoor Nasir, Fathu min Allah, <b>Khan Muhammad</b>, and Sung 
 <br>
 
 <li>
-Taayab Ateeq, Muhammad Nadeem Majeed, Syed Muhammad Anwar, Muazzam Maqsood, Zahoor Ur Rehman, Jong Weon Lee, <b>Khan Muhammad</b>, Sung Wook Baik, Irfan Mehmood, <a href="https://www.journals.elsevier.com/computers-and-electrical-engineering/" target="_blank">Ensemble Classifiers Assisted Detection of Cerebral Microbleeds in Brain MRI</a>, <i>Computers & Electrical Engineering</i>, 2017 (Conditional Accept). [<b>IF</b>: 1.570, Q3]
+Taayab Ateeq, Muhammad Nadeem Majeed, Syed Muhammad Anwar, Muazzam Maqsood, Zahoor Ur Rehman, Jong Weon Lee, <b>Khan Muhammad</b>, Sung Wook Baik, Irfan Mehmood, <a href="https://www.journals.elsevier.com/computers-and-electrical-engineering/" target="_blank">Ensemble Classifiers Assisted Detection of Cerebral Microbleeds in Brain MRI</a>, <i>Computers & Electrical Engineering</i>, 2017 (Accepted). [<b>IF</b>: 1.570, Q3]
   </li>
 
 <br>
@@ -170,7 +170,7 @@ Muhammad Sajjad, Mansoor Nasir, <b>Khan Muhammad</b>, Siraj Khan, Zahoor Jan, an
 <br>
 
 <li>
-Muhammad Sajjad, Muhammad Shoaib, <b>Khan Muhammad</b>, Zahoor Jan, S.Wang, J.T Kwak, Sung Wook Baik, and Irfan Mehmood, <a href="http://ieeexplore.ieee.org/document/7782368/" target="_blank">An Efficient Computerized Decision Support System for the Analysis and 3D Visualization of Brain MRI</a>, <i>IEEE Access</i>, 2017 (In Peer Review). [<b>IF</b>: 3.224, Q1]
+Muhammad Sajjad, Muhammad Shoaib, <b>Khan Muhammad</b>, Zahoor Jan, S.Wang, J.T Kwak, Sung Wook Baik, and Irfan Mehmood, <a href="http://ieeexplore.ieee.org/document/7782368/" target="_blank">An Efficient Computerized Decision Support System for the Analysis and 3D Visualization of Brain MRI</a>, <i>IEEE Access</i>, 2017 (In Revision). [<b>IF</b>: 3.224, Q1]
   </li>
 
 <br>
