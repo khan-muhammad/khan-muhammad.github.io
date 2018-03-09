@@ -68,8 +68,10 @@ Muhammad Sajjad, Amin Ullah, Jamil Ahmad, <b>Khan Muhammad</b>, and Sung Wook Ba
  <br>
 
 <li>
-Jamil Ahmad, <b>Khan Muhammad</b>, Wakeel Ahmad, Melvyn Smith, Lyndon Smith, Deepak Jain, Haoxiang Wang, and Irfan Mehmood, <a href="https://www.journals.elsevier.com/computers-in-industry" target="_blank">Visual Features based Boosted Classification of Weeds for Real-Time Selective Herbicide Sprayer Systems</a>, <i>Computers in Industry</i>, 2017 (Accepted). [<b>IF</b>: 2.691, Q2]
-  </li> 
+Jamil Ahmad, <b>Khan Muhammad</b>, Wakeel Ahmad, Melvyn Smith, Lyndon Smith, Deepak Jain, Haoxiang Wang, and Irfan Mehmood, <a href="https://www.sciencedirect.com/science/article/pii/S0166361517304293" target="_blank">Visual features based boosted classification of weeds for real-time selective herbicide sprayer systems</a>, <i>Computers in Industry</i>, 98 (June): 23-33, 2018 [<strong>IF</strong>: 2.691, Q2] <a class="pdflink" href="/public/papers/COMIND_Weed.pdf" target="_blank">
+      <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
+</a> 
+</li> 
   
  <br>
 
@@ -110,7 +112,8 @@ Peer Azmat Shah, Khalid Mahmood Awan, Zahoor Ur Rehman, Khalid Iqbal, Farhan Aad
 <br>
 
 <li>
-Reem E. Mohamed, Walid Ghanem, Mohamed Elhoseny, <b>Khan Muhammad</b>, Muhammad Sajjad, <a href="https://www.journals.elsevier.com/computer-networks/" target="_blank">Energy Efficient Collaborative Proactive Routing Protocol for Wireless Sensor Network</a>, <i>Computer Networks</i>, 2017 (Conditional Accept). [<b>IF</b>: 2.516, Q1]
+Mansoor Nasir, <b>Khan Muhammad</b>, Jaime Lloret, Muhammad Sajjad, <a href="https://www.journals.elsevier.com/journal-of-parallel-and-distributed-computing" target="_blank">Fog Computing Enabled Cost Effective Distributed Summarization of Surveillance Videos for
+Smart Cities</a>, <i>Journal of Parallel and Distributed Computing</i>, 2017 (In Peer Review). [<b>IF</b>: 1.930, Q2]
   </li>
 
 <br>
@@ -134,7 +137,7 @@ Muhammad Sajjad, Mansoor Nasir, Fathu min Allah, <b>Khan Muhammad</b>, and Sung 
 <br>
 
 <li>
-Taayab Ateeq, Muhammad Nadeem Majeed, Syed Muhammad Anwar, Muazzam Maqsood, Zahoor Ur Rehman, Jong Weon Lee, <b>Khan Muhammad</b>, Sung Wook Baik, Irfan Mehmood, <a href="https://www.journals.elsevier.com/computers-and-electrical-engineering/" target="_blank">Ensemble Classifiers Assisted Detection of Cerebral Microbleeds in Brain MRI</a>, <i>Computers & Electrical Engineering</i>, 2017 (Accepted). [<b>IF</b>: 1.570, Q3]
+Taayab Ateeq, Muhammad Nadeem Majeed, Syed Muhammad Anwar, Muazzam Maqsood, Zahoor Ur Rehman, Jong Weon Lee, <b>Khan Muhammad</b>, Sung Wook Baik, Irfan Mehmood, <a href="https://www.sciencedirect.com/science/article/pii/S0045790617321031" target="_blank">Ensemble Classifiers Assisted Detection of Cerebral Microbleeds in Brain MRI</a>, <i>Computers & Electrical Engineering</i>, 2017 (In press). [<b>IF</b>: 1.570, Q3]
   </li>
 
 <br>
@@ -197,7 +200,10 @@ Jamil Ahmad, <b>Khan Muhammad</b>, and Sung Wook Baik, <a href="http://journals.
   <br>
 
 <li>
-<b>Khan Muhammad</b>, Jamil Ahmad, Irfan Mehmood, Seungmin Rho and Sung Wook Baik, <a href="https://www.journals.elsevier.com/journal-of-parallel-and-distributed-computing/" target="_blank">Convolutional Neural Networks based Fire Detection in Surveillance Videos</a>, <i>Journal of Parallel and Distributed Computing</i>, 2017 (In Revision). [<strong>IF</strong>: 1.930, Q2] 
+<b>Khan Muhammad</b>, Jamil Ahmad, Irfan Mehmood, Seungmin Rho and Sung Wook Baik, <a href="https://www.journals.elsevier.com/journal-of-parallel-and-distributed-computing/" target="_blank">Convolutional Neural Networks based Fire Detection in Surveillance Videos</a>, <i>IEEE Access</i>, 2017. [<strong>IF</strong>: 3.244, Q1]
+<a class="pdflink" href="/public/papers/IEEE_Access_GFire.pdf" target="_blank">
+      <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
+</a> 
   </li>
 
 <br>
