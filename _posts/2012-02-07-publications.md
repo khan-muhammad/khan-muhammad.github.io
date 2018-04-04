@@ -39,7 +39,7 @@ li{
 <br>
 
 <li>
-<b>Khan Muhammad</b>, Jamil Ahmad, and Sung Wook Baik, <a href="http://ieeexplore.ieee.org/xpl/aboutJournal.jsp?punumber=6221021" target="_blank">Efficient Deep CNN-Based Fire Detection and Localization in Video Surveillance Applications</a>, <i>IEEE Transactions on Systems, Man, and Cybernetics: Systems</i>, 2018 (Minor Revision). [<strong>IF</strong>: 2.350, Q2]
+<b>Khan Muhammad</b>, Jamil Ahmad, and Sung Wook Baik, <a href="http://ieeexplore.ieee.org/xpl/aboutJournal.jsp?punumber=6221021" target="_blank">Efficient Deep CNN-Based Fire Detection and Localization in Video Surveillance Applications</a>, <i>IEEE Transactions on Systems, Man, and Cybernetics: Systems</i>, 2018 (Accept with Minor Revision). [<strong>IF</strong>: 2.350, Q2]
  <a class="pdflink" href="/public/papers/TSMC_Fire.pdf" target="_blank">
       <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
 </a>
@@ -282,7 +282,7 @@ Jamil Ahmad, <b>Khan Muhammad</b>, and Sung Wook Baik, <a href="http://journals.
   <br>
 
 <li>
-<b>Khan Muhammad</b>, Jamil Ahmad, Irfan Mehmood, Seungmin Rho and Sung Wook Baik, <a href="https://www.journals.elsevier.com/journal-of-parallel-and-distributed-computing/" target="_blank">Convolutional Neural Networks based Fire Detection in Surveillance Videos</a>, <i>IEEE Access</i>, 2017. [<strong>IF</strong>: 3.244, Q1]
+<b>Khan Muhammad</b>, Jamil Ahmad, Irfan Mehmood, Seungmin Rho and Sung Wook Baik, <a href="http://ieeexplore.ieee.org/abstract/document/8307064/" target="_blank">Convolutional Neural Networks based Fire Detection in Surveillance Videos</a>, <i>IEEE Access</i>, 2017. [<strong>IF</strong>: 3.244, Q1]
 <a class="pdflink" href="/public/papers/IEEE_Access_GFire.pdf" target="_blank">
       <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
 </a> 
