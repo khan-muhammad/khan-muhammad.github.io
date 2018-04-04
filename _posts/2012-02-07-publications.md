@@ -20,49 +20,74 @@ li{
 <ol>
  
  <li>
-<b>Khan Muhammad</b>, Jamil Ahmad, and Sung Wook Baik, <a href="https://doi.org/10.1016/j.neucom.2017.04.083" target="_blank">Early Fire Detection using Convolutional Neural Networks during Surveillance for Effective Disaster Management</a>, <i>Neurocomputing</i>, 2017 (In Press). [<strong>IF</strong>: 3.317, Q1] 
+<b>Khan Muhammad</b>, Jamil Ahmad, and Sung Wook Baik, <a href="https://doi.org/10.1016/j.neucom.2017.04.083" target="_blank">Early Fire Detection using Convolutional Neural Networks during Surveillance for Effective Disaster Management</a>, <i>Neurocomputing</i>, 288 (May): 30-42, 2018. [<strong>IF</strong>: 3.317, Q1]
+<a class="pdflink" href="/public/papers/Neurocomputing_Fire.pdf" target="_blank">
+      <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
+</a>
+ 
   </li>
   
   <br>
   
   <li>
 <b>Khan Muhammad</b>, Rafik Hamza, Jamil Ahmad, Jaime Lloret, Haoxiang Wang, and Sung Wook Baik, <a href="http://ieeexplore.ieee.org/document/8253857/" target="_blank">Secure Surveillance Framework for IoT systems using Probabilistic Image Encryption</a>, <i>IEEE Transactions on Industrial Informatics</i>, 2017 (In Press). [<b>IF</b>: 6.764, Q1]
+ <a class="pdflink" href="/public/papers/TII_Encryption.pdf" target="_blank">
+      <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
+</a>
   </li>
   
 <br>
 
 <li>
-<b>Khan Muhammad</b>, Jamil Ahmad, and Sung Wook Baik, <a href="http://ieeexplore.ieee.org/xpl/aboutJournal.jsp?punumber=6221021" target="_blank">Efficient Deep CNN-Based Fire Detection and Localization in Video Surveillance Applications</a>, <i>IEEE Transactions on Systems, Man, and Cybernetics: Systems</i>, 2018 (Minor Revision). [<strong>IF</strong>: 2.350, Q2] 
+<b>Khan Muhammad</b>, Jamil Ahmad, and Sung Wook Baik, <a href="http://ieeexplore.ieee.org/xpl/aboutJournal.jsp?punumber=6221021" target="_blank">Efficient Deep CNN-Based Fire Detection and Localization in Video Surveillance Applications</a>, <i>IEEE Transactions on Systems, Man, and Cybernetics: Systems</i>, 2018 (Minor Revision). [<strong>IF</strong>: 2.350, Q2]
+ <a class="pdflink" href="/public/papers/TSMC_Fire.pdf" target="_blank">
+      <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
+</a>
   </li>
   
   <br>
  
  <li>
 Amin Ullah, Jamil Ahmad, <b>Khan Muhammad</b>, Muhammad Sajjad, and Sung Wook Baik, <a href="http://ieeexplore.ieee.org/document/8121994/" target="_blank">Action Recognition in Video Sequences using Deep Bidirectional LSTM with CNN Features</a>, <i>IEEE Access</i>, 2017 (Published). [<b>IF</b>: 3.244, Q1]
+ <a class="pdflink" href="/public/papers/Amin_Action_LSTM.pdf" target="_blank">
+      <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
+</a>
   </li>
   
 <br>
 
 <li>
 Muhammad Sajjad, Ijaz Ul Haq, <b>Khan Muhammad</b>, and Sung Wook Baik, <a href="http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=83" target="_blank">Robust Image Hashing Based Authentication of Keyframes Extracted using Video Summarization in Surveillance Applications</a>, <i>IEEE Transactions on Image Processing</i>, 2017 (In Peer Review). [<b>IF</b>: 4.828, Q1]
+ <a class="pdflink" href="/public/papers/Ijaz_Hashing_TSMC.pdf" target="_blank">
+      <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
+</a>
   </li>
   
 <br>
 
 <li>
 Jamil Ahmad, <b>Khan Muhammad</b>, Jaime Lloret, and Sung Wook Baik, <a href="http://ieeexplore.ieee.org/document/8276643/?punumber=9424" target="_blank">Efficient Conversion of Deep Features to Compact Binary Codes using Fourier Decomposition for Multimedia Big Data</a>, <i>IEEE Transactions on Industrial Informatics</i>, 2017 (In Press). [<b>IF</b>: 6.764, Q1]
+ <a class="pdflink" href="/public/papers/Jamil_TII_Hash_Codes.pdf" target="_blank">
+      <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
+</a>
   </li>
   
   <br>
 
 <li>
 Jamil Ahmad, <b>Khan Muhammad</b>, and Sung Wook Baik, <a href="https://link.springer.com/article/10.1007/s10916-017-0875-4" target="_blank">Medical Image Retrieval with Compact Binary Codes Generated in Frequency Domain using Highly Reactive Convolutional Features</a>, <i>Journal of Medical Systems</i>, 2017 (Published). [<b>IF</b>: 2.456, Q2]
+ <a class="pdflink" href="/public/papers/Jamil_JOMS.pdf" target="_blank">
+      <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
+</a>
   </li>
   
   <br>
 
 <li>
 Muhammad Sajjad, Amin Ullah, Jamil Ahmad, <b>Khan Muhammad</b>, and Sung Wook Baik, <a href="https://www.journals.elsevier.com/computers-and-electrical-engineering/" target="_blank">Image Retrieval and Recognition in Smart Phone Gallery Using Convolutional Facial Features</a>, <i>Computers & Electrical Engineering</i>, 2017 (In Peer Review). [<b>IF</b>: 1.570, Q3]
+ <a class="pdflink" href="/public/papers/Sajjad_JOMS.pdf" target="_blank">
+      <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
+</a>
   </li>
   
  <br>
@@ -77,36 +102,54 @@ Jamil Ahmad, <b>Khan Muhammad</b>, Wakeel Ahmad, Melvyn Smith, Lyndon Smith, Dee
 
 <li>
 Noor Ullah, Jamil Ahmad, Amin Ullah, <b>Khan Muhammad</b>, and Sung Wook Baik, <a href="https://link.springer.com/journal/521" target="_blank">Biomedical Documents Classification and Retrieval with Text and Figure Features using Deep Convolutional Neural Networks</a>, <i>Neural Computing and Applications</i>, 2017 (In Peer review). [<b>IF</b>: 2.505, Q2]
+ <a class="pdflink" href="/public/papers/Jamil_JOMS.pdf" target="_blank">
+      <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
+</a>
   </li>
   
 <br>
 
 <li>
 Jamil Ahmad, <b>Khan Muhammad</b>, and Sung Wook Baik, <a href="http://www.springer.com/computer/image+processing/journal/11554" target="_blank">Partially Shaded Sketch-based Image Search in Real Mobile Device Environments via Sketch-Oriented Compact Neural Codes</a>, <i>Journal of Real-Time Image Processing</i>, 2017 (In Revision). [<b>IF</b>: 2.010, Q2]
+ <a class="pdflink" href="/public/papers/Jamil_RTIP.pdf" target="_blank">
+      <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
+</a>
   </li>
 
 <br>
 
 <li>
 Jamil Ahmad, <b>Khan Muhammad</b>, and Sung Wook Baik, <a href="https://link.springer.com/article/10.1007/s10916-017-0836-y" target="_blank">Endoscopic Image Classification and Retrieval using Clustered Convolutional Features</a>, <i>Journal of Medical Systems</i>, 2017 (Published). [<b>IF</b>: 2.456, Q2]
+ <a class="pdflink" href="/public/papers/Jamil_JOMS_Endoscopic_Videos.pdf" target="_blank">
+      <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
+</a>
   </li>
   
 <br>
 
 <li>
 Muhammad Sajjad, Salman Khan, Tanveer Hussain, <b>Khan Muhammad</b>, and Sung Wook Baik, <a href="https://www.sciencedirect.com/science/article/pii/S0167865518300588" target="_blank">CNN based Anti-Spoofing Two Tier Multi-Factors Authentication System</a>, <i>Pattern Recognition Letters</i>, 2017 (In Press). [<b>IF</b>: 1.995, Q2]
+ <a class="pdflink" href="/public/papers/Sajjad_PRL_Spoofing.pdf" target="_blank">
+      <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
+</a>
   </li>
 
 <br>
 
 <li>
 Zahoor Ur Rehman, Sidra Nasim Khan, <b>Khan Muhammad</b>, Jong Weon Lee, and Irfan Mehmood, <a href="http://www.sciencedirect.com/science/article/pii/S0045790617320256" target="_blank">Machine Learning-Assisted Signature and Heuristic-based Detection of Malwares in Android Devices</a>, <i>Computers & Electrical Engineering</i>, 2017 (In press). [<b>IF</b>: 1.570, Q3]
+ <a class="pdflink" href="/public/papers/CEE_Malware.pdf" target="_blank">
+      <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
+</a>
   </li>
 
 <br>
 
 <li>
 Peer Azmat Shah, Khalid Mahmood Awan, Zahoor Ur Rehman, Khalid Iqbal, Farhan Aadil, <b>Khan Muhammad</b>, Irfan Mehmood, and Sung Wook Baik, <a href="https://link.springer.com/article/10.1007/s11036-018-1007-1" target="_blank">A Route Optimized Distributed IP-based Mobility Management Protocol for Seamless Handover across Wireless Mesh Networks</a>, <i>Mobile Networks and Applications</i>, 2017 (In Press). [<b>IF</b>: 3.259, Q1]
+ <a class="pdflink" href="/public/papers/MONET_Mesh_Networks.pdf" target="_blank">
+      <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
+</a>
   </li>
 
 <br>
@@ -114,78 +157,117 @@ Peer Azmat Shah, Khalid Mahmood Awan, Zahoor Ur Rehman, Khalid Iqbal, Farhan Aad
 <li>
 Mansoor Nasir, <b>Khan Muhammad</b>, Jaime Lloret, Muhammad Sajjad, <a href="https://www.journals.elsevier.com/journal-of-parallel-and-distributed-computing" target="_blank">Fog Computing Enabled Cost Effective Distributed Summarization of Surveillance Videos for
 Smart Cities</a>, <i>Journal of Parallel and Distributed Computing</i>, 2017 (In Peer Review). [<b>IF</b>: 1.930, Q2]
+ <a class="pdflink" href="/public/papers/Mansoor_JPDC.pdf" target="_blank">
+      <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
+</a>
   </li>
 
 <br>
 
 <li>
 Muhammad Fahad, Farhan Aadil, Zahoor Ur Rehman, Salabat Khan, <b>Khan Muhammad</b>, Jaime Lloret, Haoxiang Wang, Jong Weon Lee, and Irfan Mehmood, <a href="https://www.sciencedirect.com/science/article/pii/S0045790617321031" target="_blank"> Grey wolf optimization based clustering algorithm for vehicular ad-hoc networks</a>, <i>Computers & Electrical Engineering</i>, 2017 (In press). [<b>IF</b>: 1.570, Q3]
+ <a class="pdflink" href="/public/papers/CEE_Greywolf.pdf" target="_blank">
+      <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
+</a>
   </li>
 
 <br>
 
 <li>
 Muhammad Sajjad, Muhammad Irfan, Mansoor Nasir, <b>Khan Muhammad</b>, and Sung Wook Baik, <a href="http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6287639" target="_blank">Raspberry Pi based CNN Assisted Self Driving Model Car</a>, <i>IEEE Access</i>, 2017 (In Peer Review). [<b>IF</b>: 3.244, Q1]
+ <a class="pdflink" href="/public/papers/CEE_Malware.pdf" target="_blank">
+      <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
+</a>
   </li>
 
 <br>
 
 <li>
 Muhammad Sajjad, Mansoor Nasir, Fathu min Allah, <b>Khan Muhammad</b>, and Sung Wook Baik, <a href="https://www.journals.elsevier.com/information-sciences/" target="_blank">Raspberry Pi Assisted Facial Expression Recognition Framework for Smart Security in Law-Enforcement Services</a>, <i>Information Sciences</i>, 2017 (In Revision). [<b>IF</b>: 4.832, Q1]
+ <a class="pdflink" href="/public/papers/Sajjad_INS_PI.pdf" target="_blank">
+      <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
+</a>
   </li>
 
 <br>
 
 <li>
 Taayab Ateeq, Muhammad Nadeem Majeed, Syed Muhammad Anwar, Muazzam Maqsood, Zahoor Ur Rehman, Jong Weon Lee, <b>Khan Muhammad</b>, Sung Wook Baik, Irfan Mehmood, <a href="https://www.sciencedirect.com/science/article/pii/S0045790617321031" target="_blank">Ensemble Classifiers Assisted Detection of Cerebral Microbleeds in Brain MRI</a>, <i>Computers & Electrical Engineering</i>, 2017 (In press). [<b>IF</b>: 1.570, Q3]
+ <a class="pdflink" href="/public/papers/CEE_Fahad_Brain_MRI.pdf" target="_blank">
+      <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
+</a>
   </li>
 
 <br>
 
 <li>
 Nasir Rahim, Jamil Ahmad, <b>Khan Muhammad</b>, and Sung Wook Baik, <a href="https://www.journals.elsevier.com/computer-communications/" target="_blank">Privacy-Preserving Image Retrieval for Mobile Devices with Deep Features on the Cloud</a>, <i>Computer Communications</i>, 2017 (In Revision). [<b>IF</b>: 3.338, Q1]
+ <a class="pdflink" href="/public/papers/Nasir_COMCOM.pdf" target="_blank">
+      <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
+</a>
   </li>
 
 <br>
 
 <li>
 Rafik Hamza, <b>Khan Muhammad</b>, P.Bellavista, Faiza Titouna, <a href="https://link.springer.com/journal/11276" target="_blank">A Fast Image Encryption Scheme based on New PRNG for Keyframes Extracted during Wireless Capsule Endoscopy</a>, <i>Wireless Networks</i>, 2017 (In Peer Review). [<b>IF</b>: 1.584, Q2]
+ <a class="pdflink" href="/public/papers/Hamza_WINET.pdf" target="_blank">
+      <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
+</a>
   </li>
 
 <br>
 
 <li>
 Abdul Malik Badshah, Nasir Rahim, Noor Ullah, Jamil Ahmad, <b>Khan Muhammad</b>, Mi Young Lee, Soon-Il Kwan, and Sung Wook Baik, <a href="https://link.springer.com/article/10.1007/s11042-017-5292-7" target="_blank">Deep Features-Based Speech Emotion Recognition for Smart Affective Services</a>, <i>Multimedia Tools and Applications</i>, 2017 (In Press). [<b>IF</b>: 1.530, Q2]
+ <a class="pdflink" href="/public/papers/Malik_MTAP_SER.pdf" target="_blank">
+      <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
+</a>
   </li>
 
 <br>
 
 <li>
 Mansoor Nasir, Naveed Abbas, Tamleek Ali Tanveer, <b>Khan Muhammad</b>, Muhammad Sajjad, et al., <a href="http://www.springer.com/computer/communication+networks/journal/10922" target="_blank">Towards Prioritization in Distributed Alert Fusion using Distributed Hash Tables</a>, <i>Journal of Network and Systems Management</i>, 2017 (In Revision). [<b>IF</b>: 1.588, Q2]
+ <a class="pdflink" href="/public/papers/Mansoor_JNSM.pdf" target="_blank">
+      <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
+</a>
   </li>
 
 <br>
 
 <li>
 Muhammad Sajjad, Mansoor Nasir, <b>Khan Muhammad</b>, Siraj Khan, Zahoor Jan, and Sung Wook Baik, <a href="https://doi.org/10.1016/j.future.2017.11.013" target="_blank">Raspberry Pi Assisted Face Recognition Framework for Enhanced Law-Enforcement Services in Smart Cities</a>, <i>Future Generation Computer Systems</i>, 2017 (In Press). [<b>IF</b>: 3.997, Q1]
+ <a class="pdflink" href="/public/papers/Sajjad_FGCS_PI.pdf" target="_blank">
+      <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
+</a>
   </li>
 
 <br>
 
 <li>
 Muhammad Sajjad, Muhammad Shoaib, <b>Khan Muhammad</b>, Zahoor Jan, S.Wang, J.T Kwak, Sung Wook Baik, and Irfan Mehmood, <a href="http://ieeexplore.ieee.org/document/7782368/" target="_blank">An Efficient Computerized Decision Support System for the Analysis and 3D Visualization of Brain MRI</a>, <i>IEEE Access</i>, 2017 (In Revision). [<b>IF</b>: 3.224, Q1]
+ <a class="pdflink" href="/public/papers/Sajjad_MTAP_Brain_MRI.pdf" target="_blank">
+      <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
+</a>
   </li>
 
 <br>
 
 <li>
 Jamil Ahmad, <b>Khan Muhammad</b>, Sambit Bakshi, and Sung Wook Baik, <a href="https://doi.org/10.1016/j.future.2017.11.002" target="_blank">Object-Oriented Convolutional Features for Fine-Grained Image Retrieval in Large Surveillance Datasets</a>, <i>Future Generation Computer Systems</i>, 81 (April): 314-330, 2018. [<b>IF</b>: 3.997, Q1]
+ <a class="pdflink" href="/public/papers/Jamil_FGCS_OOCNN.pdf" target="_blank">
+      <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
+</a>
   </li>
 
 <br>
 
 <li>
 Rafik Hamza, <b>Khan Muhammad</b>, Arunkumar Nachiappan, and Gustavo Ramírez González, <a href="https://doi.org/10.1109/ACCESS.2017.2762405" target="_blank">Hash based Encryption for Keyframes of Diagnostic Hysteroscopy</a>, <i>IEEE Access</i>, 2017 (Published). [<b>IF</b>: 3.244, Q1]
+ <a class="pdflink" href="/public/papers/Hamza_Access_DH.pdf" target="_blank">
+      <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
+</a>
   </li>
 
 <br>
