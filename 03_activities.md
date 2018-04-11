@@ -30,10 +30,13 @@ title: Professional Activities
     <li>Elsevier Future Generation Computer Systems since 2016 (9)</li>
     <li>Elsevier International Journal of Information Management since 2018 (1)</li>
     <li>Elsevier Signal Processing since 2016 (3)</li>
+    <li>Elsevier Neurocomputing since 2018 (1)</li>
     <li>Elsevier Journal of Network and Computer Applications since 2017 (4)</li>
     <li>Elsevier Signal Processing: Image Communication since 2017 (2)</li>
     <li>Elsevier Computer Communications since 2017 (2)</li>
     <li>Elsevier Computer Networks since 2018 (2)</li>
+    <li>Elsevier Optics and Lasers in Engineering since 2018 (3)</li>
+    <li>Elsevier Computer Methods and Programs in Biomedicine since 2018 (3)</li>
     <li>Elsevier Journal of Parallel and Distributed Computing since 2017 (2)</li>
     <li>Elsevier Journal of Computational Science since 2017 (6)</li>
     <li>Elsevier Computers and Electrical Engineering since 2017 (2)</li>
