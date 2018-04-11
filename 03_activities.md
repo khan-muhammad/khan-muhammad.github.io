@@ -20,10 +20,11 @@ title: Professional Activities
     <li>Journal of Information Privacy and Security 2017 (GE)</li>
 </ol>
 
-<ol><h1>Journal Referee (34)</h1>
+<ol><h1>Journal Referee (39)</h1>
     <li>IEEE Transactions on Image Processing since 2015 (1) </li>
     <li>IEEE Transactions on Industrial Informatics since 2017 (2) </li>
-    <li>IEEE Communication Magazine since 2017 (2) </li>
+    <li>IEEE Communications Magazine since 2017 (2) </li>
+    <li>IEEE Wireless Communications Magazine since 2018 (2) </li>
     <li>IEEE Internet of Things (IoT) since 2017 (5) </li>
     <li>ACM Transactions on Multimedia Computing Communications and Applications since 2017 (2) </li>
     <li>IEEE Access since 2017 (8) </li>
@@ -41,12 +42,14 @@ title: Professional Activities
     <li>Elsevier Journal of Computational Science since 2017 (6)</li>
     <li>Elsevier Computers and Electrical Engineering since 2017 (2)</li>
     <li>Elsevier Digital Communications and Networks since 2017 (2)</li>
+    <li>Elsevier Journal of King Saud University - Computer and Information Sciences since 2018 (2)</li>
     <li>Springer Mobile Networks and Applications since 2017 (2)</li>
     <li>Springer Multimedia Tools and Applications since 2015 (60)</li>
     <li>Springer Journal of SuperComputing since 2016 (6)</li>
     <li>Springer Medical & Biological Engineering & Computing since 2016 (6)</li>
     <li>Springer Cluster Computing since 2017 (5)</li>
     <li>Springer Nonlinear Dynamics since 2016 (2)</li>
+    <li>Springer Neural Computing and Applications since 2018 (2)</li>
     <li>Springer EURASIP Journal on Image and Video Processing since 2018 (1)</li>
     <li>Springer Journal of Ambient Intelligence and Humanized Computing since 2017 (2)</li>
     <li>Springer SpringerPlus since 2016 (1)</li>
