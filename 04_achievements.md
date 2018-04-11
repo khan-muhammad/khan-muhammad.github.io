@@ -19,6 +19,15 @@ title: Awards and Achievements
 <ul>
 <li>
   <p>
+    Outstanding Reviewer Award from Elsevier Future Generation Computer Systems Journal, 2017
+   </p>
+   <img src="/public/Reviewers/Out_FGCS_2017.pdf">
+ </li>
+
+ <br>
+ 
+<li>
+  <p>
     Best Paper Award at Next Generation Computing Conference, held at Jeju Halla University, Jeju, Republic of Korea, 2017
    </p>
    <img src="/public/pictures/Best_Paper_Award_2017.jpeg">
