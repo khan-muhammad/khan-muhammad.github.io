@@ -71,7 +71,7 @@ title: Research Team
 	
 	<div  style="padding: 20px" >
 	<img width="200px" height="250px" src="/public/pictures/nasir.jpg">
-        <a     href="https://khan-muhammad.github.io/05_team/" target="_blank">
+        <a     href="https://www.researchgate.net/profile/Nasir_Rahim4" target="_blank">
         Nasir Rahim
  		</a>		 
        </div>
