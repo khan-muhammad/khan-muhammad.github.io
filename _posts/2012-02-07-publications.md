@@ -15,7 +15,7 @@ li{
  
 </style>
 <h3>Disclaimer Notice: Please note that all the papers are archived for personal use only. And you are legally forbidden to reproduce or distribute them without explicit permission of the copyright holders.</h3>
-<h1>SCI/SCIE/IF Journal Articles (42)</h1>
+<h1>SCI/SCIE/IF Journal Articles (43)</h1>
 
 <ol>
  
@@ -50,6 +50,15 @@ li{
  <li>
 Amin Ullah, Jamil Ahmad, <b>Khan Muhammad</b>, Muhammad Sajjad, and Sung Wook Baik, <a href="http://ieeexplore.ieee.org/document/8121994/" target="_blank">Action Recognition in Video Sequences using Deep Bidirectional LSTM with CNN Features</a>, <i>IEEE Access</i>, 2017 (Published). [<b>IF</b>: 3.244, Q1]
  <a class="pdflink" href="/public/papers/Amin_Action_LSTM.pdf" target="_blank">
+      <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
+</a>
+  </li>
+  
+<br>
+
+<li>
+Jamil Ahmad, <b>Khan Muhammad</b>, Sambit Bakshi, and Sung Wook Baik, <a href="https://www.sciencedirect.com/science/article/pii/S0167739X17318575" target="_blank">Object-oriented convolutional features for fine-grained image retrieval in large surveillance datasets</a>, <i>Future Generation Computer Systems</i>, Vol. 81 (April): 314-330, 2018. [<b>IF</b>: 3.997, Q1]
+ <a class="pdflink" href="/public/papers/Jamil_FGCS_2018.pdf" target="_blank">
       <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
 </a>
   </li>
