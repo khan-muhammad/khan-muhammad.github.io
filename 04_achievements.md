@@ -20,19 +20,39 @@ title: Awards and Achievements
 
 <li>
   <p>
-    Outstanding Reviewer Award from Elsevier Signal Processing Journal, 2017
-   </p>
-   <img src="/public/pictures/Out_SIGPROC_2017.jpg">
- </li>
-	
-<li>
-  <p>
     Outstanding Reviewer Award from Elsevier Future Generation Computer Systems Journal, 2017
    </p>
    <img src="/public/pictures/Out_FGCS_2017.jpg">
  </li>
 
- <br>
+<br>
+
+<li>
+  <p>
+    Outstanding Reviewer Award from Elsevier Signal Processing Journal, 2017
+   </p>
+   <img src="/public/pictures/Out_SIGPROC_2017.jpg">
+ </li>
+ 
+<br>	
+
+<li>
+  <p>
+    Outstanding Reviewer Award from Elsevier Computer Communications Journal, 2017
+   </p>
+   <img src="/public/pictures/Out_COMCOM_2017.jpg">
+ </li>
+ 
+<br>
+
+<li>
+  <p>
+    Outstanding Reviewer Award from Elsevier Digital Communications and Networks Journal, 2017
+   </p>
+   <img src="/public/pictures/Out_DCN_2017.jpg">
+ </li>
+ 
+<br>	
  
 <li>
   <p>
