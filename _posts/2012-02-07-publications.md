@@ -57,15 +57,6 @@ Amin Ullah, Jamil Ahmad, <b>Khan Muhammad</b>, Muhammad Sajjad, and Sung Wook Ba
 <br>
 
 <li>
-Jamil Ahmad, <b>Khan Muhammad</b>, Sambit Bakshi, and Sung Wook Baik, <a href="https://www.sciencedirect.com/science/article/pii/S0167739X17318575" target="_blank">Object-oriented convolutional features for fine-grained image retrieval in large surveillance datasets</a>, <i>Future Generation Computer Systems</i>, Vol. 81 (April): 314-330, 2018. [<b>IF</b>: 3.997, Q1]
- <a class="pdflink" href="/public/papers/Jamil_FGCS_2018.pdf" target="_blank">
-      <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
-</a>
-  </li>
-  
-<br>
-
-<li>
 Muhammad Sajjad, Ijaz Ul Haq, <b>Khan Muhammad</b>, and Sung Wook Baik, <a href="http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=83" target="_blank">Robust Image Hashing Based Authentication of Keyframes Extracted using Video Summarization in Surveillance Applications</a>, <i>IEEE Transactions on Image Processing</i>, 2017 (In Peer Review). [<b>IF</b>: 4.828, Q1]
  <a class="pdflink" href="/public/papers/Ijaz_Hashing_TSMC.pdf" target="_blank">
       <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
