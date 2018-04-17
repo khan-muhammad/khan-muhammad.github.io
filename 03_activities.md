@@ -31,7 +31,7 @@ title: Professional Activities
     <li>Elsevier Future Generation Computer Systems since 2016 (9)</li>
     <li>Elsevier International Journal of Information Management since 2018 (1)</li>
     <li>Elsevier Signal Processing since 2016 (3)</li>
-    <li>Elsevier Neurocomputing since 2018 (1)</li>
+    <li>Elsevier Neurocomputing since 2018 (2)</li>
     <li>Elsevier Journal of Network and Computer Applications since 2017 (4)</li>
     <li>Elsevier Signal Processing: Image Communication since 2017 (2)</li>
     <li>Elsevier Computer Communications since 2017 (2)</li>
@@ -76,7 +76,8 @@ title: Professional Activities
     <li><a href="https://sites.google.com/site/icmita2015/index" target="_blank">MITA 2015</a>, Tashkent, Uzbekistan</li> 
 </ol>
 
-<ol><h1>Conference Referee (3)</h1>
+<ol><h1>Conference Referee (4)</h1>
+    <li>IEEE INDIN 2018 (1)</li>
     <li>AINA 2017 (6)</li>
     <li>ICNC 2017 (5)</li>
     <li>ICCCT 2015 (1)</li>
