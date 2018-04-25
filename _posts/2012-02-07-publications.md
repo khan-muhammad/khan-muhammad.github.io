@@ -39,7 +39,7 @@ li{
 <br>
 
 <li>
-<b>Khan Muhammad</b>, Jamil Ahmad, and Sung Wook Baik, <a href="http://ieeexplore.ieee.org/xpl/aboutJournal.jsp?punumber=6221021" target="_blank">Efficient Deep CNN-Based Fire Detection and Localization in Video Surveillance Applications</a>, <i>IEEE Transactions on Systems, Man, and Cybernetics: Systems</i>, 2018 (Accept with Minor Revision). [<strong>IF</strong>: 2.350, Q2]
+<b>Khan Muhammad</b>, Jamil Ahmad, and Sung Wook Baik, <a href="http://ieeexplore.ieee.org/xpl/aboutJournal.jsp?punumber=6221021" target="_blank">Efficient Deep CNN-Based Fire Detection and Localization in Video Surveillance Applications</a>, <i>IEEE Transactions on Systems, Man, and Cybernetics: Systems</i>, 2018 (In Press). [<strong>IF</strong>: 2.350, Q2]
  <a class="pdflink" href="/public/papers/TSMC_Fire.pdf" target="_blank">
       <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
 </a>
@@ -48,7 +48,7 @@ li{
   <br>
  
  <li>
-Amin Ullah, Jamil Ahmad, <b>Khan Muhammad</b>, Muhammad Sajjad, and Sung Wook Baik, <a href="http://ieeexplore.ieee.org/document/8121994/" target="_blank">Action Recognition in Video Sequences using Deep Bidirectional LSTM with CNN Features</a>, <i>IEEE Access</i>, 2017 (Published). [<b>IF</b>: 3.244, Q1]
+Amin Ullah, Jamil Ahmad, <b>Khan Muhammad</b>, Muhammad Sajjad, and Sung Wook Baik, <a href="http://ieeexplore.ieee.org/document/8121994/" target="_blank">Action Recognition in Video Sequences using Deep Bidirectional LSTM with CNN Features</a>, <i>IEEE Access</i>, Vol. 6: 1155 - 1166, 2018. [<b>IF</b>: 3.244, Q1]
  <a class="pdflink" href="/public/papers/Amin_Action_LSTM.pdf" target="_blank">
       <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
 </a>
@@ -301,7 +301,7 @@ Rafik Hamza, <b>Khan Muhammad</b>, Zhihan Lv, Faiza Titouna, <a href="http://www
   <br>
 
 <li>
-Zahoor Jan, Arshad Khan, Muhammad Sajjad, <b>Khan Muhammad</b>, Seungmin Rho, Irfan Mehmood, <a href="https://link.springer.com/article/10.1007/s11042-017-4495-2" target="_blank">A review on automated diagnosis of malaria parasite in microscopic blood smears images</a>, <i>Multimedia Tools and Applications</i>, 2016 (In press). [<strong>IF</strong>: 1.530, Q2]
+Zahoor Jan, Arshad Khan, Muhammad Sajjad, <b>Khan Muhammad</b>, Seungmin Rho, Irfan Mehmood, <a href="https://link.springer.com/article/10.1007/s11042-017-4495-2" target="_blank">A review on automated diagnosis of malaria parasite in microscopic blood smears images</a>, <i>Multimedia Tools and Applications</i>, 77 (8): 9801–9826, 2018. [<strong>IF</strong>: 1.530, Q2]
 <a class="pdflink" href="/public/papers/MTAP_malaria.pdf" target="_blank">
       <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
 </a>
