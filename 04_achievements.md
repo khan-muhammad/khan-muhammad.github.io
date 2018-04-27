@@ -20,6 +20,15 @@ title: Awards and Achievements
 
 <li>
   <p>
+    Outstanding Reviewer Award from Elsevier Journal of Network and Computer Applications, 2018
+   </p>
+   <img src="/public/pictures/Out_JNCA_2018.jpg">
+ </li>
+
+<br>
+
+<li>
+  <p>
     Outstanding Reviewer Award from Elsevier Future Generation Computer Systems Journal, 2017
    </p>
    <img src="/public/pictures/Out_FGCS_2017.jpg">
