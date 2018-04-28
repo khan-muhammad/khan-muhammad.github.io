@@ -14,7 +14,11 @@ title: Professional Activities
 
 </style>
 
-<ol><h1>Journal Guest Editor (3)</h1>
+<ol><h1>Journal Guest Editor (7)</h1>
+    <li>Elsevier International Journal of Information Management 2017-2018 (GE)</li>
+    <li>Elsevier Future Generation Computer Systems 2017-2018 (GE)</li>
+    <li>Elsevier Journal of Computational Science 2017-2018 (GE)</li>
+    <li>IEEE Access 2017-2018 (GE)</li>
     <li>NED University Journal of Research: An Internaltional Journal 2017-2018 (LGE)</li>
     <li>Wily Concurrency and Computation: Practice and Experience 2017-2018 (GE)</li>
     <li>Journal of Information Privacy and Security 2017 (GE)</li>
