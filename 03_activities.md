@@ -56,7 +56,7 @@ title: Professional Activities
     <li>Springer Nonlinear Dynamics since 2016 (2)</li>
     <li>Springer Neural Computing and Applications since 2018 (2)</li>
     <li>Springer EURASIP Journal on Image and Video Processing since 2018 (1)</li>
-    <li>Springer Journal of Ambient Intelligence and Humanized Computing since 2017 (4)</li>
+    <li>Springer Journal of Ambient Intelligence and Humanized Computing since 2017 (5)</li>
     <li>Springer SpringerPlus since 2016 (1)</li>
     <li>SAGE International Journal of Distributed Sensor Networks since 2017 (2)</li>
     <li>Hindawi Computational Intelligence and Neuroscience since 2017 (2)</li>
