@@ -97,7 +97,7 @@ title: Research Team
 	</div>
 	
 	<div style="padding: 20px" >
-		<img width="200px" height="250px" src="/public/pictures/Salman.jpg">
+		<img width="200px" height="250px" src="/public/pictures/Salman.JPG">
 		<a     href="https://scholar.google.co.kr/citations?user=0kXugtIAAAAJ&hl=en" target="_blank">
 		Salman Khan
 			</a>
