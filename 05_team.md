@@ -95,6 +95,20 @@ title: Research Team
 		Ijaz Ul Haq
 			</a>
 	</div>
+	
+	<div style="padding: 20px" >
+		<img width="200px" height="250px" src="/public/pictures/Salman.JPG">
+		<a     href="https://scholar.google.co.kr/citations?user=0kXugtIAAAAJ&hl=en" target="_blank">
+		Salman Khan
+			</a>
+	</div>
+	
+	<div style="padding: 20px" >
+		<img width="200px" height="250px" src="/public/pictures/Tanveer.JPG">
+		<a     href="https://www.researchgate.net/profile/Tanveer_Hussain22" target="_blank">
+		Tanveer Hussain
+			</a>
+	</div>
  
 
 </div> 
