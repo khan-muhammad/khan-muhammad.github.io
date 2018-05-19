@@ -3,6 +3,9 @@ layout: page
 title: Photo Gallery
 imgfolder: /public/gallery-pictures
 images:
+  - name: Meeting_2018.jpg
+    thumb: Meeting_2018.jpg
+    text: Memorable moments with Prof. Sung Wook Baik after meeting in lawn during Spring at Sejong University, Korea, 2018.
   - name: Khan_Jamil_2017_Taiwan.jpg
     thumb: Khan_Jamil_2017_Taiwan.jpg
     text: Memorable moments with Dr. Jamil Ahmad at SHU-TE University, Kaohsiung, Taiwan during ICNGC-2017.
