@@ -111,7 +111,7 @@ Noor Ullah, Jamil Ahmad, Amin Ullah, <b>Khan Muhammad</b>, and Sung Wook Baik, <
 
 <li>
 Jamil Ahmad, <b>Khan Muhammad</b>, and Sung Wook Baik, <a href="http://www.springer.com/computer/image+processing/journal/11554" target="_blank">Partially Shaded Sketch-based Image Search in Real Mobile Device Environments via Sketch-Oriented Compact Neural Codes</a>, <i>Journal of Real-Time Image Processing</i>, 2017 (In Revision). [<b>IF</b>: 2.010, Q2]
- <a class="pdflink" href="/public/papers/Jamil_RTIP.pdf" target="_blank">
+ <a class="pdflink" href="/public/papers/Jamil_RTIP_2018.pdf" target="_blank">
       <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
 </a>
   </li>
