@@ -202,7 +202,7 @@ Taayab Ateeq, Muhammad Nadeem Majeed, Syed Muhammad Anwar, Muazzam Maqsood, Zaho
 
 <li>
 Nasir Rahim, Jamil Ahmad, <b>Khan Muhammad</b>, and Sung Wook Baik, <a href="https://www.sciencedirect.com/science/article/pii/S0140366417311064" target="_blank">Privacy-Preserving Image Retrieval for Mobile Devices with Deep Features on the Cloud</a>, <i>Computer Communications</i>, 2017 (In Revision). [<b>IF</b>: 3.338, Q1]
- <a class="pdflink" href="/public/papers/Nasir_COMCOM.pdf" target="_blank">
+ <a class="pdflink" href="/public/papers/Nasir_COMCOM_2018.pdf" target="_blank">
       <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
 </a>
   </li>
