@@ -40,7 +40,7 @@ li{
 
 <li>
 <b>Khan Muhammad</b>, Jamil Ahmad, and Sung Wook Baik, <a href="http://ieeexplore.ieee.org/xpl/aboutJournal.jsp?punumber=6221021" target="_blank">Efficient Deep CNN-Based Fire Detection and Localization in Video Surveillance Applications</a>, <i>IEEE Transactions on Systems, Man, and Cybernetics: Systems</i>, 2018 (In Press). [<strong>IF</strong>: 2.350, Q2]
- <a class="pdflink" href="/public/papers/TSMC_Fire.pdf" target="_blank">
+ <a class="pdflink" href="/public/papers/IEEE_TSMC_Fire_2018.pdf" target="_blank">
       <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
 </a>
   </li>
