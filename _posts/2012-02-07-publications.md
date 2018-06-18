@@ -246,8 +246,9 @@ Muhammad Sajjad, Mansoor Nasir, <b>Khan Muhammad</b>, Siraj Khan, Zahoor Jan, an
 <br>
 
 <li>
-Muhammad Sajjad, Muhammad Shoaib, <b>Khan Muhammad</b>, Zahoor Jan, S.Wang, J.T Kwak, Sung Wook Baik, and Irfan Mehmood, <a href="http://ieeexplore.ieee.org/document/7782368/" target="_blank">An Efficient Computerized Decision Support System for the Analysis and 3D Visualization of Brain MRI</a>, <i>IEEE Access</i>, 2017 (In Revision). [<b>IF</b>: 3.224, Q1]
- <a class="pdflink" href="/public/papers/Sajjad_MTAP_Brain_MRI.pdf" target="_blank">
+Irfan Mehmood, Muhammad Sajjad, <b>Khan Muhammad</b>, Syed Inayat Ali Shah, Arun Kumar Sangaiah, Muhammad Shoaib, and Sung Wook Baik, 
+ <a href="https://link.springer.com/article/10.1007/s11042-018-6027-0" target="_blank">An Efficient Computerized Decision Support System for the Analysis and 3D Visualization of Brain Tumor</a>, <i>Multimedia Tools and Applications</i>, 2018 (In Press). [<b>IF</b>: 1.530, Q2]
+ <a class="pdflink" href="/public/papers/Sajjad_MTAP_Brain_MRI_2018.pdf" target="_blank">
       <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
 </a>
   </li>
