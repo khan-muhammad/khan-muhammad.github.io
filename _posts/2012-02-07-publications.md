@@ -201,7 +201,7 @@ Taayab Ateeq, Muhammad Nadeem Majeed, Syed Muhammad Anwar, Muazzam Maqsood, Zaho
 <br>
 
 <li>
-Nasir Rahim, Jamil Ahmad, <b>Khan Muhammad</b>, and Sung Wook Baik, <a href="https://www.sciencedirect.com/science/article/pii/S0140366417311064" target="_blank">Privacy-Preserving Image Retrieval for Mobile Devices with Deep Features on the Cloud</a>, <i>Computer Communications</i>, 2017 (In Revision). [<b>IF</b>: 3.338, Q1]
+Nasir Rahim, Jamil Ahmad, <b>Khan Muhammad</b>, and Sung Wook Baik, <a href="https://www.sciencedirect.com/science/article/pii/S0140366417311064" target="_blank">Privacy-Preserving Image Retrieval for Mobile Devices with Deep Features on the Cloud</a>, <i>Computer Communications</i>, Volume 127, September 2018, Pages 75-85, 2018. [<b>IF</b>: 3.338, Q1]
  <a class="pdflink" href="/public/papers/Nasir_COMCOM_2018.pdf" target="_blank">
       <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
 </a>
@@ -329,7 +329,7 @@ Muhammad Sajjad, Siraj Khan, Zahoor Jan, <b>Khan Muhammad</b>, H. Moon, J.T Kwak
 <br>
 
   <li>
-<b>Khan Muhammad</b>, Muhammad Sajjad, Irfan Mehmood, Seungmin Rho, and Sung Wook Baik, <a href="http://www.sciencedirect.com/science/article/pii/S0167739X16306768" target="_blank">Image steganography using uncorrelated color space and its application for security of visual contents in online social networks</a>, <i>Future Generation Computer Systems</i>, 2016. (In press). [<b>IF</b>: 3.997, Q1]
+<b>Khan Muhammad</b>, Muhammad Sajjad, Irfan Mehmood, Seungmin Rho, and Sung Wook Baik, <a href="http://www.sciencedirect.com/science/article/pii/S0167739X16306768" target="_blank">Image steganography using uncorrelated color space and its application for security of visual contents in online social networks</a>, <i>Future Generation Computer Systems</i>, Volume 86, September 2018, Pages 951-960 2018. [<b>IF</b>: 3.997, Q1]
 <a class="pdflink" href="/public/papers/FGCS_Online.pdf" target="_blank">
       <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
 </a>
