@@ -15,6 +15,8 @@ title: Professional Activities
 </style>
 
 <ol><h1>Journal Guest Editor (7)</h1>
+    <li>Elsevier Journal of Computational Science 2018-2019 (GE)-Just accepted. Will be live soon.</li>
+    <li>AutoSoft 2018-2019 (GE)--Just accepted. Will be live soon.</li>
     <li>Elsevier International Journal of Information Management 2017-2018 (GE)</li>
     <li>Elsevier Future Generation Computer Systems 2017-2018 (GE)</li>
     <li>Elsevier Journal of Computational Science 2017-2018 (GE)</li>
