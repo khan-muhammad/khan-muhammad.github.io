@@ -20,12 +20,11 @@ li{
 <ol>
  
  <li>
-<b>Khan Muhammad</b>, Jamil Ahmad, and Sung Wook Baik, <a href="https://doi.org/10.1016/j.neucom.2017.04.083" target="_blank">Early Fire Detection using Convolutional Neural Networks during Surveillance for Effective Disaster Management</a>, <i>Neurocomputing</i>, 288 (May): 30-42, 2018. [<strong>IF</strong>: 3.317, Q1]
-<a class="pdflink" href="/public/papers/Neurocomputing_Fire.pdf" target="_blank">
+<b>Khan Muhammad</b>, Jamil Ahmad, and Sung Wook Baik, <a href="https://ieeexplore.ieee.org/document/8385121/" target="_blank">Efficient Deep CNN-Based Fire Detection and Localization in Video Surveillance Applications</a>, <i>IEEE Transactions on Systems, Man, and Cybernetics: Systems</i>, 2018 (In Press). [<strong>IF</strong>: 5.131, Q1]
+ <a class="pdflink" href="/public/papers/IEEE_TSMC_Fire_2018.pdf" target="_blank">
       <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
-</a>
- 
-  </li>
+ </a>
+</li>
   
   <br>
   
@@ -39,14 +38,15 @@ li{
 <br>
 
 <li>
-<b>Khan Muhammad</b>, Jamil Ahmad, and Sung Wook Baik, <a href="http://ieeexplore.ieee.org/xpl/aboutJournal.jsp?punumber=6221021" target="_blank">Efficient Deep CNN-Based Fire Detection and Localization in Video Surveillance Applications</a>, <i>IEEE Transactions on Systems, Man, and Cybernetics: Systems</i>, 2018 (In Press). [<strong>IF</strong>: 2.350, Q2]
- <a class="pdflink" href="/public/papers/IEEE_TSMC_Fire_2018.pdf" target="_blank">
+<b>Khan Muhammad</b>, Jamil Ahmad, and Sung Wook Baik, <a href="https://doi.org/10.1016/j.neucom.2017.04.083" target="_blank">Early Fire Detection using Convolutional Neural Networks during Surveillance for Effective Disaster Management</a>, <i>Neurocomputing</i>, 288 (May): 30-42, 2018. [<strong>IF</strong>: 3.317, Q1]
+<a class="pdflink" href="/public/papers/Neurocomputing_Fire.pdf" target="_blank">
       <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
 </a>
-  </li>
+ 
+</li>
   
   <br>
- 
+
  <li>
 Amin Ullah, Jamil Ahmad, <b>Khan Muhammad</b>, Muhammad Sajjad, and Sung Wook Baik, <a href="http://ieeexplore.ieee.org/document/8121994/" target="_blank">Action Recognition in Video Sequences using Deep Bidirectional LSTM with CNN Features</a>, <i>IEEE Access</i>, Vol. 6: 1155 - 1166, 2018. [<b>IF</b>: 3.244, Q1]
  <a class="pdflink" href="/public/papers/Amin_Action_LSTM.pdf" target="_blank">
