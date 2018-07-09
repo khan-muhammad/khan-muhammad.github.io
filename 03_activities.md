@@ -14,7 +14,7 @@ title: Professional Activities
 
 </style>
 
-<ol><h1>Journal Guest Editor (12)</h1>
+<ol><h1>Journal Guest Editor (11)</h1>
     <li>Springer Neural Computing and Applications 2018-2019 (GE)-Accepted. Will be live soon.</li>
     <li>Springer Journal of Psycholinguistic Research 2018-2019 (GE)-Accepted. Will be live soon.</li>
     <li>Elsevier Journal of Computational Science 2018-2019 (GE)-Accepted. Will be live soon.</li>
