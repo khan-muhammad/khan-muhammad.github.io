@@ -20,6 +20,60 @@ li{
 <ol>
  
  <li>
+<b>Khan Muhammad</b> and Sung Wook Baik, <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=35" target="_blank">Intelligent and Energy-Efficient Data Prioritization in Green Smart Cities: Current Challenges and Future Directions</a>, <i>IEEE Communications Magazine</i>, 2018 (Major Revision). [<strong>IF</strong>: 9.270, Q1]
+ <a class="pdflink" href="/public/papers/IEEE_COMMAG_DP_2018.pdf" target="_blank">
+      <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
+ </a>
+</li>
+  
+  <br>
+  
+  <li>
+<b>Khan Muhammad</b>, Salman Khan, and Sung Wook Baik, <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=9424" target="_blank">Efficient Fire Detection from Videos of Uncertain Environment</a>, <i>IEEE Transactions on Industrial Informatics</i>, 2018 (In Process). [<strong>IF</strong>: 5.43, Q1]
+ <a class="pdflink" href="/public/papers/IEEE_TII_Fire_2018.pdf" target="_blank">
+      <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
+ </a>
+</li>
+  
+  <br>
+  
+  <li>
+<b>Khan Muhammad</b>, Tanveer Hussain, Muhammad Sajjad, and Sung Wook Baik, <a href="https://www.journals.elsevier.com/pattern-recognition-letters" target="_blank">Efficient CNN based summarization of surveillance videos for resource-constrained devices</a>, <i>Pattern Recognition Letters</i>, 2018 (Minor Revision). [<strong>IF</strong>: 1.952, Q2]
+ <a class="pdflink" href="/public/papers/PRL_VS_2018.pdf" target="_blank">
+      <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
+ </a>
+</li>
+  
+  <br>
+  
+   <li>
+Amin Ullah, <b>Khan Muhammad</b>, and Sung Wook Baik, <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=41" target="_blank">Activity Recognition using Temporal Optical Flow Convolutional Features and Multi-Layer LSTM</a>, <iIEEE Transactions on Industrial Electronics</i>, 2018 (In process). [<strong>IF</strong>: 7.05, Q1]
+ <a class="pdflink" href="/public/papers/IEEE_Activity_TIE_2018.pdf" target="_blank">
+      <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
+ </a>
+</li>
+  
+  <br>
+  
+   <li>
+Amin Ullah, <b>Khan Muhammad</b>, Ijaz Ul Haq, and Sung Wook Baik, <a href="https://www.journals.elsevier.com/future-generation-computer-systems" target="_blank">Action Recognition using Optimized Deep Autoencoder and CNN for Surveillance Data Streams of Non-Stationary Environments</a>, <Future Generation Computer Systems</i>, 2018 (In process). [<strong>IF</strong>: 4.639, Q1]
+ <a class="pdflink" href="/public/papers/FGCS_Action_2018.pdf" target="_blank">
+      <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
+ </a>
+</li>
+  
+  <br>
+  
+   <li>
+Muhammad Sajjad, Salman Khan, <b>Khan Muhammad</b>, Wanqing Wu, Amin Ullah, and Sung Wook Baik, <a href="https://www.journals.elsevier.com/journal-of-computational-science" target="_blank">Multi-Grade Brain Tumor Classification using Deep CNN with Extensive Data Augmentation</a>, <Journal of Computational Science</i>, 2018 (In process). [<strong>IF</strong>: 1.925, Q2]
+ <a class="pdflink" href="/public/papers/JOCS_Multi_Grade_2018.pdf" target="_blank">
+      <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
+ </a>
+</li>
+  
+  <br>
+ 
+ <li>
 <b>Khan Muhammad</b>, Jamil Ahmad, and Sung Wook Baik, <a href="https://ieeexplore.ieee.org/document/8385121/" target="_blank">Efficient Deep CNN-Based Fire Detection and Localization in Video Surveillance Applications</a>, <i>IEEE Transactions on Systems, Man, and Cybernetics: Systems</i>, 2018 (In Press). [<strong>IF</strong>: 5.131, Q1]
  <a class="pdflink" href="/public/papers/IEEE_TSMC_Fire_2018.pdf" target="_blank">
       <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
