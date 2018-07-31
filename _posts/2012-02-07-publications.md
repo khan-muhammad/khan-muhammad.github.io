@@ -47,7 +47,7 @@ li{
   <br>
   
    <li>
-Amin Ullah, <b>Khan Muhammad</b>, and Sung Wook Baik, <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=41" target="_blank">Activity Recognition using Temporal Optical Flow Convolutional Features and Multi-Layer LSTM</a>, <iIEEE Transactions on Industrial Electronics</i>, 2018 (In process). [<strong>IF</strong>: 7.05, Q1]
+Amin Ullah, <b>Khan Muhammad</b>, and Sung Wook Baik, <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=41" target="_blank">Activity Recognition using Temporal Optical Flow Convolutional Features and Multi-Layer LSTM</a>, <i>IEEE Transactions on Industrial Electronics</i>, 2018 (In process). [<strong>IF</strong>: 7.05, Q1]
  <a class="pdflink" href="/public/papers/IEEE_Activity_TIE_2018.pdf" target="_blank">
       <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
  </a>
@@ -56,7 +56,7 @@ Amin Ullah, <b>Khan Muhammad</b>, and Sung Wook Baik, <a href="https://ieeexplor
   <br>
   
    <li>
-Amin Ullah, <b>Khan Muhammad</b>, Ijaz Ul Haq, and Sung Wook Baik, <a href="https://www.journals.elsevier.com/future-generation-computer-systems" target="_blank">Action Recognition using Optimized Deep Autoencoder and CNN for Surveillance Data Streams of Non-Stationary Environments</a>, <Future Generation Computer Systems</i>, 2018 (In process). [<strong>IF</strong>: 4.639, Q1]
+Amin Ullah, <b>Khan Muhammad</b>, Ijaz Ul Haq, and Sung Wook Baik, <a href="https://www.journals.elsevier.com/future-generation-computer-systems" target="_blank">Action Recognition using Optimized Deep Autoencoder and CNN for Surveillance Data Streams of Non-Stationary Environments</a>, <i>Future Generation Computer Systems</i>, 2018 (In process). [<strong>IF</strong>: 4.639, Q1]
  <a class="pdflink" href="/public/papers/FGCS_Action_2018.pdf" target="_blank">
       <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
  </a>
@@ -65,7 +65,7 @@ Amin Ullah, <b>Khan Muhammad</b>, Ijaz Ul Haq, and Sung Wook Baik, <a href="http
   <br>
   
    <li>
-Muhammad Sajjad, Salman Khan, <b>Khan Muhammad</b>, Wanqing Wu, Amin Ullah, and Sung Wook Baik, <a href="https://www.journals.elsevier.com/journal-of-computational-science" target="_blank">Multi-Grade Brain Tumor Classification using Deep CNN with Extensive Data Augmentation</a>, <Journal of Computational Science</i>, 2018 (In process). [<strong>IF</strong>: 1.925, Q2]
+Muhammad Sajjad, Salman Khan, <b>Khan Muhammad</b>, Wanqing Wu, Amin Ullah, and Sung Wook Baik, <a href="https://www.journals.elsevier.com/journal-of-computational-science" target="_blank">Multi-Grade Brain Tumor Classification using Deep CNN with Extensive Data Augmentation</a>, <i>Journal of Computational Science</i>, 2018 (In process). [<strong>IF</strong>: 1.925, Q2]
  <a class="pdflink" href="/public/papers/JOCS_Multi_Grade_2018.pdf" target="_blank">
       <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
  </a>
