@@ -38,7 +38,7 @@ li{
   <br>
   
   <li>
-<b>Khan Muhammad</b>, Tanveer Hussain, Muhammad Sajjad, and Sung Wook Baik, <a href="https://www.journals.elsevier.com/pattern-recognition-letters" target="_blank">Efficient CNN based summarization of surveillance videos for resource-constrained devices</a>, <i>Pattern Recognition Letters</i>, 2018 (Minor Revision). [<strong>IF</strong>: 1.952, Q2]
+<b>Khan Muhammad</b>, Tanveer Hussain, and Sung Wook Baik, <a href="https://www.sciencedirect.com/science/article/pii/S0167865518303842" target="_blank">Efficient CNN based summarization of surveillance videos for resource-constrained devices</a>, <i>Pattern Recognition Letters</i>, 2018 (In Press). [<strong>IF</strong>: 1.952, Q2]
  <a class="pdflink" href="/public/papers/PRL_VS_2018.pdf" target="_blank">
       <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
  </a>
