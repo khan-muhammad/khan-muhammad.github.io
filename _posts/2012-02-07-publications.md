@@ -83,7 +83,7 @@ Muhammad Sajjad, Salman Khan, <b>Khan Muhammad</b>, Wanqing Wu, Amin Ullah, and 
   <br>
   
   <li>
-<b>Khan Muhammad</b>, Rafik Hamza, Jamil Ahmad, Jaime Lloret, Haoxiang Wang, and Sung Wook Baik, <a href="http://ieeexplore.ieee.org/document/8253857/" target="_blank">Secure Surveillance Framework for IoT systems using Probabilistic Image Encryption</a>, <i>IEEE Transactions on Industrial Informatics</i>, 2017 (In Press). [<b>IF</b>: 6.764, Q1]
+<b>Khan Muhammad</b>, Rafik Hamza, Jamil Ahmad, Jaime Lloret, Haoxiang Wang, and Sung Wook Baik, <a href="http://ieeexplore.ieee.org/document/8253857/" target="_blank">Secure Surveillance Framework for IoT systems using Probabilistic Image Encryption</a>, <i>IEEE Transactions on Industrial Informatics</i>, Vol. 14 (8 August): 3679 - 3689, 2018. [<b>IF</b>: 5.43, Q1]
  <a class="pdflink" href="/public/papers/TII_Encryption.pdf" target="_blank">
       <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
 </a>
@@ -120,7 +120,7 @@ Muhammad Sajjad, Ijaz Ul Haq, <b>Khan Muhammad</b>, and Sung Wook Baik, <a href=
 <br>
 
 <li>
-Jamil Ahmad, <b>Khan Muhammad</b>, Jaime Lloret, and Sung Wook Baik, <a href="http://ieeexplore.ieee.org/document/8276643/?punumber=9424" target="_blank">Efficient Conversion of Deep Features to Compact Binary Codes using Fourier Decomposition for Multimedia Big Data</a>, <i>IEEE Transactions on Industrial Informatics</i>, 2017 (In Press). [<b>IF</b>: 6.764, Q1]
+Jamil Ahmad, <b>Khan Muhammad</b>, Jaime Lloret, and Sung Wook Baik, <a href="http://ieeexplore.ieee.org/document/8276643/?punumber=9424" target="_blank">Efficient Conversion of Deep Features to Compact Binary Codes using Fourier Decomposition for Multimedia Big Data</a>, <i>IEEE Transactions on Industrial Informatics</i>, Vol. 14 (7 July): 3205 - 3215, 2018. [<b>IF</b>: 5.43, Q1]
  <a class="pdflink" href="/public/papers/Jamil_TII_Hash_Codes.pdf" target="_blank">
       <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
 </a>
@@ -456,11 +456,21 @@ Muhammad Sajjad, <b>Khan Muhammad</b>, Sung Wook Baik, Seungmin Rho, Zahoor Jan,
 
 
 
-<h1>Non-IF Journal Articles (8)</h1>
+<h1>Non-IF Journal Articles (9)</h1>
 
 <ol>
  <li>
-Amin Ullah, Jamil Ahmad, <strong>Khan Muhammad</strong>, Irfan Mehmood, Mi  Young  Lee,  Jun  Ryeol  Park,  and Sung  Wook  Baik, <a href="http://ksci.kisti.re.kr/kjcr/indicator/jourView.ksci?titBean.kojic=KNGCAG" target="_blank">Action Recognition in Movie Scenes using Deep Features of Keyframes</a>, <i>Journal of Korean Institute of Next Generation Computing</i>, 2017. [<b>KCI, ISI indexed</b>]
+Nasir Rahim, Jamil Ahmad, <strong>Khan Muhammad</strong>, Mi  Young  Lee,  and Sung  Wook  Baik, <a href="http://www.earticle.net/Article.aspx?sn=324633" target="_blank">Robust Processing of Visual Contents for Text Recognition
+in Surveillance Applications</a>, <i>Journal of Korean Institute of Next Generation Computing</i>, 2018. [<b>KCI, ISI indexed</b>]
+<a class="pdflink" href="/public/papers/Nasir_King_PC.pdf" target="_blank">
+      <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
+</a>
+  </li>
+  
+<br>
+
+ <li>
+Amin Ullah, Jamil Ahmad, <strong>Khan Muhammad</strong>, Irfan Mehmood, Mi  Young  Lee,  Jun  Ryeol  Park,  and Sung  Wook  Baik, <a href="http://ksci.kisti.re.kr/kjcr/indicator/jourView.ksci?titBean.kojic=KNGCAG" target="_blank">Action Recognition in Movie Scenes using Features of Keyframes</a>, <i>Journal of Korean Institute of Next Generation Computing</i>, 2017. [<b>KCI, ISI indexed</b>]
 <a class="pdflink" href="/public/papers/Amin_King_PC.pdf" target="_blank">
       <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
 </a>
