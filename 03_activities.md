@@ -15,10 +15,12 @@ title: Professional Activities
 </style>
 
 <ol><h1>Journal Guest Editor (11)</h1>
-    <li>Springer Neural Computing and Applications 2018-2019 (GE)-Accepted. Will be live soon.</li>
-    <li>Springer Journal of Psycholinguistic Research 2018-2019 (GE)-Accepted. Will be live soon.</li>
-    <li>Elsevier Journal of Computational Science 2018-2019 (GE)-Accepted. Will be live soon.</li>
-    <li>AutoSoft 2018-2019 (GE)--Accepted. Will be live soon.</li>
+    <li>Springer International Journal of Fuzzy Systems 2018-2019 (GE)</li>
+    <li>Elsevier Computers & Electrical Engineering 2018-2019 (GE)</li>
+    <li>Springer Neural Computing and Applications 2018-2019 (GE)</li>
+    <li>Springer Journal of Psycholinguistic Research 2018-2019 (GE)</li>
+    <li>Elsevier Journal of Computational Science 2018-2019 (GE)</li>
+    <li>AutoSoft 2018-2019 (GE)</li>
     <li>Elsevier International Journal of Information Management 2017-2018 (GE)</li>
     <li>Elsevier Future Generation Computer Systems 2017-2018 (GE)</li>
     <li>Elsevier Journal of Computational Science 2017-2018 (GE)</li>
