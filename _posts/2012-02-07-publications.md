@@ -20,7 +20,7 @@ li{
 <ol>
  
  <li>
-<b>Khan Muhammad</b> and Sung Wook Baik, <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=35" target="_blank">Intelligent and Energy-Efficient Data Prioritization in Green Smart Cities: Current Challenges and Future Directions</a>, <i>IEEE Communications Magazine</i>, 2018 (Major Revision). [<strong>IF</strong>: 9.270, Q1]
+<b>Khan Muhammad</b> and Sung Wook Baik, <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=35" target="_blank">Intelligent and Energy-Efficient Data Prioritization in Green Smart Cities: Current Challenges and Future Directions</a>, <i>IEEE Communications Magazine</i>, 2018 (Minor Revision). [<strong>IF</strong>: 9.270, Q1]
  <a class="pdflink" href="/public/papers/IEEE_COMMAG_DP_2018.pdf" target="_blank">
       <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
  </a>
@@ -29,7 +29,7 @@ li{
   <br>
   
   <li>
-<b>Khan Muhammad</b>, Salman Khan, and Sung Wook Baik, <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=9424" target="_blank">Efficient Fire Detection from Videos of Uncertain Environment</a>, <i>IEEE Transactions on Industrial Informatics</i>, 2018 (In Process). [<strong>IF</strong>: 5.43, Q1]
+<b>Khan Muhammad</b>, Salman Khan, and Sung Wook Baik, <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=9424" target="_blank">Efficient Fire Detection from Videos of Uncertain Environment</a>, <i>IEEE Transactions on Industrial Informatics</i>, 2018 (Major Revision). [<strong>IF</strong>: 5.43, Q1]
  <a class="pdflink" href="/public/papers/IEEE_TII_Fire_2018.pdf" target="_blank">
       <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
  </a>
@@ -47,7 +47,7 @@ li{
   <br>
   
    <li>
-Amin Ullah, <b>Khan Muhammad</b>, and Sung Wook Baik, <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=41" target="_blank">Activity Recognition using Temporal Optical Flow Convolutional Features and Multi-Layer LSTM</a>, <i>IEEE Transactions on Industrial Electronics</i>, 2018 (In process). [<strong>IF</strong>: 7.05, Q1]
+Amin Ullah, <b>Khan Muhammad</b>, and Sung Wook Baik, <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=41" target="_blank">Activity Recognition using Temporal Optical Flow Convolutional Features and Multi-Layer LSTM</a>, <i>IEEE Transactions on Industrial Electronics</i>, 2018 (Major Revision). [<strong>IF</strong>: 7.05, Q1]
  <a class="pdflink" href="/public/papers/IEEE_Activity_TIE_2018.pdf" target="_blank">
       <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
  </a>
@@ -65,7 +65,7 @@ Amin Ullah, <b>Khan Muhammad</b>, Ijaz Ul Haq, and Sung Wook Baik, <a href="http
   <br>
   
    <li>
-Muhammad Sajjad, Salman Khan, <b>Khan Muhammad</b>, Wanqing Wu, Amin Ullah, and Sung Wook Baik, <a href="https://www.journals.elsevier.com/journal-of-computational-science" target="_blank">Multi-Grade Brain Tumor Classification using Deep CNN with Extensive Data Augmentation</a>, <i>Journal of Computational Science</i>, 2018 (In process). [<strong>IF</strong>: 1.925, Q2]
+Muhammad Sajjad, Salman Khan, <b>Khan Muhammad</b>, Wanqing Wu, Amin Ullah, and Sung Wook Baik, <a href="https://www.journals.elsevier.com/journal-of-computational-science" target="_blank">Multi-Grade Brain Tumor Classification using Deep CNN with Extensive Data Augmentation</a>, <i>Journal of Computational Science</i>, 2018 (Major Revision). [<strong>IF</strong>: 1.925, Q2]
  <a class="pdflink" href="/public/papers/JOCS_Multi_Grade_2018.pdf" target="_blank">
       <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
  </a>
@@ -164,7 +164,7 @@ Noor Ullah, Jamil Ahmad, Amin Ullah, <b>Khan Muhammad</b>, and Sung Wook Baik, <
 <br>
 
 <li>
-Jamil Ahmad, <b>Khan Muhammad</b>, and Sung Wook Baik, <a href="http://www.springer.com/computer/image+processing/journal/11554" target="_blank">Partially Shaded Sketch-based Image Search in Real Mobile Device Environments via Sketch-Oriented Compact Neural Codes</a>, <i>Journal of Real-Time Image Processing</i>, 2017 (In Revision). [<b>IF</b>: 2.010, Q2]
+Jamil Ahmad, <b>Khan Muhammad</b>, and Sung Wook Baik, <a href="https://link.springer.com/article/10.1007/s11554-018-0784-x" target="_blank">Partially Shaded Sketch-based Image Search in Real Mobile Device Environments via Sketch-Oriented Compact Neural Codes</a>, <i>Journal of Real-Time Image Processing</i>, 2017 (In Press). [<b>IF</b>: 2.010, Q2]
  <a class="pdflink" href="/public/papers/Jamil_RTIP_2018.pdf" target="_blank">
       <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
 </a>
@@ -237,7 +237,7 @@ Muhammad Sajjad, Muhammad Irfan, Mansoor Nasir, <b>Khan Muhammad</b>, and Sung W
 <br>
 
 <li>
-Muhammad Sajjad, Mansoor Nasir, Fathu min Allah, <b>Khan Muhammad</b>, and Sung Wook Baik, <a href="https://www.journals.elsevier.com/information-sciences/" target="_blank">Raspberry Pi Assisted Facial Expression Recognition Framework for Smart Security in Law-Enforcement Services</a>, <i>Information Sciences</i>, 2017 (In Revision). [<b>IF</b>: 4.832, Q1]
+Muhammad Sajjad, Mansoor Nasir, Fathu min Allah, <b>Khan Muhammad</b>, and Sung Wook Baik, <a href="https://www.journals.elsevier.com/information-sciences/" target="_blank">Raspberry Pi Assisted Facial Expression Recognition Framework for Smart Security in Law-Enforcement Services</a>, <i>Information Sciences</i>, 2017 (In Press). [<b>IF</b>: 4.832, Q1]
  <a class="pdflink" href="/public/papers/Sajjad_INS_PI.pdf" target="_blank">
       <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
 </a>
