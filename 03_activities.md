@@ -21,9 +21,7 @@ title: Professional Activities
     <li>Springer Journal of Psycholinguistic Research 2018-2019 (GE)</li>
     <li>Elsevier Journal of Computational Science 2018-2019 (GE)</li>
     <li>AutoSoft 2018-2019 (GE)</li>
-    <li>Elsevier International Journal of Information Management 2017-2018 (GE)</li>
     <li>Elsevier Future Generation Computer Systems 2017-2018 (GE)</li>
-    <li>Elsevier Journal of Computational Science 2017-2018 (GE)</li>
     <li>IEEE Access 2017-2018 (GE)</li>
     <li>NED University Journal of Research: An Internaltional Journal 2017-2018 (LGE)</li>
     <li>Wily Concurrency and Computation: Practice and Experience 2017-2018 (GE)</li>
