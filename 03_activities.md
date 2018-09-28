@@ -14,7 +14,8 @@ title: Professional Activities
 
 </style>
 
-<ol><h1>Journal Guest Editor (11)</h1>
+<ol><h1>Journal Guest Editor (12)</h1>
+    <li>IEEE Transactions on Fuzzy Systems 2018-2019 (GE)</li>
     <li>Springer International Journal of Fuzzy Systems 2018-2019 (GE)</li>
     <li>Elsevier Computers & Electrical Engineering 2018-2019 (GE)</li>
     <li>Springer Neural Computing and Applications 2018-2019 (GE)</li>
