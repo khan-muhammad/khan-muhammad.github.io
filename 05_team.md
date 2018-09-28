@@ -116,7 +116,7 @@ title: Research Team
 <div style=" display: inline-flex; text-align: center;">
 	
 	<div style="padding: 20px" >
-		<img width="200px" height="250px" src="/public/pictures/Aamir.jpg">
+		<img width="200px" height="250px" src="/public/pictures/Aamir.JPG">
 		<a    href="https://www.researchgate.net/profile/Fath_U_Min_Ullah" target="_blank">
 		Fath U Min Ullah
 			</a>
