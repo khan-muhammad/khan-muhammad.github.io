@@ -33,13 +33,13 @@ title: Professional Activities
     <li>IEEE Transactions on Cybernetics since 2018 (1) </li>
     <li>IEEE Transactions on Image Processing since 2015 (1) </li>
     <li>IEEE Transactions on Industrial Informatics since 2017 (2) </li>
-    <li>IEEE Communications Magazine since 2017 (2) </li>
+    <li>IEEE Communications Magazine since 2017 (5) </li>
     <li>IEEE Wireless Communications Magazine since 2018 (2) </li>
     <li>IEEE Internet of Things (IoT) since 2017 (5) </li>
-    <li>IEEE Network since 2018 (2) </li>
+    <li>IEEE Network since 2018 (4) </li>
     <li>IEEE IEEE Consumer Electronics Magazine since 2018 (2) </li>
     <li>ACM Transactions on Multimedia Computing Communications and Applications since 2017 (2) </li>
-    <li>IEEE Access since 2017 (10) </li>
+    <li>IEEE Access since 2017 (19) </li>
     <li>Elsevier Future Generation Computer Systems since 2016 (13)</li>
     <li>Elsevier International Journal of Information Management since 2018 (1)</li>
     <li>Elsevier Signal Processing since 2016 (3)</li>
@@ -81,7 +81,8 @@ title: Professional Activities
 
 </ol>
 
-<ol><h1>Conference Co-Chair/Committee/Member (9)</h1>
+<ol><h1>Conference Co-Chair/Committee/Member (10)</h1>
+     <li><a href="http://www.kingpc.or.kr/wp/" target="_blank">ICNGC-2018</a>, Vung Tau City, Vietnam</li>
     <li><a href="http://www.kingpc.or.kr/wp/" target="_blank">ICNGC-2017b</a>, Kaohsiung, Taiwan</li>
     <li><a href="http://www.kingpc.or.kr/wp/" target="_blank">NGCC-17</a>, Jeju, Republic of Korea</li>
     <li><a href="http://www.icidic.org/cfp_eng/" target="_blank">IDICID-17</a>, Kaohsiung, Taiwan</li>
