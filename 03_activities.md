@@ -60,7 +60,7 @@ title: Professional Activities
     <li>Springer Mobile Networks and Applications since 2017 (2)</li>
     <li>Springer Multimedia Tools and Applications since 2015 (61)</li>
     <li>Springer Signal, Image and Video Processing since 2018 (2)</li>
-    <li>Springer Journal of SuperComputing since 2016 (6)</li>
+    <li>Springer Journal of SuperComputing since 2016 (10)</li>
     <li>Springer Medical & Biological Engineering & Computing since 2016 (6)</li>
     <li>Springer Cluster Computing since 2017 (5)</li>
     <li>Springer Nonlinear Dynamics since 2016 (2)</li>
