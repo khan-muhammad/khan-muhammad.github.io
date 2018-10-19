@@ -48,7 +48,7 @@ title: Professional Activities
     <li>Elsevier Journal of Network and Computer Applications since 2017 (4)</li>
     <li>Elsevier Signal Processing: Image Communication since 2017 (2)</li>
     <li>Elsevier Computer Communications since 2017 (2)</li>
-    <li>Elsevier Computer Networks since 2018 (2)</li>
+    <li>Elsevier Computer Networks since 2018 (8)</li>
     <li>Elsevier Optics and Lasers in Engineering since 2018 (3)</li>
     <li>Elsevier Optik - International Journal for Light and Electron Optics since 2018 (1)</li>
     <li>Elsevier Computer Methods and Programs in Biomedicine since 2018 (3)</li>
@@ -56,7 +56,7 @@ title: Professional Activities
     <li>Elsevier Journal of Computational Science since 2017 (6)</li>
     <li>Elsevier Computers and Electrical Engineering since 2017 (2)</li>
     <li>Elsevier Digital Communications and Networks since 2017 (2)</li>
-    <li>Elsevier Journal of King Saud University - Computer and Information Sciences since 2018 (2)</li>
+    <li>Elsevier Journal of King Saud University - Computer and Information Sciences since 2018 (4)</li>
     <li>Springer Mobile Networks and Applications since 2017 (2)</li>
     <li>Springer Multimedia Tools and Applications since 2015 (61)</li>
     <li>Springer Signal, Image and Video Processing since 2018 (2)</li>
@@ -66,8 +66,9 @@ title: Professional Activities
     <li>Springer Nonlinear Dynamics since 2016 (2)</li>
     <li>Springer Neural Computing and Applications since 2018 (2)</li>
     <li>Springer EURASIP Journal on Image and Video Processing since 2018 (1)</li>
-    <li>Springer Journal of Ambient Intelligence and Humanized Computing since 2017 (7)</li>
+    <li>Springer Journal of Ambient Intelligence and Humanized Computing since 2017 (9)</li>
     <li>Springer SpringerPlus since 2016 (1)</li>
+    <li>Journal of Medical Imaging and Health Informatics since 2018 (1)</li>
     <li>KSII Transactions on Internet and Information Systems since 2018 (1)</li>
     <li>SAGE International Journal of Distributed Sensor Networks since 2017 (2)</li>
     <li>Hindawi Computational Intelligence and Neuroscience since 2017 (2)</li>
