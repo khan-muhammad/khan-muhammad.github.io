@@ -40,7 +40,7 @@ title: Professional Activities
     <li>IEEE IEEE Consumer Electronics Magazine since 2018 (2) </li>
     <li>ACM Transactions on Multimedia Computing Communications and Applications since 2017 (2) </li>
     <li>IEEE Access since 2017 (19) </li>
-    <li>Elsevier Future Generation Computer Systems since 2016 (13)</li>
+    <li>Elsevier Future Generation Computer Systems since 2016 (17)</li>
     <li>Elsevier International Journal of Information Management since 2018 (1)</li>
     <li>Elsevier Signal Processing since 2016 (3)</li>
     <li>Elsevier Adhoc Networks since 2018 (2)</li>
