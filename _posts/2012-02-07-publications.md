@@ -91,6 +91,16 @@ Tanveer Hussain, <b>Khan Muhammad</b>, and Sung Wook Baik, <a href="https://ieee
   
   <br>
   
+  <li>
+Muhammad Sajjad, Muhammad Irfan, Mansoor Nasir, <b>Khan Muhammad</b>, and Sung Wook Baik, <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6979" target="_blank">An Efficient and Scalable Simulation Model for 
+Autonomous Vehicles with Economical Hardware</a>, <i>IEEE Transactions on Intelligent Transportation Systems</i>, 2018 (In Peer Review). [<b>IF</b>: 4.051, Q1]
+ <a class="pdflink" href="/public/papers/Sajjad_ITS_2019.pdf" target="_blank">
+      <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
+</a>
+  </li>
+
+<br>
+  
    <li>
 Amin Ullah, <b>Khan Muhammad</b>, Ijaz Ul Haq, and Sung Wook Baik, <a href="https://www.journals.elsevier.com/future-generation-computer-systems" target="_blank">Action Recognition using Optimized Deep Autoencoder and CNN for Surveillance Data Streams of Non-Stationary Environments</a>, <i>Future Generation Computer Systems</i>, 2018 (Major Revision). [<strong>IF</strong>: 4.639, Q1]
  <a class="pdflink" href="/public/papers/FGCS_Action_2018.pdf" target="_blank">
@@ -239,15 +249,6 @@ Peer Azmat Shah, Khalid Mahmood Awan, Zahoor Ur Rehman, Khalid Iqbal, Farhan Aad
 <li>
 Muhammad Fahad, Farhan Aadil, Zahoor Ur Rehman, Salabat Khan, <b>Khan Muhammad</b>, Jaime Lloret, Haoxiang Wang, Jong Weon Lee, and Irfan Mehmood, <a href="https://www.sciencedirect.com/science/article/pii/S0045790617321031" target="_blank"> Grey wolf optimization based clustering algorithm for vehicular ad-hoc networks</a>, <i>Computers & Electrical Engineering</i>, 2017 (In press). [<b>IF</b>: 1.570, Q3]
  <a class="pdflink" href="/public/papers/CEE_Greywolf.pdf" target="_blank">
-      <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
-</a>
-  </li>
-
-<br>
-
-<li>
-Muhammad Sajjad, Muhammad Irfan, Mansoor Nasir, <b>Khan Muhammad</b>, and Sung Wook Baik, <a href="http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6287639" target="_blank">Raspberry Pi based CNN Assisted Self Driving Model Car</a>, <i>IEEE Access</i>, 2017 (In Peer Review). [<b>IF</b>: 3.244, Q1]
- <a class="pdflink" href="/public/papers/CEE_Malware.pdf" target="_blank">
       <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
 </a>
   </li>
