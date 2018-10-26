@@ -38,6 +38,42 @@ li{
   <br>
   
   <li>
+Amin Ullah, <b>Khan Muhammad</b>, and Sung Wook Baik, <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=41" target="_blank">Activity Recognition using Temporal Optical Flow Convolutional Features and Multi-Layer LSTM</a>, <i>IEEE Transactions on Industrial Electronics</i>, 2018 (Major Revision). [<strong>IF</strong>: 7.05, Q1]
+ <a class="pdflink" href="/public/papers/IEEE_Activity_TIE_2018.pdf" target="_blank">
+      <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
+ </a>
+</li>
+     
+  <br>
+  
+  <li>
+Muhammad Sajjad, Ijaz Ul Haq, <b>Khan Muhammad</b>, and Sung Wook Baik, <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=9424" target="_blank">Robust Image Hashing for Efficient Authentication in Industrial IoT Applications</a>, <i>IEEE Transactions on Industrial Informatics</i>, 2018 (In Peer Review). [<b>IF</b>: 5.43, Q1]
+ <a class="pdflink" href="/public/papers/Ijaz_Hashing_TSMC.pdf" target="_blank">
+      <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
+</a>
+  </li>
+  
+<br>
+  
+  <li>
+Irfan Mehmood, Amin Ullah, <b>Khan Muhammad</b>, and Muhammad Sajjad, <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6488907" target="_blank">Efficient Image Recognition and Retrieval on IoT-Assisted Energy-Constrained Platforms from Big Data Repositories</a>, <i>IEEE IoT</i>, 2018 (In Peer Review). [<b>IF</b>: 5.863, Q1]
+ <a class="pdflink" href="/public/papers/Irfan_IEEE_IoT_2019.pdf" target="_blank">
+      <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
+</a>
+  </li>
+  
+ <br>
+ 
+ <li>
+Salaman Khan, <b>Khan Muhammad</b>, and Sung Wook Baik, <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6488907" target="_blank">Energy-Efficient Deep CNN for Smoke Detection in Foggy IoT Environment</a>, <i>IEEE IoT</i>, 2018 (Major Revision). [<b>IF</b>: 5.863, Q1]
+ <a class="pdflink" href="/public/papers/Irfan_IEEE_IoT_2019.pdf" target="_blank">
+      <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
+</a>
+  </li>
+  
+ <br>
+  
+  <li>
 <b>Khan Muhammad</b>, Tanveer Hussain, and Sung Wook Baik, <a href="https://www.sciencedirect.com/science/article/pii/S0167865518303842" target="_blank">Efficient CNN based summarization of surveillance videos for resource-constrained devices</a>, <i>Pattern Recognition Letters</i>, 2018 (In Press). [<strong>IF</strong>: 1.952, Q2]
  <a class="pdflink" href="/public/papers/PRL_VS_2018.pdf" target="_blank">
       <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
@@ -47,8 +83,8 @@ li{
   <br>
   
    <li>
-Amin Ullah, <b>Khan Muhammad</b>, and Sung Wook Baik, <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=41" target="_blank">Activity Recognition using Temporal Optical Flow Convolutional Features and Multi-Layer LSTM</a>, <i>IEEE Transactions on Industrial Electronics</i>, 2018 (Major Revision). [<strong>IF</strong>: 7.05, Q1]
- <a class="pdflink" href="/public/papers/IEEE_Activity_TIE_2018.pdf" target="_blank">
+Tanveer Hussain, <b>Khan Muhammad</b>, and Sung Wook Baik, <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221036" target="_blank">A Comprehensive Survey on Multi-View Video Summarization</a>, <i>IEEE Transactions on Cybernetics</i>, 2018 (In review). [<strong>IF</strong>: 8.803, Q1]
+ <a class="pdflink" href="/public/papers/IEEE_MVS_Survey_TCYB_2018.pdf" target="_blank">
       <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
  </a>
 </li>
@@ -56,7 +92,7 @@ Amin Ullah, <b>Khan Muhammad</b>, and Sung Wook Baik, <a href="https://ieeexplor
   <br>
   
    <li>
-Amin Ullah, <b>Khan Muhammad</b>, Ijaz Ul Haq, and Sung Wook Baik, <a href="https://www.journals.elsevier.com/future-generation-computer-systems" target="_blank">Action Recognition using Optimized Deep Autoencoder and CNN for Surveillance Data Streams of Non-Stationary Environments</a>, <i>Future Generation Computer Systems</i>, 2018 (In process). [<strong>IF</strong>: 4.639, Q1]
+Amin Ullah, <b>Khan Muhammad</b>, Ijaz Ul Haq, and Sung Wook Baik, <a href="https://www.journals.elsevier.com/future-generation-computer-systems" target="_blank">Action Recognition using Optimized Deep Autoencoder and CNN for Surveillance Data Streams of Non-Stationary Environments</a>, <i>Future Generation Computer Systems</i>, 2018 (Major Revision). [<strong>IF</strong>: 4.639, Q1]
  <a class="pdflink" href="/public/papers/FGCS_Action_2018.pdf" target="_blank">
       <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
  </a>
@@ -72,6 +108,16 @@ Muhammad Sajjad, Salman Khan, <b>Khan Muhammad</b>, Wanqing Wu, Amin Ullah, and 
 </li>
   
   <br>
+  
+  <li>
+Mansoor Nasir, <b>Khan Muhammad</b>, Jaime Lloret, Muhammad Sajjad, <a href="https://www.journals.elsevier.com/journal-of-parallel-and-distributed-computing" target="_blank">Fog Computing Enabled Cost Effective Distributed Summarization of Surveillance Videos for
+Smart Cities</a>, <i>Journal of Parallel and Distributed Computing</i>, 2017 (In Peer Review). [<b>IF</b>: 1.930, Q2]
+ <a class="pdflink" href="/public/papers/Mansoor_JPDC.pdf" target="_blank">
+      <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
+</a>
+  </li>
+
+<br>
  
  <li>
 <b>Khan Muhammad</b>, Jamil Ahmad, and Sung Wook Baik, <a href="https://ieeexplore.ieee.org/document/8385121/" target="_blank">Efficient Deep CNN-Based Fire Detection and Localization in Video Surveillance Applications</a>, <i>IEEE Transactions on Systems, Man, and Cybernetics: Systems</i>, 2018 (In Press). [<strong>IF</strong>: 5.131, Q1]
@@ -111,15 +157,6 @@ Amin Ullah, Jamil Ahmad, <b>Khan Muhammad</b>, Muhammad Sajjad, and Sung Wook Ba
 <br>
 
 <li>
-Muhammad Sajjad, Ijaz Ul Haq, <b>Khan Muhammad</b>, and Sung Wook Baik, <a href="http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=83" target="_blank">Robust Image Hashing Based Authentication of Keyframes Extracted using Video Summarization in Surveillance Applications</a>, <i>IEEE Transactions on Image Processing</i>, 2017 (In Peer Review). [<b>IF</b>: 4.828, Q1]
- <a class="pdflink" href="/public/papers/Ijaz_Hashing_TSMC.pdf" target="_blank">
-      <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
-</a>
-  </li>
-  
-<br>
-
-<li>
 Jamil Ahmad, <b>Khan Muhammad</b>, Jaime Lloret, and Sung Wook Baik, <a href="http://ieeexplore.ieee.org/document/8276643/?punumber=9424" target="_blank">Efficient Conversion of Deep Features to Compact Binary Codes using Fourier Decomposition for Multimedia Big Data</a>, <i>IEEE Transactions on Industrial Informatics</i>, Vol. 14 (7 July): 3205 - 3215, 2018. [<b>IF</b>: 5.43, Q1]
  <a class="pdflink" href="/public/papers/Jamil_TII_Hash_Codes.pdf" target="_blank">
       <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
@@ -138,30 +175,12 @@ Jamil Ahmad, <b>Khan Muhammad</b>, and Sung Wook Baik, <a href="https://link.spr
   <br>
 
 <li>
-Muhammad Sajjad, Amin Ullah, Jamil Ahmad, <b>Khan Muhammad</b>, and Sung Wook Baik, <a href="https://www.journals.elsevier.com/computers-and-electrical-engineering/" target="_blank">Image Retrieval and Recognition in Smart Phone Gallery Using Convolutional Facial Features</a>, <i>Computers & Electrical Engineering</i>, 2017 (In Peer Review). [<b>IF</b>: 1.570, Q3]
- <a class="pdflink" href="/public/papers/Sajjad_JOMS.pdf" target="_blank">
-      <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
-</a>
-  </li>
-  
- <br>
-
-<li>
 Jamil Ahmad, <b>Khan Muhammad</b>, Wakeel Ahmad, Melvyn Smith, Lyndon Smith, Deepak Jain, Haoxiang Wang, and Irfan Mehmood, <a href="https://www.sciencedirect.com/science/article/pii/S0166361517304293" target="_blank">Visual features based boosted classification of weeds for real-time selective herbicide sprayer systems</a>, <i>Computers in Industry</i>, 98 (June): 23-33, 2018 [<strong>IF</strong>: 2.691, Q2] <a class="pdflink" href="/public/papers/COMIND_Weed.pdf" target="_blank">
       <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
 </a> 
 </li> 
   
  <br>
-
-<li>
-Noor Ullah, Jamil Ahmad, Amin Ullah, <b>Khan Muhammad</b>, and Sung Wook Baik, <a href="https://link.springer.com/journal/521" target="_blank">Biomedical Documents Classification and Retrieval with Text and Figure Features using Deep Convolutional Neural Networks</a>, <i>Neural Computing and Applications</i>, 2017 (In Peer review). [<b>IF</b>: 2.505, Q2]
- <a class="pdflink" href="/public/papers/Jamil_JOMS.pdf" target="_blank">
-      <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
-</a>
-  </li>
-  
-<br>
 
 <li>
 Jamil Ahmad, <b>Khan Muhammad</b>, and Sung Wook Baik, <a href="https://link.springer.com/article/10.1007/s11554-018-0784-x" target="_blank">Partially Shaded Sketch-based Image Search in Real Mobile Device Environments via Sketch-Oriented Compact Neural Codes</a>, <i>Journal of Real-Time Image Processing</i>, 2017 (In Press). [<b>IF</b>: 2.010, Q2]
@@ -202,16 +221,6 @@ Zahoor Ur Rehman, Sidra Nasim Khan, <b>Khan Muhammad</b>, Jong Weon Lee, and Irf
 <li>
 Peer Azmat Shah, Khalid Mahmood Awan, Zahoor Ur Rehman, Khalid Iqbal, Farhan Aadil, <b>Khan Muhammad</b>, Irfan Mehmood, and Sung Wook Baik, <a href="https://link.springer.com/article/10.1007/s11036-018-1007-1" target="_blank">A Route Optimized Distributed IP-based Mobility Management Protocol for Seamless Handover across Wireless Mesh Networks</a>, <i>Mobile Networks and Applications</i>, 2017 (In Press). [<b>IF</b>: 3.259, Q1]
  <a class="pdflink" href="/public/papers/MONET_Mesh_Networks.pdf" target="_blank">
-      <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
-</a>
-  </li>
-
-<br>
-
-<li>
-Mansoor Nasir, <b>Khan Muhammad</b>, Jaime Lloret, Muhammad Sajjad, <a href="https://www.journals.elsevier.com/journal-of-parallel-and-distributed-computing" target="_blank">Fog Computing Enabled Cost Effective Distributed Summarization of Surveillance Videos for
-Smart Cities</a>, <i>Journal of Parallel and Distributed Computing</i>, 2017 (In Peer Review). [<b>IF</b>: 1.930, Q2]
- <a class="pdflink" href="/public/papers/Mansoor_JPDC.pdf" target="_blank">
       <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
 </a>
   </li>
