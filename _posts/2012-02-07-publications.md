@@ -110,6 +110,15 @@ Muhammad Sajjad, Salman Khan, <b>Khan Muhammad</b>, Wanqing Wu, Amin Ullah, and 
   <br>
   
   <li>
+Ijaz Ul Haq, <b>Khan Muhammad</b>, Amin Ullah, Sung Wook Baik, and Mi Young Lee, <a href="http://ieeexplore.ieee.org/document/8121994/" target="_blank">DeepStar: Detecting Starring Characters in Movies</a>, <i>IEEE Access</i>, 2018 (In Peer Review). [<b>IF</b>: 3.244, Q1]
+ <a class="pdflink" href="/public/papers/Ijaz_DeepStar_2018.pdf" target="_blank">
+      <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
+</a>
+  </li>
+  
+<br>
+  
+  <li>
 Mansoor Nasir, <b>Khan Muhammad</b>, Jaime Lloret, Muhammad Sajjad, <a href="https://www.journals.elsevier.com/journal-of-parallel-and-distributed-computing" target="_blank">Fog Computing Enabled Cost Effective Distributed Summarization of Surveillance Videos for
 Smart Cities</a>, <i>Journal of Parallel and Distributed Computing</i>, 2017 (In Peer Review). [<b>IF</b>: 1.930, Q2]
  <a class="pdflink" href="/public/papers/Mansoor_JPDC.pdf" target="_blank">
