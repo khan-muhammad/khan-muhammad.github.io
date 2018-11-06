@@ -14,12 +14,10 @@ title: Professional Activities
 
 </style>
 
-<ol><h1>Journal Guest Editor (12)</h1>
+<ol><h1>Journal Guest Editor (9)</h1>
     <li>IEEE Transactions on Fuzzy Systems 2018-2019 (GE)</li>
     <li>Springer International Journal of Fuzzy Systems 2018-2019 (GE)</li>
-    <li>Elsevier Computers & Electrical Engineering 2018-2019 (GE)</li>
-    <li>Springer Neural Computing and Applications 2018-2019 (GE)</li>
-    <li>Springer Journal of Psycholinguistic Research 2018-2019 (GE)</li>
+    <li>Elsevier Neural Networks 2019-2020 (GE)</li>
     <li>Elsevier Journal of Computational Science 2018-2019 (GE)</li>
     <li>AutoSoft 2018-2019 (GE)</li>
     <li>Elsevier Future Generation Computer Systems 2017-2018 (GE)</li>
@@ -30,6 +28,7 @@ title: Professional Activities
 </ol>
 
 <ol><h1>Journal Referee (48)</h1>
+    <li>IEEE Transactions on on Circuits and Systems for Video Technology since 2018 (2) </li>
     <li>IEEE Transactions on Cybernetics since 2018 (1) </li>
     <li>IEEE Transactions on Image Processing since 2015 (1) </li>
     <li>IEEE Transactions on Industrial Informatics since 2017 (2) </li>
