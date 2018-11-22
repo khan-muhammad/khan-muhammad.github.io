@@ -26,7 +26,6 @@ title: Professional Activities
 
 <ol><h1>Journal Referee (48)</h1>
     <li>IEEE Transactions on on Circuits and Systems for Video Technology since 2018 (2) </li>
-    <li>IEEE Transactions on Cybernetics since 2018 (1) </li>
     <li>IEEE Transactions on Image Processing since 2015 (1) </li>
     <li>IEEE Transactions on Industrial Informatics since 2017 (2) </li>
     <li>IEEE Communications Magazine since 2017 (5) </li>
@@ -41,9 +40,7 @@ title: Professional Activities
     <li>Elsevier Signal Processing since 2016 (3)</li>
     <li>Elsevier Adhoc Networks since 2018 (2)</li>
     <li>Elsevier Neurocomputing since 2018 (2)</li>
-    <li>Elsevier Journal of Network and Computer Applications since 2017 (4)</li>
     <li>Elsevier Signal Processing: Image Communication since 2017 (2)</li>
-    <li>Elsevier Computer Communications since 2017 (2)</li>
     <li>Elsevier Computer Networks since 2018 (8)</li>
     <li>Elsevier Optics and Lasers in Engineering since 2018 (3)</li>
     <li>Elsevier Optik - International Journal for Light and Electron Optics since 2018 (1)</li>
