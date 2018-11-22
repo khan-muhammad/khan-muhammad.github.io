@@ -14,12 +14,9 @@ title: Professional Activities
 
 </style>
 
-<ol><h1>Journal Guest Editor (9)</h1>
-    <li>IEEE Transactions on Fuzzy Systems 2018-2019 (GE)</li>
-    <li>Springer International Journal of Fuzzy Systems 2018-2019 (GE)</li>
+<ol><h1>Journal Guest Editor (7)</h1>
     <li>Elsevier Neural Networks 2019-2020 (GE)</li>
     <li>Elsevier Journal of Computational Science 2018-2019 (GE)</li>
-    <li>AutoSoft 2018-2019 (GE)</li>
     <li>Elsevier Future Generation Computer Systems 2017-2018 (GE)</li>
     <li>IEEE Access 2017-2018 (GE)</li>
     <li>NED University Journal of Research: An Internaltional Journal 2017-2018 (LGE)</li>
