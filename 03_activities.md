@@ -14,11 +14,8 @@ title: Professional Activities
 
 </style>
 
-<ol><h1>Journal Guest Editor (7)</h1>
-    <li>Elsevier Neural Networks 2019-2020 (GE)</li>
-    <li>Elsevier Journal of Computational Science 2018-2019 (GE)</li>
-    <li>Elsevier Future Generation Computer Systems 2017-2018 (GE)</li>
-    <li>IEEE Access 2017-2018 (GE)</li>
+<ol><h1>Journal Guest Editor (4)</h1>
+    <li>Elsevier NN (GE) [To be live soon]</li>
     <li>NED University Journal of Research: An Internaltional Journal 2017-2018 (LGE)</li>
     <li>Wily Concurrency and Computation: Practice and Experience 2017-2018 (GE)</li>
     <li>Journal of Information Privacy and Security 2017 (GE)</li>
@@ -38,10 +35,8 @@ title: Professional Activities
     <li>Elsevier Future Generation Computer Systems since 2016 (17)</li>
     <li>Elsevier International Journal of Information Management since 2018 (1)</li>
     <li>Elsevier Signal Processing since 2016 (3)</li>
-    <li>Elsevier Adhoc Networks since 2018 (2)</li>
     <li>Elsevier Neurocomputing since 2018 (2)</li>
     <li>Elsevier Signal Processing: Image Communication since 2017 (2)</li>
-    <li>Elsevier Computer Networks since 2018 (8)</li>
     <li>Elsevier Optics and Lasers in Engineering since 2018 (3)</li>
     <li>Elsevier Optik - International Journal for Light and Electron Optics since 2018 (1)</li>
     <li>Elsevier Computer Methods and Programs in Biomedicine since 2018 (3)</li>
@@ -50,14 +45,10 @@ title: Professional Activities
     <li>Elsevier Computers and Electrical Engineering since 2017 (2)</li>
     <li>Elsevier Digital Communications and Networks since 2017 (2)</li>
     <li>Elsevier Journal of King Saud University - Computer and Information Sciences since 2018 (4)</li>
-    <li>Springer Mobile Networks and Applications since 2017 (2)</li>
     <li>Springer Multimedia Tools and Applications since 2015 (61)</li>
     <li>Springer Signal, Image and Video Processing since 2018 (2)</li>
-    <li>Springer Journal of SuperComputing since 2016 (10)</li>
     <li>Springer Medical & Biological Engineering & Computing since 2016 (6)</li>
-    <li>Springer Cluster Computing since 2017 (5)</li>
     <li>Springer Nonlinear Dynamics since 2016 (2)</li>
-    <li>Springer Neural Computing and Applications since 2018 (2)</li>
     <li>Springer EURASIP Journal on Image and Video Processing since 2018 (1)</li>
     <li>Springer Journal of Ambient Intelligence and Humanized Computing since 2017 (9)</li>
     <li>Springer SpringerPlus since 2016 (1)</li>
