@@ -38,7 +38,7 @@ li{
   <br>
   
   <li>
-Amin Ullah, <b>Khan Muhammad</b>, and Sung Wook Baik, <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=41" target="_blank">Activity Recognition using Temporal Optical Flow Convolutional Features and Multi-Layer LSTM</a>, <i>IEEE Transactions on Industrial Electronics</i>, 2018 (Major Revision). [<strong>IF</strong>: 7.05, Q1]
+Amin Ullah, <b>Khan Muhammad</b>, and Sung Wook Baik, <a href="https://ieeexplore.ieee.org/document/8543495" target="_blank">Activity Recognition using Temporal Optical Flow Convolutional Features and Multi-Layer LSTM</a>, <i>IEEE Transactions on Industrial Electronics</i>, 2018 (In Press). [<strong>IF</strong>: 7.05, Q1]
  <a class="pdflink" href="/public/papers/IEEE_Activity_TIE_2018.pdf" target="_blank">
       <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
  </a>
