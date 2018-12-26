@@ -20,7 +20,7 @@ li{
 <ol>
  
  <li>
-<b>Khan Muhammad</b> and Sung Wook Baik, <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=35" target="_blank">Intelligent and Energy-Efficient Data Prioritization in Green Smart Cities: Current Challenges and Future Directions</a>, <i>IEEE Communications Magazine</i>, 2018 (Minor Revision). [<strong>IF</strong>: 9.270, Q1]
+<b>Khan Muhammad</b> and Sung Wook Baik, <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=35" target="_blank">Intelligent and Energy-Efficient Data Prioritization in Green Smart Cities: Current Challenges and Future Directions</a>, <i>IEEE Communications Magazine</i>, 2018 (Accepted). [<strong>IF</strong>: 9.270, Q1]
  <a class="pdflink" href="/public/papers/IEEE_COMMAG_DP_2018.pdf" target="_blank">
       <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
  </a>
@@ -47,7 +47,7 @@ Amin Ullah, <b>Khan Muhammad</b>, and Sung Wook Baik, <a href="https://ieeexplor
   <br>
   
   <li>
-Muhammad Sajjad, Ijaz Ul Haq, <b>Khan Muhammad</b>, and Sung Wook Baik, <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=9424" target="_blank">Robust Image Hashing for Efficient Authentication in Industrial IoT Applications</a>, <i>IEEE Transactions on Industrial Informatics</i>, 2018 (In Peer Review). [<b>IF</b>: 5.43, Q1]
+Muhammad Sajjad, Ijaz Ul Haq, <b>Khan Muhammad</b>, and Sung Wook Baik, <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=9424" target="_blank">Robust Image Hashing for Efficient Authentication in Industrial IoT Applications</a>, <i>IEEE Transactions on Industrial Informatics</i>, 2018 (Reject and Resubmit). [<b>IF</b>: 5.43, Q1]
  <a class="pdflink" href="/public/papers/Ijaz_Hashing_TSMC.pdf" target="_blank">
       <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
 </a>
@@ -56,7 +56,7 @@ Muhammad Sajjad, Ijaz Ul Haq, <b>Khan Muhammad</b>, and Sung Wook Baik, <a href=
 <br>
   
   <li>
-Irfan Mehmood, Amin Ullah, <b>Khan Muhammad</b>, and Muhammad Sajjad, <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6488907" target="_blank">Efficient Image Recognition and Retrieval on IoT-Assisted Energy-Constrained Platforms from Big Data Repositories</a>, <i>IEEE IoT</i>, 2018 (In Peer Review). [<b>IF</b>: 5.863, Q1]
+Irfan Mehmood, Amin Ullah, <b>Khan Muhammad</b>, and Muhammad Sajjad, <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6488907" target="_blank">Efficient Image Recognition and Retrieval on IoT-Assisted Energy-Constrained Platforms from Big Data Repositories</a>, <i>IEEE IoT</i>, 2018 (Reject and Resubmit). [<b>IF</b>: 5.863, Q1]
  <a class="pdflink" href="/public/papers/Irfan_IEEE_IoT_2019.pdf" target="_blank">
       <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
 </a>
@@ -65,7 +65,7 @@ Irfan Mehmood, Amin Ullah, <b>Khan Muhammad</b>, and Muhammad Sajjad, <a href="h
  <br>
  
  <li>
-Salaman Khan, <b>Khan Muhammad</b>, and Sung Wook Baik, <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6488907" target="_blank">Energy-Efficient Deep CNN for Smoke Detection in Foggy IoT Environment</a>, <i>IEEE IoT</i>, 2018 (Major Revision). [<b>IF</b>: 5.863, Q1]
+Salaman Khan, <b>Khan Muhammad</b>, and Sung Wook Baik, <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6488907" target="_blank">Energy-Efficient Deep CNN for Smoke Detection in Foggy IoT Environment</a>, <i>IEEE IoT</i>, 2018 (Minor Revision). [<b>IF</b>: 5.863, Q1]
  <a class="pdflink" href="/public/papers/Irfan_IEEE_IoT_2019.pdf" target="_blank">
       <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
 </a>
@@ -102,7 +102,7 @@ Autonomous Vehicles with Economical Hardware</a>, <i>IEEE Transactions on Intell
 <br>
   
    <li>
-Amin Ullah, <b>Khan Muhammad</b>, Ijaz Ul Haq, and Sung Wook Baik, <a href="https://www.journals.elsevier.com/future-generation-computer-systems" target="_blank">Action Recognition using Optimized Deep Autoencoder and CNN for Surveillance Data Streams of Non-Stationary Environments</a>, <i>Future Generation Computer Systems</i>, 2018 (Major Revision). [<strong>IF</strong>: 4.639, Q1]
+Amin Ullah, <b>Khan Muhammad</b>, Ijaz Ul Haq, and Sung Wook Baik, <a href="https://www.journals.elsevier.com/future-generation-computer-systems" target="_blank">Action Recognition using Optimized Deep Autoencoder and CNN for Surveillance Data Streams of Non-Stationary Environments</a>, <i>Future Generation Computer Systems</i>, 2018 (In review after Major Revision). [<strong>IF</strong>: 4.639, Q1]
  <a class="pdflink" href="/public/papers/FGCS_Action_2018.pdf" target="_blank">
       <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
  </a>
@@ -111,7 +111,7 @@ Amin Ullah, <b>Khan Muhammad</b>, Ijaz Ul Haq, and Sung Wook Baik, <a href="http
   <br>
   
    <li>
-Muhammad Sajjad, Salman Khan, <b>Khan Muhammad</b>, Wanqing Wu, Amin Ullah, and Sung Wook Baik, <a href="https://www.journals.elsevier.com/journal-of-computational-science" target="_blank">Multi-Grade Brain Tumor Classification using Deep CNN with Extensive Data Augmentation</a>, <i>Journal of Computational Science</i>, 2018 (Major Revision). [<strong>IF</strong>: 1.925, Q2]
+Muhammad Sajjad, Salman Khan, <b>Khan Muhammad</b>, Wanqing Wu, Amin Ullah, and Sung Wook Baik, <a href="https://www.sciencedirect.com/science/article/pii/S1877750318307385" target="_blank">Multi-Grade Brain Tumor Classification using Deep CNN with Extensive Data Augmentation</a>, <i>Journal of Computational Science</i>, 2018 (In press). [<strong>IF</strong>: 1.925, Q2]
  <a class="pdflink" href="/public/papers/JOCS_Multi_Grade_2018.pdf" target="_blank">
       <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
  </a>
@@ -120,7 +120,7 @@ Muhammad Sajjad, Salman Khan, <b>Khan Muhammad</b>, Wanqing Wu, Amin Ullah, and 
   <br>
   
   <li>
-Ijaz Ul Haq, <b>Khan Muhammad</b>, Amin Ullah, Sung Wook Baik, and Mi Young Lee, <a href="http://ieeexplore.ieee.org/document/8121994/" target="_blank">DeepStar: Detecting Starring Characters in Movies</a>, <i>IEEE Access</i>, 2018 (In Peer Review). [<b>IF</b>: 3.244, Q1]
+Ijaz Ul Haq, <b>Khan Muhammad</b>, Amin Ullah, Sung Wook Baik, and Mi Young Lee, <a href="http://ieeexplore.ieee.org/document/8121994/" target="_blank">DeepStar: Detecting Starring Characters in Movies</a>, <i>IEEE Access</i>, 2018 (In press). [<b>IF</b>: 3.244, Q1]
  <a class="pdflink" href="/public/papers/Ijaz_DeepStar_2018.pdf" target="_blank">
       <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
 </a>
@@ -130,7 +130,7 @@ Ijaz Ul Haq, <b>Khan Muhammad</b>, Amin Ullah, Sung Wook Baik, and Mi Young Lee,
   
   <li>
 Mansoor Nasir, <b>Khan Muhammad</b>, Jaime Lloret, Muhammad Sajjad, <a href="https://www.journals.elsevier.com/journal-of-parallel-and-distributed-computing" target="_blank">Fog Computing Enabled Cost Effective Distributed Summarization of Surveillance Videos for
-Smart Cities</a>, <i>Journal of Parallel and Distributed Computing</i>, 2017 (In Peer Review). [<b>IF</b>: 1.930, Q2]
+Smart Cities</a>, <i>Journal of Parallel and Distributed Computing</i>, 2017 (In Press). [<b>IF</b>: 1.930, Q2]
  <a class="pdflink" href="/public/papers/Mansoor_JPDC.pdf" target="_blank">
       <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
 </a>
