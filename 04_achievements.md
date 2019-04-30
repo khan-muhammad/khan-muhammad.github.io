@@ -20,6 +20,17 @@ title: Awards and Achievements
 
 <li>
   <p>
+    Outstanding Research Award from Sejong University, Seoul, Republic of Korea, 2019
+   </p>
+   <img src="/public/pictures/Outstanding_Researcher_2019.jpg">
+ </li>
+
+<br>
+
+<li>
+
+<li>
+  <p>
     Outstanding Reviewer Award from Elsevier Journal of Network and Computer Applications, 2018
    </p>
    <img src="/public/pictures/Out_JNCA_2018.jpg">
