@@ -15,7 +15,7 @@ title: Professional Activities
 </style>
 
 <ol><h1>Journal Guest Editor (4)</h1>
-    <li>Elsevier NN (GE) [To be live soon]</li>
+    <li>Elsevier NN (GE) [Special Issue on Advanced Deep Learning Methods for Biomedical Image Analysis]</li>
     <li>NED University Journal of Research: An Internaltional Journal 2017-2018 (LGE)</li>
     <li>Wily Concurrency and Computation: Practice and Experience 2017-2018 (GE)</li>
     <li>Journal of Information Privacy and Security 2017 (GE)</li>
