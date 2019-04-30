@@ -28,8 +28,6 @@ title: Awards and Achievements
 <br>
 
 <li>
-
-<li>
   <p>
     Outstanding Reviewer Award from Elsevier Journal of Network and Computer Applications, 2018
    </p>
