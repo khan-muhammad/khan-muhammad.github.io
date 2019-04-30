@@ -11,6 +11,7 @@ title: Research Areas
 <li>Image and Video Steganography</li>
 <li>Image Encryption</li>
 <li>Image Hashing</li>
+<li>Image Watermarking</li>
 </ul>
 
  
@@ -19,7 +20,7 @@ title: Research Areas
 
 <ul><h1>Vision</h1>
 <li>Video Surveillance</li>
-<li>CCTV Video Analytics</li>
+<li>Fire/Smoke Scene Analysis</li>
 <li>Video Summarization</li>
 </ul>
 
