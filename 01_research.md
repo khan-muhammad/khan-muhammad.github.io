@@ -8,7 +8,7 @@ title: Research Areas
 
 
 <ul><h1>Information Security</h1>
-<li>Image and Video Steganography</li>
+<li>Image Steganography</li>
 <li>Image Encryption</li>
 <li>Image Hashing</li>
 <li>Image Watermarking</li>
