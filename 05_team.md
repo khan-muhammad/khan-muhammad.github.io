@@ -45,7 +45,7 @@ title: Research Team
 
  
 	<div style="padding: 20px" >
-		<img width="200px" height="250px" src="/public/pictures/Khan_AP.JPG">
+		<img width="200px" height="250px" src="/public/pictures/Khan_AP.jpg">
 		<a     href="https://scholar.google.co.kr/citations?user=w9kR0jwAAAAJ&hl=en" target="_blank">
 		Khan Muhammad
 			</a>
