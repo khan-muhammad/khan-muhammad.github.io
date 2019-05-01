@@ -3,6 +3,21 @@ layout: page
 title: Photo Gallery
 imgfolder: /public/gallery-pictures
 images:
+  - name: Python_2019.jpg
+    thumb: Python_2019.jpg
+    text: When you cannot digest food without Python. :). A click with colleagues at IM Lab, Sejong University, Korea, April 2019.
+  - name: Khan_Birthday_2019.jpg
+    thumb: Khan_Birthday_2019.jpg
+    text: Memorable moments with colleagues after celebrating my Birthday on 10 April, 2019 at Children Grand Park, Seoul, Korea.
+  - name: Amin_New_Coordinator_2019.jpg
+    thumb: Amin_New_Coordinator_2019.jpg
+    text: Welcome to New Coordinator of IM Lab "Amin Ullah". Taking charge from March 2019 at Sejong University, Korea, 2019.
+  - name: Laptop_Gift_From_Professor_2019.jpg
+    thumb: Laptop_Gift_From_Professor_2019.jpg
+    text: Receiving High-Specs Laptop as Gift from Prof. Sung Wook Baik at his Office in Sejong University, Korea, 2019.
+  - name: Khan_Graduation_2019.jpg
+    thumb: Khan_Graduation_2019.jpg
+    text: Memorable moments with Prof. Sung Wook Baik after Graduation Ceremony at Sejong University, Korea on 22nd Feb, 2019.
   - name: Meeting_2018.jpg
     thumb: Meeting_2018.jpg
     text: Memorable moments with Prof. Sung Wook Baik after meeting in lawn during Spring at Sejong University, Korea, 2018.
