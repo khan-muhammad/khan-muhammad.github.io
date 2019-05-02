@@ -38,8 +38,8 @@ li{
   <br>
   
   <li>
-Amin Ullah, <b>Khan Muhammad</b>, and Sung Wook Baik, <a href="https://ieeexplore.ieee.org/document/8543495" target="_blank">Activity Recognition using Temporal Optical Flow Convolutional Features and Multi-Layer LSTM</a>, <i>IEEE Transactions on Industrial Electronics</i>, 2018 (In Press). [<strong>IF</strong>: 7.05, Q1]
- <a class="pdflink" href="/public/papers/IEEE_Activity_TIE_2018.pdf" target="_blank">
+Amin Ullah, <b>Khan Muhammad</b>, and Sung Wook Baik, <a href="https://ieeexplore.ieee.org/document/8543495" target="_blank">Activity Recognition using Temporal Optical Flow Convolutional Features and Multi-Layer LSTM</a>, <i>IEEE Transactions on Industrial Electronics</i>, 2019 (In Press). [<strong>IF</strong>: 7.05, Q1]
+ <a class="pdflink" href="/public/papers/IEEE_Activity_TIE_2019.pdf" target="_blank">
       <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
  </a>
 </li>
@@ -129,9 +129,8 @@ Ijaz Ul Haq, <b>Khan Muhammad</b>, Amin Ullah, Sung Wook Baik, and Mi Young Lee,
 <br>
   
   <li>
-Mansoor Nasir, <b>Khan Muhammad</b>, Jaime Lloret, Muhammad Sajjad, <a href="https://www.journals.elsevier.com/journal-of-parallel-and-distributed-computing" target="_blank">Fog Computing Enabled Cost Effective Distributed Summarization of Surveillance Videos for
-Smart Cities</a>, <i>Journal of Parallel and Distributed Computing</i>, 2017 (In Press). [<b>IF</b>: 1.930, Q2]
- <a class="pdflink" href="/public/papers/Mansoor_JPDC.pdf" target="_blank">
+Mansoor Nasir, <b>Khan Muhammad</b>, Jaime Lloret, Muhammad Sajjad, <a href="https://www.sciencedirect.com/science/article/pii/S0743731518308402" target="_blank">Fog Computing Enabled Cost Effective Distributed Summarization of Surveillance Videos for Smart Cities</a>, <i>Journal of Parallel and Distributed Computing</i>, Volume 126, April 2019, Pages 161-170. [<b>IF</b>: 1.930, Q2]
+ <a class="pdflink" href="/public/papers/Mansoor_JPDC_2019.pdf" target="_blank">
       <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
 </a>
   </li>
