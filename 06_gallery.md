@@ -3,12 +3,18 @@ layout: page
 title: Photo Gallery
 imgfolder: /public/gallery-pictures
 images:
+  - name: Khan_Birthday_2021.jpg
+    thumb: Khan_Birthday_2021.jpg
+    text: Memorable moments with Seniors after celebrating my Birthday on 10 April, 2021 at Happy House, Neung-Dong, Seoul, Korea.
+  - name: Hiking_2021.jpg
+    thumb: Hiking_2021.jpg
+    text: Hiking with Prof. Sung Wook Baik and Senior Lab Members, September, 2021, Seoul, Korea.
   - name: NUS_2.jpg
     thumb: NUS_2.jpg
-    text: A click from Singapore visit 2020.
+    text: Momorable moments from ICoIAS 2020, Singapore.
   - name: NUS_1.jpg
     thumb: NUS_1.jpg
-    text: Memorable moments from ICoIAS 2020, Singapore.
+    text: A click from Singapore visit 2020.
   - name: Bali_2.jpg
     thumb: Bali_2.jpg
     text: Presenting my research work at IMC 2020 at Bali, Indonesia.
@@ -21,8 +27,8 @@ images:
   - name: Khan_Birthday_2019.jpg
     thumb: Khan_Birthday_2019.jpg
     text: Memorable moments with colleagues after celebrating my Birthday on 10 April, 2019 at Children Grand Park, Seoul, Korea.
-  - name: Amin_Admin_2019_1.jpg
-    thumb: Amin_Admin_2019_1.jpg
+  - name: Admin_2019.jpg
+    thumb: Admin_2019.jpg
     text: Welcome to New Coordinator of IM Lab "Amin Ullah". Taking charge from March 2019 at Sejong University, Korea, 2019.
   - name: Laptop_Gift_From_Professor_2019.jpg
     thumb: Laptop_Gift_From_Professor_2019.jpg
