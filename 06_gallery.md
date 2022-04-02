@@ -21,8 +21,8 @@ images:
   - name: Khan_Birthday_2019.jpg
     thumb: Khan_Birthday_2019.jpg
     text: Memorable moments with colleagues after celebrating my Birthday on 10 April, 2019 at Children Grand Park, Seoul, Korea.
-  - name: Amin_Admin_2019.jpg
-    thumb: Amin_Admin_2019.jpg
+  - name: Amin_Admin_2019_1.jpg
+    thumb: Amin_Admin_2019_1.jpg
     text: Welcome to New Coordinator of IM Lab "Amin Ullah". Taking charge from March 2019 at Sejong University, Korea, 2019.
   - name: Laptop_Gift_From_Professor_2019.jpg
     thumb: Laptop_Gift_From_Professor_2019.jpg
