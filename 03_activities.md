@@ -27,7 +27,7 @@ title: Professional Activities
     <li>Journal of Information Privacy and Security 2017 (GE)</li>
 </ol>
 
-<ol><h1>Journal Referee (41)</h1>
+<ol><h1>Journal Referee (52)</h1>
      <li>IEEE Transactions on Industrial Informatics since 2017 (66) </li>
      <li>IEEE Internet of Things (IoT) since 2017 (75) </li>
      <li>IEEE Network since 2018 (28) </li>
