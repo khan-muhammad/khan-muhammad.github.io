@@ -3,6 +3,12 @@ layout: page
 title: Photo Gallery
 imgfolder: /public/gallery-pictures
 images:
+  - name: NUS_2.jpg
+    thumb: NUS_2.jpg
+    text: A click from Singapore visit 2020.
+  - name: NUS_1.jpg
+    thumb: NUS_1.jpg
+    text: Memorable moments from ICoIAS 2020, Singapore.
   - name: Bali_2.jpg
     thumb: Bali_2.jpg
     text: Presenting my research work at IMC 2020 at Bali, Indonesia.
