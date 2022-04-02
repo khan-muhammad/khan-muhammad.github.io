@@ -14,28 +14,45 @@ title: Professional Activities
 
 </style>
 
-<ol><h1>Journal Guest Editor (4)</h1>
-    <li>Elsevier NN (GE) [Special Issue on Advanced Deep Learning Methods for Biomedical Image Analysis]</li>
+<ol><h1>Journal Guest Editor (10)</h1>
+     <li> Fractals Journal, Special Issue on Fractal AI-Based Analyses and Applications to Complex Systems, 2021~2023</li>
+     <li>Elsevier Neurocomputing Journal, Special Issue on Deep Neural Networks with Cloud Computing, 2022~</li>
+     <li>Virtual Reality & Intelligent Hardware, Special Issue on Advances in Wireless Sensor Networks under AI-5G for Augmented Reality, 2021~2022</li>
+     <li>MDPI Electronics Journal, Special Issue on Data-Driven Processing from Complex Systems Perspective, 2022</li>
+     <li>MDPI Sensors Journal, Special Issue on AI-Enabled Advanced Sensing for Human Action and Activity Recognition, 2021~2022</li>
+     <li>MDPI Entropy Journal, Special Issue on Secure Applications with Blockchain and Artificial Intelligence, 2021</li>
+    <li>Elsevier Nerual Networks, Special Issue on Advanced Deep Learning Methods for Biomedical Image Analysis, 2020~2021</li>
     <li>NED University Journal of Research: An Internaltional Journal 2017-2018 (LGE)</li>
-    <li>Wily Concurrency and Computation: Practice and Experience 2017-2018 (GE)</li>
+    <li>Wiley Concurrency and Computation: Practice and Experience, Special Isssue on Convergence of deep machine learning and parallel computing environment for bio-engineering applications, 2017-2019 (GE)</li>
     <li>Journal of Information Privacy and Security 2017 (GE)</li>
 </ol>
 
 <ol><h1>Journal Referee (41)</h1>
-    <li>IEEE Transactions on on Circuits and Systems for Video Technology since 2018 (2) </li>
-    <li>IEEE Transactions on Image Processing since 2015 (1) </li>
-    <li>IEEE Transactions on Industrial Informatics since 2017 (2) </li>
-    <li>IEEE Communications Magazine since 2017 (5) </li>
-    <li>IEEE Wireless Communications Magazine since 2018 (2) </li>
-    <li>IEEE Internet of Things (IoT) since 2017 (5) </li>
-    <li>IEEE Network since 2018 (4) </li>
-    <li>IEEE IEEE Consumer Electronics Magazine since 2018 (2) </li>
-    <li>ACM Transactions on Multimedia Computing Communications and Applications since 2017 (2) </li>
-    <li>IEEE Access since 2017 (19) </li>
-    <li>Elsevier Future Generation Computer Systems since 2016 (17)</li>
-    <li>Elsevier International Journal of Information Management since 2018 (1)</li>
+     <li>IEEE Transactions on Industrial Informatics since 2017 (66) </li>
+     <li>IEEE Internet of Things (IoT) since 2017 (75) </li>
+     <li>IEEE Network since 2018 (28) </li>
+     <li>IEEE Access since 2017 (51) </li>
+     <li>IEEE Transactions on Intelligent Transportation Systems since 2020 (25) </li>
+     <li>IEEE Transactions on Network Science and Engineering since 2020 (10) </li>
+     <li>IEEE Transactions on on Circuits and Systems for Video Technology since 2018 (2) </li>
+    <li>IEEE Transactions on Image Processing since 2015 (7) </li>
+    <li>IEEE Transactions on Vehicular Technology since 2020 (8) </li>
+    <li>IEEE Communications Magazine since 2017 (10) </li>
+    <li>IEEE Wireless Communications Magazine since 2018 (19) </li>
+    <li>IEEE Journal of Biomedical and Health Informatics since 2020 (8) </li>
+    <li>IEEE Transactions on Neural Networks and Learning Systems since 2020 (6) </li>
+    <li>IEEE IEEE Computational Intelligence Magazine since 2019 (5) </li>
+    <li>IEEE IEEE Consumer Electronics Magazine since 2018 (3) </li>
+    <li>ACM Transactions on Multimedia Computing Communications and Applications since 2017 (9) </li>
+    <li>ACM Transactions on Internet Technology since 2020 (5) </li>
+    <li>ACM Transactions on Sensor Networks since 2021 (4) </li>
+    <li>ACM Computing Surveys since 2020 (2) </li>
+    <li>ACM Transactions on Data Science since 2021 (2) </li>
+    <li>Elsevier Future Generation Computer Systems since 2016 (43)</li>
+    <li>Elsevier International Journal of Information Management since 2018 (3)</li>
     <li>Elsevier Signal Processing since 2016 (3)</li>
-    <li>Elsevier Neurocomputing since 2018 (2)</li>
+    <li>Elsevier Neurocomputing since 2018 (24)</li>
+    <li>Elsevier Expert systems with Applications since 2020 (19)</li>
     <li>Elsevier Signal Processing: Image Communication since 2017 (2)</li>
     <li>Elsevier Optics and Lasers in Engineering since 2018 (3)</li>
     <li>Elsevier Optik - International Journal for Light and Electron Optics since 2018 (1)</li>
@@ -45,7 +62,7 @@ title: Professional Activities
     <li>Elsevier Computers and Electrical Engineering since 2017 (2)</li>
     <li>Elsevier Digital Communications and Networks since 2017 (2)</li>
     <li>Elsevier Journal of King Saud University - Computer and Information Sciences since 2018 (4)</li>
-    <li>Springer Multimedia Tools and Applications since 2015 (61)</li>
+    <li>Springer Multimedia Tools and Applications since 2015 (80)</li>
     <li>Springer Signal, Image and Video Processing since 2018 (2)</li>
     <li>Springer Medical & Biological Engineering & Computing since 2016 (6)</li>
     <li>Springer Nonlinear Dynamics since 2016 (2)</li>
