@@ -17,7 +17,20 @@ title: Awards and Achievements
 </style>
 
 <ul>
+<li>
+  <p>
+    IEEE Senior Membership (2022)
+   </p>	
+  <p>
+    Highly Cited Researcher Award by Web of Science (2021)
+   </p>
+   <p>
+    Standard Researchers List (2020 and 2021)
+   </p>
+ </li>
 
+<br>	
+	
 <li>
   <p>
     Extraordinary Contribution in Academics by Pakistan Embassy at National Level, Seoul, Republic of Korea, 2021
