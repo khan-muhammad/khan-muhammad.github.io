@@ -11,10 +11,10 @@ images:
     text: Hiking with Prof. Sung Wook Baik and Senior Lab Members, September, 2021, Seoul, Korea.
   - name: NUS_2.jpg
     thumb: NUS_2.jpg
-    text: Momorable moments from ICoIAS 2020, Singapore.
+    text: A click from Singapore visit 2020.
   - name: NUS_1.jpg
     thumb: NUS_1.jpg
-    text: A click from Singapore visit 2020.
+    text: Memorable moments from ICoIAS 2020, Singapore.
   - name: Bali_2.jpg
     thumb: Bali_2.jpg
     text: Presenting my research work at IMC 2020 at Bali, Indonesia.
