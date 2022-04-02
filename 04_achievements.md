@@ -20,11 +20,23 @@ title: Awards and Achievements
 <li>
   <p>
     IEEE Senior Membership (2022)
-   </p>	
+   </p>
+   <img src="/public/pictures/IEEE_Senior_2022.jpg">
+ </li>
+
+<br>	
+	
+<li>
   <p>
     Highly Cited Researcher Award by Web of Science (2021)
    </p>
-   <p>
+   <img src="/public/pictures/HCR_2021.jpg">
+ </li>
+
+<br>		
+	
+<li>
+  <p>
     Standard Researchers List (2020 and 2021)
    </p>
  </li>
