@@ -3,8 +3,8 @@ layout: page
 title: Photo Gallery
 imgfolder: /public/gallery-pictures
 images:
-  - name: Python_2019.JPG
-    thumb: Python_2019.jpg
+  - name: Python_2019_1.JPG
+    thumb: Python_2019_1.jpg
     text: When you cannot digest food without Python. :). A click with colleagues at IM Lab, Sejong University, Korea, April 2019.
   - name: Khan_Birthday_2019.jpg
     thumb: Khan_Birthday_2019.jpg
