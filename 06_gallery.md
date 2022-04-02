@@ -77,7 +77,7 @@ images:
     text: A snapshot from Platcon-16 Conference at Busan, Republic of Korea (2017)
   - name: hiking_2017.jpg
     thumb: hiking_2017.jpg
-    text: Hiking with Prof. Irfan Mehmood and Sejong Staff Members (2017)
+    text: Hiking with Prof. Irfan Mehmood and Sejong Staff Members at Achasan Mountain, Seoul, Korea (2017)
   - name: y_2016_2.jpg
     thumb: y_2016_2.jpg
     text: A visit to Yeouido Park in Seoul, Korea with Lab Members (2016)
