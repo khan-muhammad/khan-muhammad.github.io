@@ -3,6 +3,9 @@ layout: page
 title: Photo Gallery
 imgfolder: /public/gallery-pictures
 images:
+  - name: Skku_professors_2022.jpg
+    thumb: Skku_professors_2022.jpg
+    text: Memorable moments with Prof. Jang and other Faculty Members of School of Convergence, Sungkyunkwan University, Seoul, Korea.
   - name: Khan_Birthday_2021.jpg
     thumb: Khan_Birthday_2021.jpg
     text: Memorable moments with Seniors after celebrating my Birthday on 10 April, 2021 at Happy House, Neung-Dong, Seoul, Korea.
@@ -21,6 +24,9 @@ images:
   - name: Bali_1.jpg
     thumb: Bali_1.jpg
     text: Visit to Bali, Indonesia for IMC 2020.
+  - name: Imlab_2019.jpg
+    thumb: Imlab_2019.jpg
+    text: Group photo with Prof. Sung Wook Baik and IM Lab members during Prof. Muhammad Sajjad's visit to Sejong University, Korea in Oct, 2019.
   - name: Python_2019_1.jpg
     thumb: Python_2019_1.jpg
     text: When you cannot digest food without Python. :). A click with colleagues at IM Lab, Sejong University, Korea, April 2019.
