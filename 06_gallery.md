@@ -3,7 +3,13 @@ layout: page
 title: Photo Gallery
 imgfolder: /public/gallery-pictures
 images:
-  - name: Python_2019_1.JPG
+  - name: Bali_2.jpg
+    thumb: Bali_2.jpg
+    text: Presenting my research work at IMC 2020 at Bali, Indonesia.
+  - name: Bali_1.jpg
+    thumb: Bali_1.jpg
+    text: Visit to Bali, Indonesia for IMC 2020.
+  - name: Python_2019_1.jpg
     thumb: Python_2019_1.jpg
     text: When you cannot digest food without Python. :). A click with colleagues at IM Lab, Sejong University, Korea, April 2019.
   - name: Khan_Birthday_2019.jpg
