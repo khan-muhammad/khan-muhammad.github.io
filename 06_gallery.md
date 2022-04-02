@@ -24,6 +24,9 @@ images:
   - name: Bali_1.jpg
     thumb: Bali_1.jpg
     text: Visit to Bali, Indonesia for IMC 2020.
+  - name: Sju_Hiking_2019.jpg
+    thumb: Sju_Hiking_2019.jpg
+    text: Memorable moments with Sejong Faculty Members during official hiking event, Nov, 2019.
   - name: Imlab_2019.jpg
     thumb: Imlab_2019.jpg
     text: Group photo with Prof. Sung Wook Baik and IM Lab members during Prof. Muhammad Sajjad's visit to Sejong University, Korea in Oct, 2019.
