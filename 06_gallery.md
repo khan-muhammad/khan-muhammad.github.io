@@ -3,9 +3,21 @@ layout: page
 title: Photo Gallery
 imgfolder: /public/gallery-pictures
 images:
+   - name: Skku_AP2_2022.jpg
+    thumb: Skku_AP2_2022.jpg
+    text: Group photo with SKKU President and newly hired professors at 600th Anniversary Hall, Sungkyunkwan University, Seoul, Korea, 17 Feb, 2022.
+  - name: Skku_AP1_2022.jpg
+    thumb: Skku_AP1_2022.jpg
+    text: Official appointment letter, given by Chairman with a peice of advice, at 600th Anniversary Hall, Sungkyunkwan University, Seoul, Korea, 17 Feb, 2022.
   - name: Skku_professors_2022.jpg
     thumb: Skku_professors_2022.jpg
     text: Memorable moments with Prof. Jang and other Faculty Members of School of Convergence, Sungkyunkwan University, Seoul, Korea.
+  - name: Home_Search_2021.jpg
+    thumb: Home_Search_2021.jpg
+    text: A click during searching new home before appointement at SKKU with Prof. Jang near Sungkyunkwan University Bus stop, Seoul, Korea, Dec,2021.
+  - name: Historic_SKKU_Visit_2021.jpg
+    thumb: Historic_SKKU_Visit_2021.jpg
+    text: My first visit to the old/reserved Sungkyunkwan University with Prof. Jang, Seoul, Korea, Dec,2021.
   - name: Khan_Birthday_2021.jpg
     thumb: Khan_Birthday_2021.jpg
     text: Memorable moments with Seniors after celebrating my Birthday on 10 April, 2021 at Happy House, Neung-Dong, Seoul, Korea.
