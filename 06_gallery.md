@@ -3,11 +3,11 @@ layout: page
 title: Photo Gallery
 imgfolder: /public/gallery-pictures
 images:
-   - name: Skku_AP2_2022.jpg
-    thumb: Skku_AP2_2022.jpg
+   - name: Skku_AP2_2022.JPG
+    thumb: Skku_AP2_2022.JPG
     text: Group photo with SKKU President and newly hired professors at 600th Anniversary Hall, Sungkyunkwan University, Seoul, Korea, 17 Feb, 2022.
-  - name: Skku_AP1_2022.jpg
-    thumb: Skku_AP1_2022.jpg
+  - name: Skku_AP1_2022.JPG
+    thumb: Skku_AP1_2022.JPG
     text: Official appointment letter, given by Chairman with a peice of advice, at 600th Anniversary Hall, Sungkyunkwan University, Seoul, Korea, 17 Feb, 2022.
   - name: Skku_professors_2022.jpg
     thumb: Skku_professors_2022.jpg
