@@ -5,10 +5,10 @@ imgfolder: /public/gallery-pictures
 images:
   - name: HCR2023_1.jpg
     thumb: HCR2023_1.jpg
-    text: A click from HCR 2023 photo session, SKKU (Suwon Campus), Sept 2024.
+    text: Clicks from the HCR 2023 photo session, SKKU (Suwon Campus), Sept 2024.
   - name: HCR2023_2.jpg
     thumb: HCR2023_2.jpg
-    text: A click from HCR 2023 photo session, SKKU (Suwon Campus), Sept 2024.
+    text: Clicks from the HCR 2023 photo session, SKKU (Suwon Campus), Sept 2024.
   - name: Nobel1.jpg
     thumb: Nobel1.jpg
     text: A click from the Nobel Candidate Special Award Ceremony with SKKU VPs at Sungkyunkwan University, Seoul, Korea, May 2022.
