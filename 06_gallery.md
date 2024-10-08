@@ -6,8 +6,8 @@ images:
   - name: HCR2023_1.jpg
     thumb: HCR2023_1.jpg
     text: A click from HCR 2023 photo session, SKKU (Suwon Campus), Sept 2024.
-  - name: HCR2023_2.JPG
-    thumb: HCR2023_2.JPG
+  - name: HCR2023_2.jpg
+    thumb: HCR2023_2.jpg
     text: A click from HCR 2023 photo session, SKKU (Suwon Campus), Sept 2024.
   - name: Skku_AP2_2022.JPG
     thumb: Skku_AP2_2022.JPG
