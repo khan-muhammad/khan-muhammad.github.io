@@ -3,8 +3,8 @@ layout: page
 title: Photo Gallery
 imgfolder: /public/gallery-pictures
 images:
-  - name: HCR2023_1.JPG
-    thumb: HCR2023_1.JPG
+  - name: HCR2023_1.jpg
+    thumb: HCR2023_1.jpg
     text: A click from HCR 2023 photo session, SKKU (Suwon Campus), Sept 2024.
   - name: HCR2023_2.JPG
     thumb: HCR2023_2.JPG
